@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Check LES seminar page: https://www.epe.ed.tum.de/es/aktuelles/events/
+DURATION:PT15M
+DTSTART:20260505T070000Z
+SUMMARY:TUM LES: Seminar information page updated
+UID:37608cb3a1ee2539317d@tum-les-calendar
+END:VEVENT
+END:VCALENDAR
