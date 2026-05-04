@@ -1,11 +1,52 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Check LES seminar page: https://www.epe.ed.tum.de/es/aktuelles/events/
-DURATION:PT15M
-DTSTART:20260505T070000Z
-SUMMARY:TUM LES: Seminar information page updated
-UID:37608cb3a1ee2539317d@tum-les-calendar
+DESCRIPTION:Speaker/info: (vorläufiger Titel) MARTIN GmbH für Umwelt- und Energietechnik\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20260119T173000Z
+LOCATION:Online webinar
+DTSTART:20260119T160000Z
+SUMMARY:TUM LES/VDI: Entwicklungen in der Müllverbrennung
+UID:0958df645f8f5b4f4cc5@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker/info: Prof. Dr. Anke Weidlich – INATECH Universität Freiburg\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20251027T173000Z
+LOCATION:Online webinar
+DTSTART:20251027T160000Z
+SUMMARY:TUM LES/VDI: Lokale Preissignale durch dynamische Netzentgelte
+UID:e8d1c860ceaa3fbf90e0@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker/info: Dr. Kai Zosseder\, Leiter der Gruppe Geothermie am Lehrstuhl für Hydrogeologie der Technischen Universität München\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20260209T173000Z
+LOCATION:Online webinar
+DTSTART:20260209T160000Z
+SUMMARY:TUM LES/VDI: Saisonale Wärmespeicherung im Untergrund als Schlüssel für die Dekarbonisierung von Fernwärmenetzen
+UID:233f3599feff2974e4dd@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker/info: Dr.-Ing. Ulrich Hueck\, CEO & Co-Founder – Hueck Solar Energy GmbH\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20251208T173000Z
+LOCATION:Online webinar
+DTSTART:20251208T160000Z
+SUMMARY:TUM LES/VDI: Game Changer Technology for Concentrated Solar Power
+UID:bdd1756f84407a8f783a@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker/info: Prof. Jochen Großmann\, Geschäftsführer und Gründer von Gicon\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20260302T173000Z
+LOCATION:Online webinar
+DTSTART:20260302T160000Z
+SUMMARY:TUM LES/VDI: Die GICON®-Höhenwindrad Technologie – von der Idee zur höchsten Windkraftanlage der Welt
+UID:441a8c8dd51c81a8434d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker/info: (vorläufiger Titel) Ertan Yilmaz\, Portfolio Manager Hydrogen & Green Fuels – Siemens Energy\n\nSource PDF: https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pdf/programm_vdi-ak_et_vortragsankuendigung_2025_26.pdf
+DTEND:20251117T173000Z
+LOCATION:Online webinar
+DTSTART:20251117T160000Z
+SUMMARY:TUM LES/VDI: Gaskraftwerke der Zukunft
+UID:d7495588e85f75929f30@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
