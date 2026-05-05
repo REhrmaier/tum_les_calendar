@@ -1,0 +1,487 @@
+[
+  {
+    "title": "AI for Chip Design",
+    "start": "2026-05-06T13:00:00+02:00",
+    "end": "2026-05-06T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Jiang Hu",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Jiang Hu on “AI for Chip Design”",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|06.05.2026|AI for Chip Design|Prof. Jiang Hu",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "turbopuffer: an object-storage native database for search",
+    "start": "2026-05-06T13:00:00-04:00",
+    "end": "2026-05-06T14:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "turbopuffer: an object-storage native database for search For the Zoom passcode, please contact markakis@mit.edu&nbsp;---Abstract: turbopuffer is an object storage-native search engine. It puffs data into a tiered NVMe SSD and RAM cache to achieve sub-10ms warm query latency. The storage engine minimizes roundtrips to object storage to limit cold latency and maximize concurrent IOPS. It even drives consensus with object storage through conditional writes.To build a successful, independent database you need three conditions:1. A new workload that compels every company on earth to put that workload in your database, either directly or indirectly2. A new storage architecture, enabled by recent technological advances, that uniquely serves that new workload3. The ambition to service every query plan in the limitIn this talk, I'll disassemble turbopuffer's architecture and the design philosophy which has guided it.Bio: Xavier is a founding engineer at turbopuffer, where he's worked to scale vector search to billion scale and beyond, powering the largest users on the market. Previously he was a post-doc at ETH and did his PhD at Université Paris-Saclay on the formal verification of Rust programs during which he developed the Creusot program verifier.&nbsp;---For the Zoom passcode, please contact markakis@mit.edu TBD Modern SNARGitecture: New Constructions of Succinct Non-interactive Arguments Lali Devadas ToC, CSAIL, EECS Part Of Thesis Defense 2:00 P - 3:00 P Location 32-G449 Kiva/Patil",
+    "categories": [
+      "Finance"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|turbopuffer: an object-storage native database for search|2026-05-06T13:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Understanding Modern Machine Learning: Architecture Based Complexity",
+    "start": "2026-05-06T16:15:00-04:00",
+    "end": "2026-05-06T17:15:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Understanding Modern Machine Learning: Architecture Based Complexity Abstract: Information Theory views learning as universal prediction under log loss, characterized through regret bounds. We propose a framework that provides non-uniform, model dependent bounds utilizing an effective notion of architecture-based model complexity. This complexity is defined by the probability mass or volume of the set of all models in the vicinity of the target model \\theta_0, in an informational distance. This volume might be hard to evaluate, yet by local analysis it is related to spectral properties of the expected Hessian or the Fisher Information Matrix at \\theta_0, leading to tractable approximations. We argue that successful architectures possess a broad complexity spectrum, enabling learning in highly over-parameterized model classes. The framework sheds light on the role of inductive biases, the effectiveness of the stochastic gradient descent (SGD) algorithm (but also other algorithms), and phenomena such as flat minima. It unifies online, batch, supervised, and generative settings, and applies across the stochastic-realizable and agnostic regimes. Moreover, it provides insights into the success of modern machine-learning architectures, such as deep neural networks and transformers, suggesting that their broad complexity range naturally arises from their layered structure. These insights open the door to the design of alternative architectures with potentially comparable or even superior performance.Joint work with Rudiger Urbanke and Yaniv Fogel TBD May 7, 2026 [THESIS DEFENSE] Practical DB-OS Co-Design for Modern, High-Performance Database Engines Xinjing Zhou CSAIL Part Of Thesis Defense 10:00 A - 12:00 P Location 32-D463",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MIT CSAIL Events|Understanding Modern Machine Learning: Architecture Based Complexity|2026-05-06T16:15:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation",
+    "start": "2026-05-07T13:00:00-04:00",
+    "end": "2026-05-07T15:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation Abstract:&nbsp;Achieving human-level dexterity in robotic manipulation will require systems that can perceive and reason about physical contact. While tactile sensing has long demonstrated its value in manipulation, its full potential remains largely underexplored within modern robot policy learning. This thesis explores the role of camera-based tactile sensing in contact-rich dexterous manipulation. We present novel curved tactile sensor designs (GelSight360 and RainbowSight) that enable high-resolution sensing at fingertip scale for integration onto dexterous robotic hands. We also demonstrate the value of tactile feedback through two manipulation systems: a bimanual visuotactile system for folding and hanging garments from occluded configurations and a system for localizing and retrieving objects through touch alone in vision-free environments. Together, this work takes steps toward making camera-based tactile sensing a practical and scalable component of dexterous robotic manipulation.Zoom Link: https://mit.zoom.us/j/97290533973?pwd=YIDNLtJNN7K2BQCYFm4dnAurNMCpsH.1Please email Megha Tippur (mhtippur [at] mit [dot] edu) for the Zoom password.&nbsp; TBD Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs) Dr. Stephen Wolfram Wolfram Research Part Of Hot Topics in Computing 4:00 P - 5:00 P Location 32-G449 Patil/Kiva Seminar Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 95,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation|2026-05-07T13:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Hot Topics in Computing",
+    "start": "2026-05-07T16:00:00-04:00",
+    "end": "2026-05-07T17:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs) Join us for the next CSAIL Hot Topics in Computing with Stephen Wolfram: Making the World Computable: from Foundations to Technology (for Humans and AIs)Bio: Stephen Wolfram is the Founder &amp; CEO of Wolfram Research, the creator of Mathematica, Wolfram|Alpha &amp; Wolfram Language, the author of A New Kind of Science and other books, and the originator of the Wolfram Physics Project. TBD May 8, 2026 Toward Energy-Optimal AI Mosharaf Chowdhury University of Michigan 11:00 A - 12:00 P Location Virtual seminar: Zoom registration required at https://mit.zoom.us/meeting/register/zZrJBJflRASG9v-H5y628A Virtual",
+    "categories": [
+      "Energy",
+      "AI",
+      "Physics"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Hot Topics in Computing|2026-05-07T16:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)",
+    "start": "2026-05-11T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11, 2026 12:00 PM - 1:00 PM We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American manufacturing. Working with the Census Bureau to collect detailed large-scale data for 2017 and 2021, we focus on AI-related technologies with industrial applications. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "Finance",
+      "AI"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)|2026-05-11T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World",
+    "start": "2026-05-11T10:00:00-04:00",
+    "end": "2026-05-11T12:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World Abstract:In traditional graphics, simulation success is defined by visual plausibility. If a simulation looks correct to human eyes, the task is complete. However, as simulation moves from digital content creation to domains like robotics, physical design, and engineering, the goal shifts to physical consequence, where simulation errors lead to real-world failure. High-fidelity simulators exist for these domains, but they act as 'forward-only oracles' that lack the gradients necessary for deep physical reasoning and optimization. Conversely, while pure machine learning models offer fast reasoning and data-adaptability, they often lack the physical consistency required for high-stakes deployment.In this talk, I will present a framework for Physical AI that bridges these two paradigms. I will first introduce differentiable simulation engines that transform physics into usable gradients for optimization, enabling the unified co-design of form and control. I will demonstrate this on diverse applications including the inverse design of fluidic devices and artificial heart, policy learning for assistive dressing robots, and the creation of simulation-ready digital twins from 3D scans. Finally, I will discuss how to move beyond idealized modeling equations using Neural Modular Learning, enabling systems to adapt to complex, real-world dynamics from measurements during operation. TBD [ARCH Seminar] Bridging the gap between software and hardware Lana Josipović ETH Zurich 11:15 A - 12:30 P Location 32-G825",
+    "categories": [
+      "AI",
+      "Physics"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+35:energy system",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World|2026-05-11T10:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Turbulence Ahead: Economic Policies for Decarbonizing Aviation",
+    "start": "2026-05-12T11:30:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Sebastian Rausch",
+    "affiliation": "University of Heidelberg & ZEW",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Sebastian Rausch. Affiliation: University of Heidelberg & ZEW. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Turbulence Ahead: Economic Policies for Decarbonizing Aviation|2026-05-12T11:30:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
+    "start": "2026-05-13T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Machine Learning Natural Language Processing Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Wolfgang Lehrach | Code World Models for General Game Playing|2026-05-13T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes",
+    "start": "2026-05-13T13:00:00+02:00",
+    "end": "2026-05-13T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Dr. Gianluca Pauletto",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Dr. Gianluca Pauletto on “Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|13.05.2026|Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes|Dr. Gianluca Pauletto",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof",
+    "start": "2026-05-13T17:00:00-04:00",
+    "end": "2026-05-13T18:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a huge industry, to an extent it has lost its way. What is needed to get us back on track to true intelligence? Most of all we need agents that learn continually from their first-person experience. We also need world models and planning. We need knowledge that is high-level and learnable. We need to meta-learn how to generalize. The Oak architecture is an approach based on reinforcement learning that seeks to satisfy all these needs and which has three special features. First, all of its components learn continually. Second, each learned weight has a dedicated step-size parameter that is meta-learned using online cross-validation. And third, abstractions in state and time are continually created in a five-step progression: 1) create a new feature, 2) pose a subproblems to achieve the feature, 3) learn to solve the subproblem, 4) learn a transition (world) model of the solution, and 5) plan using the transition model. The Oak architecture is rather meaty; in this talk I will give an outline and point to the many works, prior and contemporaneous, that are contributing to its overall vision of how superintelligence can arise from an agent’s experience.Bio: Richard Sutton is a recipient of the ACM Turing Award, the highest distinction in computing science. He is also a fellow of the Royal Society of London, the Royal Society of Canada, and the Association for the Advancement of Artificial Intelligence. At the University of Alberta, Sutton teaches and designs learning algorithms for artificial intelligence and reinforcement learning. At the Alberta Machine Intelligence Institute, he is Chief Scientific Advisor and a Canada CIFAR AI chair. Earlier, he studied at Stanford University and the University of Massachusetts, and worked at GTE Labs, AT&amp;T Labs, and DeepMind. His scientific publications have been cited about 180,000 times and include the defining textbook on reinforcement learning. Sutton’s research emphasizes learning from the agent’s first-person experience without training from a teacher or a prepared dataset. He is also a libertarian, a chess player, and a cancer survivor.&nbsp; TBD May 14, 2026 CSAIL Open Studios: Performing arts 10:00 A - 4:00 P Location TBD",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof|2026-05-13T17:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
+    "start": "2026-05-18T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Arvind Narayanan | Adapting to the Transformation of Knowledge Work May 18, 2026 12:00 PM - 1:00 PM The possibility that AI will automate most cognitive labor is worth taking seriously. How should we adapt to this transformation? I start from the perspective, articulated in the essay “AI as normal technology”, that the true bottlenecks lie downstream of capabilities and that AI’s impacts will unfold gradually over decades. If this is true, there are major gaps in our current evidence infrastructure, because it over-emphasizes the capability layer. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "Finance",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Arvind Narayanan | Adapting to the Transformation of Knowledge Work|2026-05-18T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Inside the 2026 AI Index Report | Stanford HAI",
+    "start": "2026-05-20T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Inside the 2026 AI Index Report | Stanford HAI May 20, 2026 12:00 PM - 1:15 PM The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence. Economy, Markets Energy, Environment Finance, Business",
+    "categories": [
+      "Energy",
+      "Finance",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:finance",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Inside the 2026 AI Index Report | Stanford HAI|2026-05-20T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition",
+    "start": "2026-05-27T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition May 27, 2026 12:00 PM - 1:15 PM Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first. Privacy, Safety, Security Law Enforcement and Justice 2026 RAISE Health Symposium",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition|2026-05-27T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "2026 RAISE Health Symposium",
+    "start": "2026-06-02T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 2026 RAISE Health Symposium Jun 02, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11. Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Seminar Jun 03, 2026 12:00 PM - 1:15 PM Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "AI",
+      "Medicine"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+25:medicine",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|2026 RAISE Health Symposium|2026-06-02T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition",
+    "start": "2026-06-03T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Jun 03, 2026 12:00 PM - 1:15 PM Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation. Ethics, Equity, Inclusion Arts, Humanities Previous Events at HAI",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition|2026-06-03T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Quantencomputer: Eine Revolution der Rechenwelt?",
+    "start": "2026-06-16T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer Events | MCQST Colloquium MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: Munich Quantum Center Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50"
+    ],
+    "uid_seed": "MCQST Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation",
+    "start": "2026-07-10T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 28 July 2026 MCQST Colloquium: Alex Altland MCQST Colloquium | Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "Munich Quantum Center Events|Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation|2026-07-10T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  }
+]

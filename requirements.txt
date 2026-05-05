@@ -1,5 +1,12 @@
 requests
 beautifulsoup4
+lxml
 ics
+icalendar
+python-dateutil
+dateparser
 pypdf
+PyYAML
+feedparser
+rapidfuzz
 

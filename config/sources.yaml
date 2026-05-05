@@ -1,0 +1,181 @@
+sources:
+  - name: TUM LES Startseite
+    url: https://www.epe.ed.tum.de/es/startseite/
+    parser: les
+    source_weight: 60
+    source_group: les
+  - name: TUM MEP Termine
+    url: https://www.mep.tum.de/mep/aktuelles/termine/
+    parser: mep
+    source_weight: 60
+    source_group: mep
+  - name: TUM Speakers Series
+    url: https://www.speakersseries.de/
+    parser: discover
+    source_weight: 80
+    source_group: tum_must
+  - name: TUM IAS Wednesday Coffee Talks
+    url: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/
+    parser: ias_coffee
+    source_weight: 65
+    source_group: tum_ias
+  - name: TUM IAS Events
+    url: https://www.ias.tum.de/ias/news-events-insights/events/
+    parser: discover
+    source_weight: 65
+    source_group: tum_ias
+  - name: TUM Central Events
+    url: https://www.tum.de/en/news-and-events/events/event-overview
+    parser: discover
+    source_weight: 20
+    source_group: generic
+  - name: TUM Natural Sciences Events
+    url: https://www.nat.tum.de/en/nat/latest/events/
+    parser: discover
+    source_weight: 20
+    source_group: generic
+  - name: TUM EMT
+    url: https://www.epe.ed.tum.de/en/emt/homepage/
+    parser: emt
+    source_weight: 60
+    source_group: emt
+  - name: TUM Building Technology and Climate
+    url: https://www.arc.ed.tum.de/en/klima/start/
+    parser: discover
+    source_weight: 20
+    source_group: generic
+  - name: TUM SEEM
+    url: https://www.ep.mgt.tum.de/cem/seem-seminar/
+    parser: seem
+    source_weight: 60
+    source_group: tum_eco
+  - name: TUM School of Management Seminar
+    url: https://www.mgt.tum.de/faculty-research/seminar
+    parser: discover
+    source_weight: 50
+    source_group: tum_eco
+  - name: TUM MIBE Events
+    url: https://www.bioengineering.tum.de/events/1
+    parser: mibe
+    source_weight: 50
+    source_group: generic
+  - name: Munich Neuroscience Calendar
+    url: http://munich-neuroscience-calendar.de/
+    parser: discover
+    source_weight: 50
+    source_group: generic
+  - name: MCML Events
+    url: https://mcml.ai/events/
+    parser: mcml
+    source_weight: 55
+    source_group: ml
+  - name: MDSI Events
+    url: https://www.mdsi.tum.de/en/mdsi/latest-info/events/
+    parser: discover
+    source_weight: 55
+    source_group: ml
+  - name: MCQST Events
+    url: https://www.mcqst.de/news-and-events/events/
+    parser: mcqst
+    source_weight: 60
+    source_group: quantum
+  - name: Munich Quantum Center Events
+    url: https://www.munich-quantum-center.de/news-and-events/events/index.html
+    parser: mcqst
+    source_weight: 60
+    source_group: quantum
+  - name: Stanford HAI Events
+    url: https://events.stanford.edu/department/hai/calendar
+    parser: hai
+    source_weight: 55
+    source_group: external
+  - name: Stanford HAI Events Main
+    url: https://hai.stanford.edu/events
+    parser: hai
+    source_weight: 55
+    source_group: external
+  - name: Stanford HAI Events Upcoming
+    url: https://hai.stanford.edu/events/upcoming-events
+    parser: hai
+    source_weight: 55
+    source_group: external
+  - name: Stanford Energy Seminar Series
+    url: https://energy.stanford.edu/events/energy-seminar/energy-seminar-schedule
+    parser: stanford_energy
+    source_weight: 55
+    source_group: external
+  - name: Stanford Energy Upcoming Events
+    url: https://energy.stanford.edu/news-events/events/upcoming-events
+    parser: stanford_energy
+    source_weight: 55
+    source_group: external
+  - name: MIT CSAIL Events
+    url: https://www.csail.mit.edu/events
+    parser: csail
+    source_weight: 55
+    source_group: external
+  - name: MIT Calendar CSAIL Department
+    url: https://calendar.mit.edu/department/comp_sci_artificial_intelligence_lab
+    parser: discover
+    source_weight: 55
+    source_group: external
+  - name: MIT Sloan Seminars
+    url: https://mitsloan.mit.edu/faculty/academic-groups/seminars
+    parser: discover
+    source_weight: 50
+    source_group: external
+  - name: MIT Sloan Finance Seminars
+    url: https://mitsloan.mit.edu/faculty/academic-groups/finance/seminars-events-finance-group
+    parser: mit_sloan_finance
+    source_weight: 50
+    source_group: external
+  - name: MIT Sloan Finance Fallback
+    url: https://sloangroups.mit.edu/saas/home/
+    parser: mit_sloan_finance
+    source_weight: 50
+    source_group: external
+  - name: MIT General Calendar
+    url: https://calendar.mit.edu/
+    parser: discover
+    source_weight: 20
+    source_group: external
+  - name: Harvard SEAS Events
+    url: https://events.seas.harvard.edu/
+    parser: harvard_seas
+    source_weight: 55
+    source_group: external
+  - name: IAS Princeton Physics Events
+    url: https://www.ias.edu/sns/events/physics
+    parser: discover
+    source_weight: 55
+    source_group: external
+  - name: ResearchSeminars
+    url: https://researchseminars.org/
+    parser: discover
+    source_weight: 35
+    source_group: external
+  - name: AEA Online Seminars
+    url: https://www.aeaweb.org/resources/online-seminars
+    parser: discover
+    source_weight: 50
+    source_group: external
+  - name: FMA Virtual Seminar Series
+    url: https://www.fma.org/virtual-seminar-series
+    parser: discover
+    source_weight: 50
+    source_group: external
+  - name: NBER Conferences
+    url: https://www.nber.org/conferences
+    parser: discover
+    source_weight: 50
+    source_group: external
+  - name: Berkeley CBE Events
+    url: https://cbe.berkeley.edu/events/
+    parser: discover
+    source_weight: 50
+    source_group: external
+  - name: LBNL BIES
+    url: https://bies.lbl.gov/
+    parser: discover
+    source_weight: 50
+    source_group: external

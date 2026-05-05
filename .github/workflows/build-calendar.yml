@@ -2,7 +2,7 @@ name: Build calendar
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs/seminars.ics
+          git add docs/seminars.ics docs/index.html docs/events_debug.json docs/rejected_events_debug.json
           git commit -m "Update calendar" || echo "No changes"
           git push
