@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Details: Cand.-Ing. Gündogar\, Görkem: “Python-based expansion planning of the Bavarian hydrogen and CO2 infrastructure”\n\nSource: https://www.epe.ed.tum.de/es/startseite/
-DTEND:20260504T120000Z
-LOCATION:TUM LES\, Raum 3707 / Teams
-DTSTART:20260504T103000Z
-SUMMARY:TUM LES Seminar: Montagsseminar
-UID:681e9276d32e096d2eb2@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Details: Kramer\, Noah\, M.Sc.: “Reaktorentwicklung für Fest-Fest-Phasenwechselmaterialien: Machen wir was handFesTES draus!” Irrgang\, Ludwig\, M.Sc.: “Kälte aus Tiefengeothermie – cooles Konzept oder teurer Spaß?”\n\nSource: https://www.epe.ed.tum.de/es/startseite/
 DTEND:20260428T120000Z
 LOCATION:TUM LES\, Raum 3707 / Teams
 DTSTART:20260428T103000Z
 SUMMARY:TUM LES Seminar: LES-Doktorandenseminar
-UID:2e7d7e8601fdc954ecf7@tum-les-calendar
+UID:52be19ad3dde3d97ff82@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Details: Cand.-Ing. Gündogar\, Görkem: “Python-based expansion planning of the Bavarian hydrogen and CO2 infrastructure”\n\nSource: https://www.epe.ed.tum.de/es/startseite/
+DTEND:20260504T120000Z
+LOCATION:TUM LES\, Raum 3707 / Teams
+DTSTART:20260504T103000Z
+SUMMARY:TUM LES Seminar: Montagsseminar
+UID:c3e9a08398a6bfb13749@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260725
+DESCRIPTION:Details: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.\n\nSource: https://www.mep.tum.de/mep/aktuelles/termine/
+LOCATION:TUM MEP
+SUMMARY:TUM MEP Termin: 13. MEP Energy Colloquium
+UID:4c468578c4bbed34dc09@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
