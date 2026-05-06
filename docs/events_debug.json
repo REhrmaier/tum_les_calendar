@@ -176,7 +176,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World Abstract:In traditional graphics, simulation success is defined by visual plausibility. If a simulation looks correct to human eyes, the task is complete. However, as simulation moves from digital content creation to domains like robotics, physical design, and engineering, the goal shifts to physical consequence, where simulation errors lead to real-world failure. High-fidelity simulators exist for these domains, but they act as 'forward-only oracles' that lack the gradients necessary for deep physical reasoning and optimization. Conversely, while pure machine learning models offer fast reasoning and data-adaptability, they often lack the physical consistency required for high-stakes deployment.In this talk, I will present a framework for Physical AI that bridges these two paradigms. I will first introduce differentiable simulation engines that transform physics into usable gradients for optimization, enabling the unified co-design of form and control. I will demonstrate this on diverse applications including the inverse design of fluidic devices and artificial heart, policy learning for assistive dressing robots, and the creation of simulation-ready digital twins from 3D scans. Finally, I will discuss how to move beyond idealized modeling equations using Neural Modular Learning, enabling systems to adapt to complex, real-world dynamics from measurements during operation. TBD [ARCH Seminar] Bridging the gap between software and hardware Lana Josipović ETH Zurich 11:15 A - 12:30 P Location 32-G825",
+    "description": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World Abstract:In traditional graphics, simulation success is defined by visual plausibility. If a simulation looks correct to human eyes, the task is complete. However, as simulation moves from digital content creation to domains like robotics, physical design, and engineering, the goal shifts to physical consequence, where simulation errors lead to real-world failure. High-fidelity simulators exist for these domains, but they act as 'forward-only oracles' that lack the gradients necessary for deep physical reasoning and optimization. Conversely, while pure machine learning models offer fast reasoning and data-adaptability, they often lack the physical consistency required for high-stakes deployment.In this talk, I will present a framework for Physical AI that bridges these two paradigms. I will first introduce differentiable simulation engines that transform physics into usable gradients for optimization, enabling the unified co-design of form and control. I will demonstrate this on diverse applications including the inverse design of fluidic devices and artificial heart, policy learning for assistive dressing robots, and the creation of simulation-ready digital twins from 3D scans. Finally, I will discuss how to move beyond idealized modeling equations using Neural Modular Learning, enabling systems to adapt to complex, real-world dynamics from measurements during operation.Thesis Committee: Wojciech Matusik (Supervisor), William T. Freeman and Jonathan Ragan-Kelly TBD [ARCH Seminar] Bridging the gap between software and hardware Lana Josipović ETH Zurich 11:15 A - 12:30 P Location 32-G825",
     "categories": [
       "AI",
       "Physics"
@@ -445,7 +445,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer Events | MCQST Colloquium MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: Munich Quantum Center Events",
+    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Events MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -470,7 +470,7 @@
     "source_name": "Munich Quantum Center Events",
     "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
     "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 28 July 2026 MCQST Colloquium: Alex Altland MCQST Colloquium | Events",
+    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events",
     "categories": [
       "Quantum"
     ],
@@ -481,6 +481,32 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation|2026-07-10T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Girls for Science 2026",
+    "start": "2026-07-24T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More 28 July 2026 MCQST Colloquium: Alex Altland MCQST Colloquium | Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "Munich Quantum Center Events|Girls for Science 2026|2026-07-24T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   }
