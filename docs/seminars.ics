@@ -18,11 +18,33 @@ SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For H
 UID:d18599c4758c8617b639cca3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: turbopuffer: an object-storage native database for search For the Zoom passcode\, please contact markakis@mit.edu&nbsp\;---Abstract: turbopuffer is an object storage-native search engine. It puffs data into a tiered NVMe SSD and RAM cache to
-DTEND:20260506T180000Z
-DTSTART:20260506T170000Z
-SUMMARY:[Finance] turbopuffer: an object-storage native database for search
-UID:684850e3af8f9bed1fdb09c7@tum-les-calendar
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation\, Optimization\, and Learning for Physical World Abstract:In traditional graphics\, simulation success is defined by visual plausibility. If a simulation looks co
+DTEND:20260511T160000Z
+DTSTART:20260511T140000Z
+SUMMARY:[AI] Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation\, Optimization\, and Learning for Physical World
+UID:66c19625e6d873c6080f037e@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton\, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a hug
+DTEND:20260513T220000Z
+DTSTART:20260513T210000Z
+SUMMARY:[AI] Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof
+UID:ed776d370cf168a362d8e13c@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: 2026 Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11\, 2026 12:00 PM - 1:00 PM We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American
+DTEND:20260511T083000Z
+LOCATION:12:00 PM - 1:00 PM
+DTSTART:20260511T070000Z
+SUMMARY:[Finance] Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)
+UID:4e898be6474b6986c6e29eaf@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation Abstract:&nbsp\;Achieving human-level dexterity in robotic manipulation will require systems that can perceive and reason about physical contact. While tactile s
+DTEND:20260507T190000Z
+DTSTART:20260507T170000Z
+SUMMARY:[General High Impact] THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation
+UID:ffebccf739ec8013f3ccbc13@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
@@ -31,6 +53,13 @@ LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technolo
 DTSTART:20260602T070000Z
 SUMMARY:[AI] 2026 RAISE Health Symposium
 UID:9b698c0cf0a3ad161d30ada7@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs) Join us for the next CSAIL Hot Topics in Computing with Stephen Wolfram: Making the World Computable: from Foundations to Technology (
+DTEND:20260507T210000Z
+DTSTART:20260507T200000Z
+SUMMARY:[Energy] Hot Topics in Computing
+UID:b79f6a316ece16c5e4db4c37@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13\, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains\, relying on them for direct policy generation in games often results in illeg
@@ -49,26 +78,11 @@ SUMMARY:[General High Impact] Turbulence Ahead: Economic Policies for Decarboniz
 UID:1f5a3dc6e5ea84c6b1e5c9c4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Dr. Gianluca Pauletto\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Dr. Gianluca Pauletto on “Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes”
-DTEND:20260513T120000Z
-LOCATION:Online
-DTSTART:20260513T110000Z
-SUMMARY:[General High Impact] Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes — Dr. Gianluca Pauletto
-UID:8153c3cd02059810742596f2@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton\, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a hug
-DTEND:20260513T220000Z
-DTSTART:20260513T210000Z
-SUMMARY:[AI] Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof
-UID:ed776d370cf168a362d8e13c@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs) Join us for the next CSAIL Hot Topics in Computing with Stephen Wolfram: Making the World Computable: from Foundations to Technology (
-DTEND:20260507T210000Z
-DTSTART:20260507T200000Z
-SUMMARY:[Energy] Hot Topics in Computing
-UID:b79f6a316ece16c5e4db4c37@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST C
+DTEND:20260615T233000Z
+DTSTART:20260615T220000Z
+SUMMARY:[Quantum] Quantencomputer: Eine Revolution der Rechenwelt?
+UID:3504aceb983bd9841beb2106@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
@@ -86,50 +100,6 @@ SUMMARY:[AI] Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–
 UID:4bfae35980617e8d33e28c7b@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation\, Optimization\, and Learning for Physical World Abstract:In traditional graphics\, simulation success is defined by visual plausibility. If a simulation looks co
-DTEND:20260511T160000Z
-DTSTART:20260511T140000Z
-SUMMARY:[AI] Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation\, Optimization\, and Learning for Physical World
-UID:66c19625e6d873c6080f037e@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Jiang Hu\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Jiang Hu on “AI for Chip Design”
-DTEND:20260506T120000Z
-LOCATION:Online
-DTSTART:20260506T110000Z
-SUMMARY:[AI] AI for Chip Design — Prof. Jiang Hu
-UID:54823b716ddb8d9714c7ace4@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST C
-DTEND:20260615T233000Z
-DTSTART:20260615T220000Z
-SUMMARY:[Quantum] Quantencomputer: Eine Revolution der Rechenwelt?
-UID:3504aceb983bd9841beb2106@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Understanding Modern Machine Learning: Architecture Based Complexity Abstract: Information Theory views learning as universal prediction under log loss\, characterized through regret bounds. We propose a framework that provides non-uniform\,
-DTEND:20260506T211500Z
-DTSTART:20260506T201500Z
-SUMMARY:[AI] Understanding Modern Machine Learning: Architecture Based Complexity
-UID:a4cbba3317ae91a8e34902df@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: 2026 Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11\, 2026 12:00 PM - 1:00 PM We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American
-DTEND:20260511T083000Z
-LOCATION:12:00 PM - 1:00 PM
-DTSTART:20260511T070000Z
-SUMMARY:[Finance] Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)
-UID:4e898be6474b6986c6e29eaf@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation Abstract:&nbsp\;Achieving human-level dexterity in robotic manipulation will require systems that can perceive and reason about physical contact. While tactile s
-DTEND:20260507T190000Z
-DTSTART:20260507T170000Z
-SUMMARY:[General High Impact] THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation
-UID:ffebccf739ec8013f3ccbc13@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More
 DTEND:20260723T233000Z
 DTSTART:20260723T220000Z
@@ -143,5 +113,13 @@ LOCATION:12:00 PM - 1:15 PM
 DTSTART:20260520T070000Z
 SUMMARY:[Energy] Inside the 2026 AI Index Report | Stanford HAI
 UID:04eddb1467368f910555c599@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Dr. Gianluca Pauletto\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Dr. Gianluca Pauletto on “Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes”
+DTEND:20260513T120000Z
+LOCATION:Online
+DTSTART:20260513T110000Z
+SUMMARY:[General High Impact] Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes — Dr. Gianluca Pauletto
+UID:8153c3cd02059810742596f2@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
