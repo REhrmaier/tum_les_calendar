@@ -40,26 +40,12 @@ SUMMARY:[Finance] Kristina McElheran | The Rise of Industrial AI in America: Mic
 UID:4e898be6474b6986c6e29eaf@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation Abstract:&nbsp\;Achieving human-level dexterity in robotic manipulation will require systems that can perceive and reason about physical contact. While tactile s
-DTEND:20260507T190000Z
-DTSTART:20260507T170000Z
-SUMMARY:[General High Impact] THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation
-UID:ffebccf739ec8013f3ccbc13@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
 DTSTART:20260602T070000Z
 SUMMARY:[AI] 2026 RAISE Health Symposium
 UID:9b698c0cf0a3ad161d30ada7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs) Join us for the next CSAIL Hot Topics in Computing with Stephen Wolfram: Making the World Computable: from Foundations to Technology (
-DTEND:20260507T210000Z
-DTSTART:20260507T200000Z
-SUMMARY:[Energy] Hot Topics in Computing
-UID:b79f6a316ece16c5e4db4c37@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13\, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains\, relying on them for direct policy generation in games often results in illeg
