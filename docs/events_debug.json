@@ -28,34 +28,6 @@
     "reject_reasons": []
   },
   {
-    "title": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World",
-    "start": "2026-05-11T10:00:00-04:00",
-    "end": "2026-05-11T12:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World Abstract:In traditional graphics, simulation success is defined by visual plausibility. If a simulation looks correct to human eyes, the task is complete. However, as simulation moves from digital content creation to domains like robotics, physical design, and engineering, the goal shifts to physical consequence, where simulation errors lead to real-world failure. High-fidelity simulators exist for these domains, but they act as 'forward-only oracles' that lack the gradients necessary for deep physical reasoning and optimization. Conversely, while pure machine learning models offer fast reasoning and data-adaptability, they often lack the physical consistency required for high-stakes deployment.In this talk, I will present a framework for Physical AI that bridges these two paradigms. I will first introduce differentiable simulation engines that transform physics into usable gradients for optimization, enabling the unified co-design of form and control. I will demonstrate this on diverse applications including the inverse design of fluidic devices and artificial heart, policy learning for assistive dressing robots, and the creation of simulation-ready digital twins from 3D scans. Finally, I will discuss how to move beyond idealized modeling equations using Neural Modular Learning, enabling systems to adapt to complex, real-world dynamics from measurements during operation.Thesis Committee: Wojciech Matusik (Supervisor), William T. Freeman and Jonathan Ragan-Kelly TBD [ARCH Seminar] Bridging the gap between software and hardware Lana Josipović ETH Zurich 11:15 A - 12:30 P Location 32-G825",
-    "categories": [
-      "AI",
-      "Physics"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+35:energy system",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World|2026-05-11T10:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Turbulence Ahead: Economic Policies for Decarbonizing Aviation",
     "start": "2026-05-12T11:30:00+02:00",
     "end": null,
