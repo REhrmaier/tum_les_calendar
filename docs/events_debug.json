@@ -1,33 +1,5 @@
 [
   {
-    "title": "Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)",
-    "start": "2026-05-11T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:00 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11, 2026 12:00 PM - 1:00 PM We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American manufacturing. Working with the Census Bureau to collect detailed large-scale data for 2017 and 2021, we focus on AI-related technologies with industrial applications. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
-    "categories": [
-      "Finance",
-      "AI"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)|2026-05-11T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Turbulence Ahead: Economic Policies for Decarbonizing Aviation",
     "start": "2026-05-12T11:30:00+02:00",
     "end": null,

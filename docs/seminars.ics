@@ -25,14 +25,6 @@ SUMMARY:[AI] Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of 
 UID:ed776d370cf168a362d8e13c@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: 2026 Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11\, 2026 12:00 PM - 1:00 PM We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American
-DTEND:20260511T083000Z
-LOCATION:12:00 PM - 1:00 PM
-DTSTART:20260511T070000Z
-SUMMARY:[Finance] Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)
-UID:4e898be6474b6986c6e29eaf@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
