@@ -25,6 +25,35 @@
     "reject_reasons": []
   },
   {
+    "title": "A Theoretical Point of View on Machine Unlearning and Privacy",
+    "start": "2026-05-12T13:30:00-04:00",
+    "end": "2026-05-12T15:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "A Theoretical Point of View on Machine Unlearning and Privacy Abstract:How do machine learning models really “learn” the data?Modern models learn complex patterns and high-level structure from massive datasets, yet surprisingly, it is often possible to efficiently remove the influence of a single training example without significantly affecting overall performance. While this phenomenon may appear deceptively simple, it offers a powerful lens for understanding the learning and unlearning process itself.Machine Unlearning is motivated by privacy regulations and the growing demand for trustworthy AI. In practice, many successful methods rely on surprisingly simple operations such as gradient ascent or projection, while the main theoretical foundations, rooted in Differential Privacy theory, remain limited in scope and difficult to reconcile with strong empirical results. In this talk, I will present our novel unlearning criterion, rooted in learning theory and its implicit bias. I will discuss how the effect of a single data point can be isolated from the training process in several settings, and present a new perspective on practical and theoretically grounded unlearning.Short bio: I am a PhD student in the Department of Applied Mathematics and Computer Science at the Weizmann Institute of Science, advised by Prof. Adi Shamir. My research focuses on trustworthy AI, machine learning security, and the theory of deep learning, with an emphasis on adversarial robustness and machine unlearning. I combine theoretical analysis with practical methods, including empirical evaluation on modern learning systems. TBD Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Hadas Orgad Kempner Institute, Harvard 2:00 P - 3:00 P Location 45-792 45-792",
+    "categories": [
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|A Theoretical Point of View on Machine Unlearning and Privacy|2026-05-12T13:30:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
     "start": "2026-05-13T00:00:00-07:00",
     "end": null,
@@ -103,6 +132,34 @@
       "penalty:-25:exam"
     ],
     "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof|2026-05-13T17:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling",
+    "start": "2026-05-15T16:00:00+00:00",
+    "end": "2026-05-15T18:00:00+00:00",
+    "timezone": "UTC",
+    "speaker": "Tapio Schneider, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM), developed by the Climate Modeling Alliance (CliMA), which is performance-portable across modern computing architectures. The talk will cover key new concepts and results, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.",
+    "affiliation": null,
+    "location": "Rubenstein Commons | Meeting Room 5",
+    "online_url": null,
+    "source_name": "IAS Princeton Physics Events",
+    "source_url": "https://www.ias.edu/sns/events/physics",
+    "event_url": "https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3",
+    "description": "Topic: First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling Speakers: Tapio Schneider, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM), developed by the Climate Modeling Alliance (CliMA), which is performance-portable across modern computing architectures. The talk will cover key new concepts and results, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.",
+    "categories": [
+      "AI",
+      "Physics"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "IAS Princeton Physics Events|https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3|First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling|2026-05-15T16:00:00+00:00",
     "include": true,
     "reject_reasons": []
   },
