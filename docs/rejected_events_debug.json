@@ -1,8 +1,8 @@
 [
   {
     "title": "LES-Doktorandenseminar",
-    "start": "2026-04-28T12:30:00+02:00",
-    "end": "2026-04-28T14:00:00+02:00",
+    "start": "2026-05-19T12:30:00+02:00",
+    "end": "2026-05-19T14:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -11,28 +11,28 @@
     "source_name": "TUM LES Startseite",
     "source_url": "https://www.epe.ed.tum.de/es/startseite/",
     "event_url": "https://www.epe.ed.tum.de/es/startseite/",
-    "description": "Kramer, Noah, M.Sc.: “Reaktorentwicklung für Fest-Fest-Phasenwechselmaterialien: Machen wir was handFesTES draus!” Irrgang, Ludwig, M.Sc.: “Kälte aus Tiefengeothermie – cooles Konzept oder teurer Spaß?”",
+    "description": "Knösch, Svenja, M.Sc.: “Amines: Afraid of Commitment, Prone to Decay” Haimerl, Johannes, M.Sc.: “Der Letzte seiner Art – Geht das Feuer aus?” Lambert, Jerry, M.Sc.: “Fast & Furious 5: Heuristics Racing against MILP”",
     "categories": [
       "General High Impact"
     ],
-    "score": 60,
+    "score": 80,
     "score_reasons": [
       "source_weight:60",
+      "institution_signal:+20",
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "TUM LES Startseite|\t\t\t\tLES-Doktorandenseminar|2026-04-28T12:30:00+02:00|Kramer, Noah, M.Sc.: “Reaktorentwicklung für Fest-Fest-Phasenwechselmaterialien: Machen wir was handFesTES draus!” Irrgang, Ludwig, M.Sc.: “Kälte aus Tiefengeothermie – cooles Konzept oder teurer Spaß?”",
+    "uid_seed": "TUM LES Startseite|\t\t\t\tLES-Doktorandenseminar|2026-05-19T12:30:00+02:00|Knösch, Svenja, M.Sc.: “Amines: Afraid of Commitment, Prone to Decay” Haimerl, Johannes, M.Sc.: “Der Letzte seiner Art – Geht das Feuer aus?” Lambert, Jerry, M.Sc.: “Fast & Furious 5: Heuristics Racing against MILP”",
     "include": false,
     "reject_reasons": [
-      "past_event",
       "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
   {
     "title": "Montagsseminar",
-    "start": "2026-05-04T12:30:00+02:00",
-    "end": "2026-05-04T14:00:00+02:00",
+    "start": "2026-05-18T12:30:00+02:00",
+    "end": "2026-05-18T14:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -41,20 +41,20 @@
     "source_name": "TUM LES Startseite",
     "source_url": "https://www.epe.ed.tum.de/es/startseite/",
     "event_url": "https://www.epe.ed.tum.de/es/startseite/",
-    "description": "Cand.-Ing. Gündogar, Görkem: “Python-based expansion planning of the Bavarian hydrogen and CO2 infrastructure”",
+    "description": "Cand.-Ing. Miltschitzky, Leopold: “Modeling and Techno-Economic Analysis of CH₄ Separation via Rectification in sCO₂-based Geothermal Power Plants” Cand.-Ing. Schulze-Hoeing, Felix: “Vermessung einer mit Abgas angetriebenen Absorptionswärmepumpe”",
     "categories": [
       "General High Impact"
     ],
-    "score": 60,
+    "score": 80,
     "score_reasons": [
       "source_weight:60",
+      "institution_signal:+20",
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "TUM LES Startseite|\t\t\t\tMontagsseminar|2026-05-04T12:30:00+02:00|Cand.-Ing. Gündogar, Görkem: “Python-based expansion planning of the Bavarian hydrogen and CO2 infrastructure”",
+    "uid_seed": "TUM LES Startseite|\t\t\t\tMontagsseminar|2026-05-18T12:30:00+02:00|Cand.-Ing. Miltschitzky, Leopold: “Modeling and Techno-Economic Analysis of CH₄ Separation via Rectification in sCO₂-based Geothermal Power Plants” Cand.-Ing. Schulze-Hoeing, Felix: “Vermessung einer mit Abgas angetriebenen Absorptionswärmepumpe”",
     "include": false,
     "reject_reasons": [
-      "past_event",
       "generic_series_without_talk_title",
       "score_below_threshold"
     ]
@@ -84,6 +84,33 @@
     "include": false,
     "reject_reasons": [
       "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Improving plastics recycling from end-of-life vehicles",
+    "start": "2026-05-13T11:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM Central Events",
+    "source_url": "https://www.tum.de/en/news-and-events/events/event-overview",
+    "event_url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/improving-plastics-recycling-from-end-of-life-vehicles",
+    "description": "Each year, four to six million cars are scrapped in the EU—resulting in the loss of ressources. The EU End-of-Life Vehicles Regulation is intended to ensure that these materials are recovered and reused in new vehicles in the future. Researchers at the TUM have now analyzed a process developed within the Car2Car research project that enables plastics to remain within the recycling loop. The study shows potential climate benefits as well as the possibility of meeting upcoming EU requirements.",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 35,
+    "score_reasons": [
+      "source_weight:20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM Central Events|https://www.tum.de/en/news-and-events/all-news/press-releases/details/improving-plastics-recycling-from-end-of-life-vehicles|Improving plastics recycling from end-of-life vehicles|2026-05-13T11:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
       "score_below_threshold"
     ]
   },
@@ -924,90 +951,6 @@
     ]
   },
   {
-    "title": "Resource efficiency in space",
-    "start": "2026-03-23T11:21:00+01:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "TUM Central Events",
-    "source_url": "https://www.tum.de/en/news-and-events/events/event-overview",
-    "event_url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/resource-efficiency-in-space",
-    "description": "From lower-emission propulsion systems and servicing robots to photobioreactors for autonomous life support, researchers at TUM are developing technologies to make spaceflight more sustainable. They aim to balance growth with responsibility and ensure the long-term use of the orbit.",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 85,
-    "score_reasons": [
-      "source_weight:20",
-      "high_impact:+50",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Central Events|https://www.tum.de/en/news-and-events/all-news/press-releases/details/resource-efficiency-in-space|Resource efficiency in space|2026-03-23T11:21:00+01:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "From single molecules to extended layers: DFT-based studies of structure, electronics and transport",
-    "start": "2026-05-12T10:00:00+02:00",
-    "end": "2026-05-12T12:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Sibylle Gemming (TU Chemnitz)",
-    "affiliation": null,
-    "location": "MIBE E.126",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36455",
-    "description": "as part of Seminar of the Atomistic Modeling Center Speaker: Prof. Sibylle Gemming (TU Chemnitz)",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 35,
-    "score_reasons": [
-      "source_weight:20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36455|From single molecules to extended layers: DFT-based studies of structure, electronics and transport|2026-05-12T10:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Mesoporous Materials for Solar Energy Conversion",
-    "start": "2026-05-12T17:15:00+02:00",
-    "end": "2026-05-12T19:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Roland Marschall",
-    "affiliation": null,
-    "location": "CH 26411",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36452",
-    "description": "as part of GDCh Colloquium Speaker: Prof. Roland Marschall",
-    "categories": [
-      "Energy"
-    ],
-    "score": 35,
-    "score_reasons": [
-      "source_weight:20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36452|Mesoporous Materials for Solar Energy Conversion|2026-05-12T17:15:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Prof. Angela Gronenborn (U Pittsburgh): \"The magic of linking rings\"",
     "start": "2026-05-13T13:30:00+02:00",
     "end": "2026-05-13T14:30:00+02:00",
@@ -1225,7 +1168,7 @@
     ]
   },
   {
-    "title": "Seminar of the Atomistic Modeling Center",
+    "title": "Generative Molecular Dynamics",
     "start": "2026-05-26T10:00:00+02:00",
     "end": "2026-05-26T12:00:00+02:00",
     "timezone": "Europe/Berlin",
@@ -1235,8 +1178,8 @@
     "online_url": null,
     "source_name": "TUM Natural Sciences Events",
     "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "Speaker: Prof. Simon Olsson (Chalmers University of Technology)",
+    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36460",
+    "description": "as part of Seminar of the Atomistic Modeling Center Speaker: Prof. Simon Olsson (Chalmers University of Technology)",
     "categories": [
       "General High Impact"
     ],
@@ -1245,10 +1188,9 @@
       "source_weight:20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Seminar of the Atomistic Modeling Center|2026-05-26T10:00:00+02:00",
+    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36460|Generative Molecular Dynamics|2026-05-26T10:00:00+02:00",
     "include": false,
     "reject_reasons": [
-      "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
@@ -1503,7 +1445,7 @@
     ]
   },
   {
-    "title": "Lecture Series: Colloquium on Physical and Theoretical Chemistry",
+    "title": "Cracking the New-Particle Puzzle with Neon-Ice and Meister Propper: Lessons from Megacities for Future Urban Air",
     "start": "2026-06-12T10:30:00+02:00",
     "end": "2026-06-12T11:30:00+02:00",
     "timezone": "Europe/Berlin",
@@ -1513,20 +1455,19 @@
     "online_url": null,
     "source_name": "TUM Natural Sciences Events",
     "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "Speaker: Prof. Dominik Stolzenburg, Physikalische Chemie von Aerosolpartikeln, TU Wien; guest of Dr. Jozef Lengyel",
+    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36461",
+    "description": "as part of Lecture Series: Colloquium on Physical and Theoretical Chemistry Speaker: Prof. Dominik Stolzenburg, Physikalische Chemie von Aerosolpartikeln, TU Wien; guest of Dr. Jozef Lengyel",
     "categories": [
-      "General High Impact"
+      "Physics"
     ],
     "score": 35,
     "score_reasons": [
       "source_weight:20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Lecture Series: Colloquium on Physical and Theoretical Chemistry|2026-06-12T10:30:00+02:00",
+    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36461|Cracking the New-Particle Puzzle with Neon-Ice and Meister Propper: Lessons from Megacities for Future Urban Air|2026-06-12T10:30:00+02:00",
     "include": false,
     "reject_reasons": [
-      "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
@@ -2312,29 +2253,737 @@
     ]
   },
   {
-    "title": "source failure: TUM MIBE Events",
-    "start": null,
+    "title": "Turbulence Ahead: Economic Policies for Decarbonizing Aviation",
+    "start": "2026-05-12T11:30:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
-    "speaker": null,
+    "speaker": "Sebastian Rausch",
+    "affiliation": "University of Heidelberg & ZEW",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Sebastian Rausch. Affiliation: University of Heidelberg & ZEW. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Turbulence Ahead: Economic Policies for Decarbonizing Aviation|2026-05-12T11:30:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid interface technologies for recording and stimulation",
+    "start": "2026-05-12T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
     "affiliation": null,
     "location": null,
     "online_url": null,
     "source_name": "TUM MIBE Events",
     "source_url": "https://www.bioengineering.tum.de/events/1",
-    "event_url": null,
-    "description": "500 Server Error: Internal Server Error for url: https://www.bioengineering.tum.de/events/1",
-    "categories": [],
-    "score": 0,
-    "score_reasons": [
-      "source_error"
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation",
+    "description": "12.05.2026, Events MIBE & COS Seminar: Organoid interface technologies for recording and stimulation Sprecher: Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
     ],
-    "uid_seed": "TUM MIBE Events",
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation|MIBE & COS Seminar: Organoid interface technologies for recording and stimulation|2026-05-12T13:00:00+02:00",
     "include": false,
     "reject_reasons": [
-      "source_error"
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid interface technologies for recording and stimulation",
+    "start": "2026-05-12T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation",
+    "description": "12.05.2026, Events MIBE & COS Seminar: Organoid interface technologies for recording and stimulation Sprecher: Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
     ],
-    "http_status": 500
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation|MIBE & COS Seminar: Organoid interface technologies for recording and stimulation|2026-05-12T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid interface technologies for recording and stimulation",
+    "start": "2026-05-12T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation",
+    "description": "12.05.2026, Events MIBE & COS Seminar: Organoid interface technologies for recording and stimulation Sprecher: Prof. Bernhard Wolfrum Datum und Uhrzeit: Dienstag, 12. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-interface-technologies-for-recording-and-stimulation|MIBE & COS Seminar: Organoid interface technologies for recording and stimulation|2026-05-12T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration",
+    "start": "2026-05-05T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration",
+    "description": "05.05.2026, Events MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration Sprecher: Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration|MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration|2026-05-05T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration",
+    "start": "2026-05-05T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration",
+    "description": "05.05.2026, Events MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration Sprecher: Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration|MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration|2026-05-05T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration",
+    "start": "2026-05-05T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration",
+    "description": "05.05.2026, Events MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration Sprecher: Prof. Alessandra Moretti Datum und Uhrzeit: Dienstag, 05. Mai 2026, 13:00 Uhr",
+    "categories": [
+      "AI"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-human-cardiac-organoids-a-new-window-into-heart-development-disease-and-regeneration|MIBE & COS Seminar: Human cardiac organoids: A new window into heart development, disease, and regeneration|2026-05-05T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits",
+    "start": "2026-04-28T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits",
+    "description": "28.04.2026, Events MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits Sprecher: Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "categories": [
+      "Neuroscience"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits|MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits|2026-04-28T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits",
+    "start": "2026-04-28T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits",
+    "description": "28.04.2026, Events MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits Sprecher: Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "categories": [
+      "Neuroscience"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits|MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits|2026-04-28T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits",
+    "start": "2026-04-28T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits",
+    "description": "28.04.2026, Events MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits Sprecher: Prof. Simon Schäfer Datum und Uhrzeit: Dienstag, 28. April 2026, 13:00 Uhr",
+    "categories": [
+      "Neuroscience"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-reconstructing-the-human-brain-from-stem-cells-to-self-organizing-circuits|MIBE & COS Seminar: (Re)constructing the human brain: From stem cells to self-organizing circuits|2026-04-28T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine",
+    "start": "2026-04-21T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine",
+    "description": "21.04.2026, Events MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine Sprecher: Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "categories": [
+      "Medicine"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine|MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine|2026-04-21T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine",
+    "start": "2026-04-21T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine",
+    "description": "21.04.2026, Events MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine Sprecher: Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "categories": [
+      "Medicine"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine|MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine|2026-04-21T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine",
+    "start": "2026-04-21T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine",
+    "description": "21.04.2026, Events MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine Sprecher: Prof. Maximilian Reichert Datum und Uhrzeit: Dienstag, 21. April 2026, 13:00 Uhr",
+    "categories": [
+      "Medicine"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-organoid-technologies-in-translational-oncology-modeling-cancer-to-enable-precision-medicine|MIBE & COS Seminar: Organoid Technologies in Translational Oncology: Modeling Cancer to Enable Precision Medicine|2026-04-21T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling",
+    "start": "2026-04-14T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling",
+    "description": "14.04.2026, Events MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling Sprecher: Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling|MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling|2026-04-14T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling",
+    "start": "2026-04-14T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling",
+    "description": "14.04.2026, Events MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling Sprecher: Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling|MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling|2026-04-14T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling",
+    "start": "2026-04-14T13:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling",
+    "description": "14.04.2026, Events MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling Sprecher: Prof. Matthias Hebrok Datum und Uhrzeit: Dienstag, 14. April 2026, 13:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-cos-seminar-stem-cell-derived-pancreatic-organoids-for-therapy-and-cancer-modeling|MIBE & COS Seminar: Stem cell derived pancreatic organoids for therapy and cancer modeling|2026-04-14T13:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Talk on Generative AI-based protein design to understand and drug cancer signaling",
+    "start": "2026-03-23T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "affiliation": null,
+    "location": "CPA, Ground Floor Seminar Room",
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling",
+    "description": "23.03.2026, Events Talk on Generative AI-based protein design to understand and drug cancer signaling Sprecher: Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "categories": [
+      "Bioengineering"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling|Talk on Generative AI-based protein design to understand and drug cancer signaling|2026-03-23T00:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Talk on Generative AI-based protein design to understand and drug cancer signaling",
+    "start": "2026-03-23T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "affiliation": null,
+    "location": "CPA, Ground Floor Seminar Room",
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling",
+    "description": "23.03.2026, Events Talk on Generative AI-based protein design to understand and drug cancer signaling Sprecher: Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "categories": [
+      "Bioengineering"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling|Talk on Generative AI-based protein design to understand and drug cancer signaling|2026-03-23T00:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Talk on Generative AI-based protein design to understand and drug cancer signaling",
+    "start": "2026-03-23T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "affiliation": null,
+    "location": "CPA, Ground Floor Seminar Room",
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling",
+    "description": "23.03.2026, Events Talk on Generative AI-based protein design to understand and drug cancer signaling Sprecher: Prof. Dr. Jason Zhang vom UCLA Department of Bioengineering Datum und Zeit: Montag, 23. März, um 16:00 Ort: CPA, Ground Floor Seminar Room",
+    "categories": [
+      "Bioengineering"
+    ],
+    "score": 90,
+    "score_reasons": [
+      "source_weight:50",
+      "topic_bonus:+25:medicine",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/talk-on-generative-ai-based-protein-design-to-understand-and-drug-cancer-signaling|Talk on Generative AI-based protein design to understand and drug cancer signaling|2026-03-23T00:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE Seminar: Engineering Living Materials for Therapeutic Delivery",
+    "start": "2026-01-27T13:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery",
+    "description": "27.01.2026, Events MIBE Seminar: Engineering Living Materials for Therapeutic Delivery Sprecher: Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery|MIBE Seminar: Engineering Living Materials for Therapeutic Delivery|2026-01-27T13:30:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE Seminar: Engineering Living Materials for Therapeutic Delivery",
+    "start": "2026-01-27T13:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery",
+    "description": "27.01.2026, Events MIBE Seminar: Engineering Living Materials for Therapeutic Delivery Sprecher: Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery|MIBE Seminar: Engineering Living Materials for Therapeutic Delivery|2026-01-27T13:30:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "MIBE Seminar: Engineering Living Materials for Therapeutic Delivery",
+    "start": "2026-01-27T13:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery",
+    "description": "27.01.2026, Events MIBE Seminar: Engineering Living Materials for Therapeutic Delivery Sprecher: Prof. Tetsuhiro Harimoto, Cornell University (invited guest of Prof. Berna Özkale Edelmann, Nano- and Microrobotics) Datum und Uhrzeit: Dienstag, 27. Januar 2026, 13:30 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 65,
+    "score_reasons": [
+      "source_weight:50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/mibe-seminar-engineering-living-materials-for-therapeutic-delivery|MIBE Seminar: Engineering Living Materials for Therapeutic Delivery|2026-01-27T13:30:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet",
+    "start": "2025-11-19T16:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet",
+    "description": "19.11.2025, Events Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet Sprecher: Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet|Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet|2025-11-19T16:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet",
+    "start": "2025-11-19T16:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet",
+    "description": "19.11.2025, Events Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet Sprecher: Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet|Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet|2025-11-19T16:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet",
+    "start": "2025-11-19T16:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM MIBE Events",
+    "source_url": "https://www.bioengineering.tum.de/events/1",
+    "event_url": "https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet",
+    "description": "19.11.2025, Events Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet Sprecher: Prof. Kuniharu Takei, Hokkaido University Datum und Uhrzeit: Mittwoch, 19. November 2025, 16:00 Uhr",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MIBE Events|https://www.bioengineering.tum.de/events/details/invited-talk-mibe-seminar-laser-induced-graphene-based-multimodal-flexible-sensor-sheet|Invited Talk/MIBE Seminar: Laser-induced graphene-based multimodal flexible Sensor Sheet|2025-11-19T16:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
   },
   {
     "title": "Certificate Course on Responsible AI - Part 4",
@@ -2824,37 +3473,8 @@
     ]
   },
   {
-    "title": "Meetup at LRZ With Pitchtalks and Guided Tour",
-    "start": "2026-02-05T11:30:00+01:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCML Events",
-    "source_url": "https://mcml.ai/events/",
-    "event_url": "https://mcml.ai/events/2026-05-12-pitchtalks-lrz-meet-up/",
-    "description": "On May 12, we will host the next MCML Pitchtalks in collaboration with LRZ.",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 55,
-    "score_reasons": [
-      "source_weight:55"
-    ],
-    "uid_seed": "MCML Events|https://mcml.ai/events/2026-05-12-pitchtalks-lrz-meet-up/|Meetup at LRZ With Pitchtalks and Guided Tour|2026-02-05T11:30:00+01:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "low_value_event_type",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Munich Center for Quantum Science and Technology",
-    "start": "2026-12-12T00:00:00+01:00",
+    "start": "2026-12-13T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -2874,7 +3494,7 @@
       "topic_bonus:+30:quantum",
       "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Munich Center for Quantum Science and Technology|2026-12-12T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Munich Center for Quantum Science and Technology|2026-12-13T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -2883,7 +3503,7 @@
   },
   {
     "title": "Diese Seite ist derzeit leider nur auf",
-    "start": "2026-12-12T00:00:00+01:00",
+    "start": "2026-12-13T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -2901,15 +3521,15 @@
     "score_reasons": [
       "source_weight:60"
     ],
-    "uid_seed": "MCQST Events|Diese Seite ist derzeit leider nur auf|2026-12-12T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Diese Seite ist derzeit leider nur auf|2026-12-13T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "score_below_threshold"
     ]
   },
   {
-    "title": "11 May -",
-    "start": "2027-05-12T00:00:00+02:00",
+    "title": "13 May 2026",
+    "start": "2027-05-13T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -2919,81 +3539,24 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "5 11 May - 12 May 2026 Members Meeting Events | MCQST Community Meeting of MCQST's Principal Investigators and Advisory Board Members to foster scientific exchange. Read More 13 May 2026 Atypical: Neurodiversity in Academia",
+    "description": "5 13 May 2026 Atypical: Neurodiversity in Academia Diversity in Leadership | EDI Workshop on neurodiversity in academia as part of the MCQST Diversity in Leadership Program. Open to Diversity in Leadership cohort only. Read More 19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events",
     "categories": [
       "Quantum",
       "Neuroscience"
     ],
-    "score": 45,
+    "score": 90,
     "score_reasons": [
       "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "MCQST Events|11 May -|2027-05-12T00:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "internal_or_student_community",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "12 May 2026",
-    "start": "2027-05-11T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "11 May - 12 May 2026 Members Meeting Events | MCQST Community Meeting of MCQST's Principal Investigators and Advisory Board Members to foster scientific exchange. Read More 13 May 2026 Atypical: Neurodiversity in Academia Diversity in Leadership |",
-    "categories": [
-      "Quantum",
-      "Neuroscience"
-    ],
-    "score": 45,
-    "score_reasons": [
-      "source_weight:60",
-      "penalty:-15:weak_title_no_speaker"
-    ],
-    "uid_seed": "MCQST Events|12 May 2026|2027-05-11T00:00:00+02:00",
+    "uid_seed": "MCQST Events|13 May 2026|2027-05-13T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "date_only_title",
       "internal_or_student_community",
       "generic_title",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Members Meeting",
-    "start": "2026-05-12T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "12 May 2026 Members Meeting Events | MCQST Community Meeting of MCQST's Principal Investigators and Advisory Board Members to foster scientific exchange. Read More 13 May 2026 Atypical: Neurodiversity in Academia Diversity in Leadership | EDI",
-    "categories": [
-      "Quantum",
-      "Neuroscience"
-    ],
-    "score": 45,
-    "score_reasons": [
-      "source_weight:60",
-      "penalty:-15:weak_title_no_speaker"
-    ],
-    "uid_seed": "MCQST Events|Members Meeting|2026-05-12T00:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "internal_or_student_community",
       "score_below_threshold"
     ]
   },
@@ -3009,18 +3572,21 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "13 May 2026 Atypical: Neurodiversity in Academia Diversity in Leadership | EDI Workshop on neurodiversity in academia as part of the MCQST Diversity in Leadership Program. Open to Diversity in Leadership cohort only. Read More 11 June 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates.",
+    "description": "13 May 2026 Atypical: Neurodiversity in Academia Diversity in Leadership | EDI Workshop on neurodiversity in academia as part of the MCQST Diversity in Leadership Program. Open to Diversity in Leadership cohort only. Read More 19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub.",
     "categories": [
       "Quantum",
       "Neuroscience"
     ],
-    "score": 60,
+    "score": 100,
     "score_reasons": [
-      "source_weight:60"
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|Atypical: Neurodiversity in Academia|2026-05-13T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "internal_or_student_community",
       "score_below_threshold"
     ]
@@ -3353,20 +3919,85 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "29 September 2026 MCQST Colloquium: Manuel Endres (date TBC) MCQST Colloquium | Events MCQST Colloquium | Manuel Endres (Caltech, USA) Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadership | EDI",
+    "description": "29 September 2026 MCQST Colloquium: Manuel Endres (date TBC) MCQST Colloquium | Events MCQST Colloquium | Manuel Endres (Caltech, USA) Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
     "categories": [
       "Quantum"
     ],
     "score": 100,
     "score_reasons": [
       "source_weight:60",
+      "topic_bonus:+30:quantum",
       "high_impact:+50",
-      "institution_signal:+20"
+      "institution_signal:+20",
+      "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|MCQST Colloquium: Manuel Endres (date TBC)|2026-09-29T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "27 October 2026",
+    "start": "2026-10-26T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadership | EDI Workshop on perspectives in leadership. Open to Diversity in Leadership cohort only.",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15",
+      "penalty:-15:weak_title_no_speaker"
+    ],
+    "uid_seed": "MCQST Events|27 October 2026|2026-10-26T00:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "date_only_title",
+      "internal_or_student_community",
+      "generic_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Quantum Talents Symposium Munich 2026",
+    "start": "2026-10-27T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadership | EDI Workshop on perspectives in leadership. Open to Diversity in Leadership cohort only. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Quantum Talents Symposium Munich 2026|2026-10-27T00:00:00+01:00",
+    "include": false,
+    "reject_reasons": [
+      "internal_or_student_community",
       "score_below_threshold"
     ]
   },
@@ -3429,7 +4060,7 @@
   },
   {
     "title": "Munich Quantum Center",
-    "start": "2026-12-12T00:00:00+01:00",
+    "start": "2026-12-13T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3450,7 +4081,7 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "Munich Quantum Center Events|Munich Quantum Center|2026-12-12T00:00:00+01:00",
+    "uid_seed": "Munich Quantum Center Events|Munich Quantum Center|2026-12-13T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -3459,7 +4090,7 @@
   },
   {
     "title": "Diese Seite ist derzeit leider nur auf",
-    "start": "2026-12-12T00:00:00+01:00",
+    "start": "2026-12-13T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3479,7 +4110,7 @@
       "topic_bonus:+30:quantum",
       "local_bonus:+15"
     ],
-    "uid_seed": "Munich Quantum Center Events|Diese Seite ist derzeit leider nur auf|2026-12-12T00:00:00+01:00",
+    "uid_seed": "Munich Quantum Center Events|Diese Seite ist derzeit leider nur auf|2026-12-13T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "internal_or_student_community",
@@ -3488,7 +4119,7 @@
   },
   {
     "title": "11 May -",
-    "start": "2026-10-12T00:00:00+02:00",
+    "start": "2026-10-13T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3509,7 +4140,7 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "Munich Quantum Center Events|11 May -|2026-10-12T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|11 May -|2026-10-13T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "internal_or_student_community",
@@ -4010,7 +4641,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4030,7 +4661,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4039,7 +4670,7 @@
   },
   {
     "title": "While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play.",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4059,7 +4690,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play.|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play.|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4070,8 +4701,37 @@
     ]
   },
   {
+    "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
+    "start": "2026-05-13T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Machine Learning Natural Language Processing Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Wolfgang Lehrach | Code World Models for General Game Playing|2026-05-13T00:00:00-07:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4091,7 +4751,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4100,7 +4760,7 @@
   },
   {
     "title": "The possibility that AI will automate most cognitive labor is worth taking seriously",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4120,7 +4780,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The possibility that AI will automate most cognitive labor is worth taking seriously|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The possibility that AI will automate most cognitive labor is worth taking seriously|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4130,7 +4790,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4150,7 +4810,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4159,7 +4819,7 @@
   },
   {
     "title": "The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4179,7 +4839,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4190,7 +4850,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4209,7 +4869,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4218,7 +4878,7 @@
   },
   {
     "title": "Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4237,7 +4897,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4248,7 +4908,7 @@
   },
   {
     "title": "The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all",
-    "start": "2026-06-12T00:00:00-07:00",
+    "start": "2026-06-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4269,7 +4929,7 @@
       "topic_bonus:+25:medicine",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all|2026-06-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all|2026-06-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4282,7 +4942,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2026-06-12T00:00:00-07:00",
+    "start": "2026-06-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4301,7 +4961,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-06-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-06-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4310,7 +4970,7 @@
   },
   {
     "title": "Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.",
-    "start": "2026-06-12T00:00:00-07:00",
+    "start": "2026-06-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4329,7 +4989,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.|2026-06-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.|2026-06-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4370,7 +5030,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4391,7 +5051,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4431,7 +5091,7 @@
   },
   {
     "title": "8:30 AM - 6:45 PM",
-    "start": "2027-05-12T00:00:00-07:00",
+    "start": "2027-05-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4456,7 +5116,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|8:30 AM - 6:45 PM|2027-05-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|8:30 AM - 6:45 PM|2027-05-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4493,7 +5153,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-12T00:00:00-07:00",
+    "start": "2027-04-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4512,7 +5172,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4551,7 +5211,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-04-12T00:00:00-07:00",
+    "start": "2027-04-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4570,7 +5230,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-04-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-04-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4637,7 +5297,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-12T00:00:00-07:00",
+    "start": "2027-04-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4657,7 +5317,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4724,7 +5384,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-12T00:00:00-07:00",
+    "start": "2027-04-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4743,7 +5403,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4782,7 +5442,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-03-12T00:00:00-08:00",
+    "start": "2027-03-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4803,7 +5463,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4872,7 +5532,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-03-12T00:00:00-08:00",
+    "start": "2027-03-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4891,7 +5551,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4930,7 +5590,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-03-12T00:00:00-08:00",
+    "start": "2027-03-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4949,7 +5609,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5015,7 +5675,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-03-12T00:00:00-08:00",
+    "start": "2027-03-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5035,7 +5695,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5074,7 +5734,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-02-12T00:00:00-08:00",
+    "start": "2027-02-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5097,7 +5757,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5167,7 +5827,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-02-12T00:00:00-08:00",
+    "start": "2027-02-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5187,7 +5847,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-02-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-02-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5225,7 +5885,7 @@
   },
   {
     "title": "8:00 AM - 5:00 PM",
-    "start": "2027-02-12T00:00:00-08:00",
+    "start": "2027-02-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5244,7 +5904,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|8:00 AM - 5:00 PM|2027-02-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|8:00 AM - 5:00 PM|2027-02-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5253,7 +5913,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-02-12T00:00:00-08:00",
+    "start": "2027-02-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5272,7 +5932,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5309,7 +5969,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-01-12T00:00:00-08:00",
+    "start": "2027-01-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5328,7 +5988,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5394,7 +6054,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-01-12T00:00:00-08:00",
+    "start": "2027-01-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5413,7 +6073,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5452,7 +6112,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2026-12-12T00:00:00-08:00",
+    "start": "2026-12-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5471,7 +6131,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-12-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-12-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5508,7 +6168,7 @@
   },
   {
     "title": "3:00 PM - 4:30 PM",
-    "start": "2026-12-12T00:00:00-08:00",
+    "start": "2026-12-13T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5527,7 +6187,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|3:00 PM - 4:30 PM|2026-12-12T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|3:00 PM - 4:30 PM|2026-12-13T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5564,6 +6224,38 @@
     ]
   },
   {
+    "title": "A Theoretical Point of View on Machine Unlearning and Privacy",
+    "start": "2026-05-12T13:30:00-04:00",
+    "end": "2026-05-12T15:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "A Theoretical Point of View on Machine Unlearning and Privacy Abstract:How do machine learning models really “learn” the data?Modern models learn complex patterns and high-level structure from massive datasets, yet surprisingly, it is often possible to efficiently remove the influence of a single training example without significantly affecting overall performance. While this phenomenon may appear deceptively simple, it offers a powerful lens for understanding the learning and unlearning process itself.Machine Unlearning is motivated by privacy regulations and the growing demand for trustworthy AI. In practice, many successful methods rely on surprisingly simple operations such as gradient ascent or projection, while the main theoretical foundations, rooted in Differential Privacy theory, remain limited in scope and difficult to reconcile with strong empirical results. In this talk, I will present our novel unlearning criterion, rooted in learning theory and its implicit bias. I will discuss how the effect of a single data point can be isolated from the training process in several settings, and present a new perspective on practical and theoretically grounded unlearning.Short bio: I am a PhD student in the Department of Applied Mathematics and Computer Science at the Weizmann Institute of Science, advised by Prof. Adi Shamir. My research focuses on trustworthy AI, machine learning security, and the theory of deep learning, with an emphasis on adversarial robustness and machine unlearning. I combine theoretical analysis with practical methods, including empirical evaluation on modern learning systems. TBD Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Hadas Orgad Kempner Institute, Harvard 2:00 P - 3:00 P Location 45-792 45-792",
+    "categories": [
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|A Theoretical Point of View on Machine Unlearning and Privacy|2026-05-12T13:30:00-04:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
+      "score_below_threshold"
+    ]
+  },
+  {
     "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly",
     "start": "2026-05-12T14:00:00-04:00",
     "end": "2026-05-12T15:00:00-04:00",
@@ -5589,6 +6281,7 @@
     "uid_seed": "MIT CSAIL Events|Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly|2026-05-12T14:00:00-04:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "generic_title",
       "low_value_event_type",
       "title_too_long_or_description",
@@ -5624,6 +6317,7 @@
     "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Advancing Language Models for Reasoning and Beyond Text &nbsp;Title: Advancing Language Models for Reasoning and Beyond Text|2026-05-12T14:00:00-04:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "generic_title",
       "score_below_threshold"
     ]
@@ -5640,7 +6334,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "HCI Seminar - Zana Bucinca - Worker-Centric AI Abstract:The large-scale deployment of AI&nbsp;systems in knowledge&nbsp;work is impacting not only productivity and&nbsp;work&nbsp;quality but also&nbsp;workers' values and workplace dynamics. I argue that how we design and deploy AI-infused technologies will shape people's skills and competence, their sense of agency, collaboration with others, and even the meaning they derive from their&nbsp;work. I design human-AI&nbsp;interaction techniques that complement people and amplify their values in AI-assisted&nbsp;work. My research focuses on (1) understanding how people make AI-assisted decisions and (2) designing novel interaction paradigms, explanations and systems that optimize human-centric&nbsp;outcomes (e.g., human skills) and output-centric&nbsp;outcomes (e.g., decision accuracy) in AI-assisted tasks. In this talk, I will present a suite of interaction techniques I have introduced to optimize AI-assisted decision-making. These include cognitive forcing interventions that reduce overreliance on AI, adaptive AI&nbsp;support that enables human-AI&nbsp;complementarity in decision accuracy, and contrastive explanations that improve both decision accuracy and users’ task-related skills.Bio:Zana Buçinca is a Postdoctoral Researcher at Microsoft, and an incoming Assistant Professor at MIT, with a shared appointment in Sloan and EECS. She earned her PhD in Computer Science at Harvard, where her research at the intersection of human-AI&nbsp;interaction and responsible AI&nbsp;integrated cognitive and social science theories to design novel interaction techniques that complement workers&nbsp;and amplify their values in AI-assisted tasks. Her work&nbsp;has been recognized with the IBM PhD Fellowship, a Siebel Scholarship, and Best Paper Awards at CHI and IUI. She has also been named a Rising Star in AI&nbsp;by the University of Michigan, a Rising Star in Management Science &amp; Engineering by Stanford, and one of the Top 10 Most Inspiring Women in STEM by UNDP Kosovo.This talk will also be streamed over Zoom: https://mit.zoom.us/j/98673878359. TBD List Decoding Expander-Based Codes (up to capacity, in near-linear time) Madhur Tulsiani Toyota Technological Institute at Chicago Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "description": "HCI Seminar - Zana Bucinca - Worker-Centric AI Abstract:The large-scale deployment of AI&nbsp;systems in knowledge&nbsp;work is impacting not only productivity and&nbsp;work&nbsp;quality but also&nbsp;workers' values and workplace dynamics. I argue that how we design and deploy AI-infused technologies will shape people's skills and competence, their sense of agency, collaboration with others, and even the meaning they derive from their&nbsp;work. I design human-AI&nbsp;interaction techniques that complement people and amplify their values in AI-assisted&nbsp;work. My research focuses on (1) understanding how people make AI-assisted decisions and (2) designing novel interaction paradigms, explanations and systems that optimize human-centric&nbsp;outcomes (e.g., human skills) and output-centric&nbsp;outcomes (e.g., decision accuracy) in AI-assisted tasks. In this talk, I will present a suite of interaction techniques I have introduced to optimize AI-assisted decision-making. These include cognitive forcing interventions that reduce overreliance on AI, adaptive AI&nbsp;support that enables human-AI&nbsp;complementarity in decision accuracy, and contrastive explanations that improve both decision accuracy and users’ task-related skills.Bio:Zana Buçinca is a Postdoctoral Researcher at Microsoft, and an incoming Assistant Professor at MIT, with a shared appointment in Sloan and EECS. She earned her PhD in Computer Science at Harvard, where her research at the intersection of human-AI&nbsp;interaction and responsible AI&nbsp;integrated cognitive and social science theories to design novel interaction techniques that complement workers&nbsp;and amplify their values in AI-assisted tasks. Her work&nbsp;has been recognized with the IBM PhD Fellowship, a Siebel Scholarship, and Best Paper Awards at CHI and IUI. She has also been named a Rising Star in AI&nbsp;by the University of Michigan, a Rising Star in Management Science &amp; Engineering by Stanford, and one of the Top 10 Most Inspiring Women in STEM by UNDP Kosovo.This talk will also be streamed over Zoom: https://mit.zoom.us/j/98673878359. TBD Slop Is a Skill Issue: The Engineering Around Coding Agents Thomas Dietert Mercury 4:00 P - 5:00 P Location TBD Virtual",
     "categories": [
       "AI"
     ],
@@ -5654,7 +6348,38 @@
     "uid_seed": "MIT CSAIL Events|HCI Seminar - Zana Bucinca - Worker-Centric AI|2026-05-12T16:00:00-04:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Slop Is a Skill Issue",
+    "start": "2026-05-12T16:00:00-04:00",
+    "end": "2026-05-12T17:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Slop Is a Skill Issue: The Engineering Around Coding Agents &nbsp;Slop Is a Skill Issue: The Engineering Around Coding AgentsBy: Thomas Dietert&nbsp;Date: Tuesday, May 12th 2026Time: 4:00 PM to 5:00 PMRegistration:&nbsp;https://mit.zoom.us/meeting/register/2r12PuhfTQq_snMuLfgddg&nbsp;Abstract:Getting the most out of state-of-the-art coding agents requires deliberate, intentional management of the context window on every turn. The model's prior output, the results of any tool calls, and whatever else the harness includes all compete for space in a finite resource, and the choices you make about what fills it largely determine the quality of what comes out. Coding agents can feel like magic, but the productivity gains the frontier labs advertise only show up when those choices are made carefully: which tools you expose, how the harness shapes each turn, and how the environment pushes back when the agent gets something wrong.In this talk I'll share three disciplines that, in my experience building production AI agents at Nectry and Mercury, do most of that work: context engineering, harness engineering, and backpressure. It is easy to confuse the feeling of using an AI tool with the reality of being more productive, and most engineers settle for a fraction of what these tools can actually do. Attendees will leave with a concrete vocabulary for diagnosing why their coding agents fail and a set of patterns and workflows they can apply immediately to get higher-quality results out of Claude Code and similar tools.Bio:Thomas Dietert is a Software Engineer on the AI Engineering team at Mercury, where he leads the background coding agent platform used across Mercury engineering. He is also a Technical Advisor to Nectry, a startup building AI agents with correctness guarantees. Before working on agents, Thomas built compilers, programming language tooling, and ML systems infrastructure for AI accelerator companies like Groq, Rain AI, and Luminous Computing.&nbsp; TBD List Decoding Expander-Based Codes (up to capacity, in near-linear time) Madhur Tulsiani Toyota Technological Institute at Chicago Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "categories": [
+      "Buildings",
+      "AI"
+    ],
+    "score": 95,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Slop Is a Skill Issue|2026-05-12T16:00:00-04:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
       "score_below_threshold"
     ]
   },
@@ -5682,6 +6407,7 @@
     "uid_seed": "MIT CSAIL Events|List Decoding Expander-Based Codes (up to capacity, in near-linear time) We will talk about a new framework based on graph regularity lemmas, for list decoding and list recovery of codes based on spectral expanders|2026-05-12T16:15:00-04:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "generic_title",
       "title_too_long_or_description",
       "title_too_long_or_description",
@@ -5722,69 +6448,6 @@
     ]
   },
   {
-    "title": "CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM",
-    "start": "2026-05-14T10:00:00-04:00",
-    "end": "2026-05-14T16:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM. We have reserved several performing spaces in Stata for your performing arts: music, dance, spoken word, video/film.&nbsp;Open to all CSAIL members (and performing members ie, troupes, ensembles, bands, etc with at least one CSAIL member). We look forward to this opportunity for us to connect across our community, get to know something more about one another, and share our art. Please sign up&nbsp;by Friday, May 1&nbsp;so we can draft schedules for mutual agreement (ensure enough space, allot sufficient time for each performance, ensure resources are aligned).&nbsp;&nbsp;Direct questions and input to open-studios-volunteers@csail.mit.edu TBD Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Ryan Lehmkuhl UC Berkeley EECS Part Of CSAIL Security Seminar 2025 - 2026 11:00 A - 12:00 P Location 32-G882",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM|2026-05-14T10:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "low_value_event_type",
-      "internal_or_student_community",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear",
-    "start": "2026-05-14T11:00:00-04:00",
-    "end": "2026-05-14T12:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, and proof-of-concept deployments by Apple, Google, and Mozilla. In spite of this progress, few of the apps we use today actually collect telemetry data using private aggregation.This talk will try to answer two questions: Why is the real-world use of private-aggregation systems so limited? And what can we do about it? To do so, we will draw on our experience designing private-aggregations systems and on conversations with engineers at Apple, Cloudflare, Google, Mozilla, and ISRG who have deployed them. TBD Thesis Defense: Reconciling AI Representations and User Mental Models Angie Boggust MIT CSAIL Part Of Thesis Defense 12:00 P - 1:00 P Location 32-D463 Star",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear|2026-05-14T11:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "title_too_long_or_description",
-      "title_too_long_or_description",
-      "title_too_long_or_description",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Thesis Defense: Reconciling AI Representations and User Mental Models AI models promise to amplify human capabilities by extending people’s cognition and creativity",
     "start": "2026-05-14T12:00:00-04:00",
     "end": "2026-05-14T13:00:00-04:00",
@@ -5796,7 +6459,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Reconciling AI Representations and User Mental Models AI models promise to amplify human capabilities by extending people’s cognition and creativity. Yet, in today’s human-AI alignment paradigm, models are aligned to general human norms and deployed as opaque tools. As a result, models often fail to reflect users’ diverse expectations, and users lack the recourse to diagnose and rectify misalignments. Instead, this talk explores how we can advance human-AI complementarity by re-envisioning alignment, not as a static property of a model, but as an interactive process of reconciliation between users and their models. By communicating model representations in user-understandable terms, we empower people to improve the alignment of their AI interactions without needing to change the underlying model. To support this process, we define user-centric alignment metrics that compare model and human knowledge and reasoning, allowing people to identify personalized misalignments and even learn from their model’s complementary knowledge. By leveraging the inevitable differences between people and models, reconciliation reveals opportunities to ensure AI models amplify rather than replicate their users.Please email Angie Boggust (aboggust@mit.edu) for the Zoom link. TBD Thesis Defense: Hannah Lawrence Hannah Lawrence ToC, CSAIL, EECS Part Of Thesis Defense 2:00 P - 3:00 P Location 32-G449 Kiva/Patil",
+    "description": "Thesis Defense: Reconciling AI Representations and User Mental Models AI models promise to amplify human capabilities by extending people’s cognition and creativity. Yet, in today’s human-AI alignment paradigm, models are aligned to general human norms and deployed as opaque tools. As a result, models often fail to reflect users’ diverse expectations, and users lack the recourse to diagnose and rectify misalignments. Instead, this talk explores how we can advance human-AI complementarity by re-envisioning alignment, not as a static property of a model, but as an interactive process of reconciliation between users and their models. By communicating model representations in user-understandable terms, we empower people to improve the alignment of their AI interactions without needing to change the underlying model. To support this process, we define user-centric alignment metrics that compare model and human knowledge and reasoning, allowing people to identify personalized misalignments and even learn from their model’s complementary knowledge. By leveraging the inevitable differences between people and models, reconciliation reveals opportunities to ensure AI models amplify rather than replicate their users.Please email Angie Boggust (aboggust@mit.edu) for the Zoom link. TBD CSAIL Open Studios: Performing arts 1:00 P - 5:30 P Location TBD",
     "categories": [
       "AI"
     ],
@@ -5815,7 +6478,38 @@
     ]
   },
   {
-    "title": "Thesis Defense: Hannah Lawrence TBA TBD May 15, 2026 [CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Rohan Goyal (MIT)",
+    "title": "CSAIL Open Studios: Performing arts CSAIL Open Studios Performing Arts showcaseThursday, May 14, 2026, 1-5:30pm1:00-2:00pm, Hewlett 32-G882Valerie K",
+    "start": "2026-05-14T13:00:00-04:00",
+    "end": "2026-05-14T17:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "CSAIL Open Studios: Performing arts CSAIL Open Studios Performing Arts showcaseThursday, May 14, 2026, 1-5:30pm1:00-2:00pm, Hewlett 32-G882Valerie K. Chen, cello solo“alone” is a fully solo cello recital exploring the counterpoint to human connection: isolation. It adapts the dramatic arc from the genre of tragedy, guiding listeners through various dimensions of solitude toward catharsis and peace. In four acts, the program weaves together works from disparate eras, styles, and traditions, suggesting that even when seemingly alone—and amid the turbulence of an ever-changing world—we remain bound together by shared human experience.2:00-3:00pm, 32-123Mangifera Jazz BandFeaturing an hour-long program of stylistically re-arranged jazz standards as well as original tunes written by Matthew Michalek (Wash Cycle), Sebastian Franjou (Not Today), and Vaibhav Mohanty (Industria).Andrew Li, alto saxophoneMatthew Michalek, tenor saxophone, composerLeonardo Hernández Cano, guitarVaibhav Mohanty, piano, composerSebastian Franjou, bass, composerBrandon Vu, drums3:00-4:00pm, 32-123Unsupervised Learning, jazz ensembleWhile rigorous computational environments excel at handling academic workloads, generating spontaneous, multi-agent musical synchronization within these settings remains a challenging open problem. To address this, we introduce Unsupervised Learning, a novel framework designed to transfer the high-entropy, stochastic jam dynamics of the SidPac music room into the CSAIL environment. Featuring an hour of on-policy learning based on the popular RealBook dataset and previously unseen musical workloads. A Mixture-of-Experts architecture is used featuring a core ensemble of:Maxine Perroni-Scharf, vocalLeonardo Hernández Cano, guitarTianyu Li, bass guitarJeffrey Chang, melodicaWilliam Wang, pianoSabrina Drammis, drums&nbsp;...along with special guests! External tool calls are enabled for this experiment. Audience members may bring their own instruments. Preliminary results demonstrate robust convergence to pockets, achieving state-of-the-art vibes and minimizing groove loss across a variety of improvisational tasks.4:15-4:45pm, CSAIL Piano Room, 32-D440Rachel Ma, piano soloPerforming: Ballade no. 1 in G minor, op.23 (Chopin) and Piano Sonata No.3 in A minor, Op.28 (Prokofiev)Rachel is currently a 3rd year PhD at MIT CSAIL, advised by Dylan Hadfield-Menell, working broadly on AI agent alignment and human-AI/robot interaction. She began playing classical piano at 5 years old. She received her Associate Diploma (in 2016) and Licentiate Diploma (in 2019) in Piano Performance from the Royal Conservatory of Music in Canada. She double majored in Computer Science and Music during undergrad at Brown University, where she also composed a symphony for her honors project read by the Brown University Orchestra. She has performed as a soloist, chamber musician (in piano trios), accompanist, a violinist (for a brief amount of time), and is also a composer.&nbsp;4:45-5:30pm, R&amp;D Commons, 32-G401Community casual reception TBD Symmetry and Structure in Machine Learning Hannah Lawrence ToC, CSAIL, EECS Part Of Thesis Defense 2:00 P - 3:00 P Location 32-G449 Kiva/Patil",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|CSAIL Open Studios: Performing arts CSAIL Open Studios Performing Arts showcaseThursday, May 14, 2026, 1-5:30pm1:00-2:00pm, Hewlett 32-G882Valerie K|2026-05-14T13:00:00-04:00",
+    "include": false,
+    "reject_reasons": [
+      "generic_title",
+      "low_value_event_type",
+      "internal_or_student_community",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Symmetry and Structure in Machine Learning Symmetries appear across diverse application areas, from the rotational invariances of molecules in drug and materials discovery to the permutational invariances of graphs and sets",
     "start": "2026-05-14T14:00:00-04:00",
     "end": "2026-05-14T15:00:00-04:00",
     "timezone": "America/New_York",
@@ -5826,21 +6520,24 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Hannah Lawrence TBA TBD May 15, 2026 [CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Rohan Goyal (MIT) Part Of CIS Seminar 2025-2026 10:30 A - 12:00 P Location 32-G882",
+    "description": "Symmetry and Structure in Machine Learning Symmetries appear across diverse application areas, from the rotational invariances of molecules in drug and materials discovery to the permutational invariances of graphs and sets. Machine learning methods that take advantage of this structure can both generalize better to out-of-distribution data, and learn with improved sample complexity in-distribution. Yet, it is non-trivial to build bespoke systems that incorporate these inductive biases. In this thesis, we first explore the limitations of equivariant architectures as a mechanism for strictly enforcing symmetry inductive biases, focusing on subtle failures of expressivity. One such failure occurs because equivariant networks cannot break input symmetries, which turns out to be problematic in both generative and supervised settings. By reframing such tasks as fundamentally probabilistic, we construct symmetry-breaking positional encodings that provably enable sampling from an underlying equivariant distribution. Clearly, with strong inductive biases come strong risks. What, then, is the role of weaker inductive biases? We show that one can harness more flexible structural priors to build diagnostic tools for dataset understanding. By making an ansatz that meaningful biases in the data can be detected by small neural classifiers, we identify both interpretable error patterns in vision datasets and significant rotational biases in benchmark point cloud datasets, the latter of which violates a ubiquitous assumption in the equivariant learning literature. We demonstrate that such rotational bias can sometimes render equivariance harmful in-distribution, shedding new light on when and why different equivariant methods work well. Overall, we demonstrate how inductive biases, judiciously applied, can remain relevant and useful in the age of scaling.Committee: Ankur Moitra (advisor), Tess Smidt, Robin Walters. TBD May 15, 2026 [CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Rohan Goyal (MIT) Part Of CIS Seminar 2025-2026 10:30 A - 12:00 P Location 32-G882",
     "categories": [
-      "General High Impact"
+      "AI"
     ],
-    "score": 75,
+    "score": 100,
     "score_reasons": [
       "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT CSAIL Events|Thesis Defense: Hannah Lawrence TBA TBD May 15, 2026 [CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Rohan Goyal (MIT)|2026-05-14T14:00:00-04:00",
+    "uid_seed": "MIT CSAIL Events|Symmetry and Structure in Machine Learning Symmetries appear across diverse application areas, from the rotational invariances of molecules in drug and materials discovery to the permutational invariances of graphs and sets|2026-05-14T14:00:00-04:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
-      "generic_title",
-      "generic_series_without_talk_title",
+      "title_too_long_or_description",
+      "title_too_long_or_description",
+      "title_too_long_or_description",
+      "score_below_threshold",
       "score_below_threshold"
     ]
   },
@@ -5856,7 +6553,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "[CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\delta$-far from the code. Here&nbsp; $\\delta$ is the proximity parameter which can be taken to be the Johnson radius $1-\\sqrt{R}$ of the RS code ($R$ being the code rate), matching its best known list-decodability.Proving proximity gaps beyond the Johnson radius, and in particular approaching $1-R$ (which is best possible), has been posed multiple times as a challenge with significant practical consequences to the efficiency of SNARKs. In this work, we show that most codes in the literature that have been shown to achieve list-decoding capacity, i.e., are \\emph{list-decodable} up to a fraction of errors approaching $1-R$, exhibit proximity gaps for $\\delta&lt;1-R$. This includes folded Reed-Solomon codes, univariate multiplicity codes, random linear codes, random LDPC, and random Reed-Solomon codes.Based on joint works with Venkatesan Guruswami. TBD May 22, 2026 [ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything Jing (Jane) Li (UPenn) 10:00 A - 11:00 A Location 32-G449",
+    "description": "[CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\delta$-far from the code. Here&nbsp; $\\delta$ is the proximity parameter which can be taken to be the Johnson radius $1-\\sqrt{R}$ of the RS code ($R$ being the code rate), matching its best known list-decodability.Proving proximity gaps beyond the Johnson radius, and in particular approaching $1-R$ (which is best possible), has been posed multiple times as a challenge with significant practical consequences to the efficiency of SNARKs. In this work, we show that most codes in the literature that have been shown to achieve list-decoding capacity, i.e., are \\emph{list-decodable} up to a fraction of errors approaching $1-R$, exhibit proximity gaps for $\\delta&lt;1-R$. This includes folded Reed-Solomon codes, univariate multiplicity codes, random linear codes, random LDPC, and random Reed-Solomon codes.Based on joint works with Venkatesan Guruswami. TBD May 18, 2026 [CSL Seminar] David Held - Precise and Generalizable Robot Manipulation 1:30 P - 3:00 P Location 32-D463",
     "categories": [
       "General High Impact"
     ],
@@ -5870,6 +6567,67 @@
     "reject_reasons": [
       "generic_title",
       "generic_series_without_talk_title",
+      "title_too_long_or_description",
+      "title_too_long_or_description",
+      "score_below_threshold",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "[CSL Seminar] David Held - Precise and Generalizable Robot Manipulation Title:Precise and Generalizable Robot Manipulation",
+    "start": "2026-05-18T13:30:00-04:00",
+    "end": "2026-05-18T15:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "[CSL Seminar] David Held - Precise and Generalizable Robot Manipulation Title:Precise and Generalizable Robot ManipulationAbstract:Robots in factories are still largely limited to structured environments with known object models. How can we bring robots into the more diverse, unstructured settings of our daily lives, where objects may vary widely in shape and appearance, while maintaining reliable performance? A popular direction today is to train generalist robot policies on large-scale internet data and broad robot datasets. However, today’s generalist policies still lack the precision needed for robust real-world operation. In this talk, I argue that closing this gap requires learning a hierarchy over robot motion: learning both what subgoals to achieve as well as how to move the robot end-effector to achieve them. I will present hierarchical motion policies that combine high-level subgoal prediction with a learned low-level policy. &nbsp; I will show how this hierarchical approach has enabled us to achieve both generalizable and precise object manipulation.Bio:David Held is an Associate Professor at Carnegie Mellon University in the Robotics Institute and is the director of the RPAD Lab: Robots Perceiving And Doing. His research focuses on perceptual robot learning, i.e. developing new methods at the intersection of robot perception and planning to teach robots how to manipulate novel, perceptually challenging, and deformable objects. Prior to coming to CMU, David was a postdoctoral researcher at U.C. Berkeley, and he completed his Ph.D. in Computer Science at Stanford University.&nbsp; David also has a B.S. and M.S. in Mechanical Engineering at MIT.&nbsp; David is a recipient of the Google Faculty Research Award in 2017 and the NSF CAREER Award in 2021.1-on-1 sign up sheet: https://docs.google.com/spreadsheets/d/1U3hi4Tt4VNp0eG_vI7kI65RwdKeTc5SvJ-5QsmRvcdk/edit?usp=sharing TBD May 21, 2026 Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Ryan Lehmkuhl UC Berkeley EECS Part Of CSAIL Security Seminar 2025 - 2026 11:00 A - 12:00 P Location 32-G882",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|[CSL Seminar] David Held - Precise and Generalizable Robot Manipulation Title:Precise and Generalizable Robot Manipulation|2026-05-18T13:30:00-04:00",
+    "include": false,
+    "reject_reasons": [
+      "generic_series_without_talk_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear",
+    "start": "2026-05-21T11:00:00-04:00",
+    "end": "2026-05-21T12:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, and proof-of-concept deployments by Apple, Google, and Mozilla. In spite of this progress, few of the apps we use today actually collect telemetry data using private aggregation.This talk will try to answer two questions: Why is the real-world use of private-aggregation systems so limited? And what can we do about it? To do so, we will draw on our experience designing private-aggregations systems and on conversations with engineers at Apple, Cloudflare, Google, Mozilla, and ISRG who have deployed them. TBD May 22, 2026 [ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything Jing (Jane) Li (UPenn) 10:00 A - 11:00 A Location 32-G449",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear|2026-05-21T11:00:00-04:00",
+    "include": false,
+    "reject_reasons": [
+      "generic_title",
+      "title_too_long_or_description",
       "title_too_long_or_description",
       "title_too_long_or_description",
       "score_below_threshold",
@@ -6007,7 +6765,7 @@
   },
   {
     "title": "MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.",
-    "start": "2027-03-12T00:00:00-05:00",
+    "start": "2027-03-13T00:00:00-05:00",
     "end": null,
     "timezone": "America/New_York",
     "speaker": "Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.",
@@ -6027,7 +6785,7 @@
       "topic_bonus:+30:finance",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT Sloan Finance Seminars|MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.|2027-03-12",
+    "uid_seed": "MIT Sloan Finance Seminars|MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.|2027-03-13",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -6365,13 +7123,14 @@
     "uid_seed": "MIT Sloan Finance Seminars|MIT Sloan Finance Seminar — Tarun Ramadorai | London School of Economics and Political Science|2026-05-13",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
   {
     "title": "MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars",
-    "start": "2026-05-12T00:00:00-04:00",
+    "start": "2026-05-13T00:00:00-04:00",
     "end": null,
     "timezone": "America/New_York",
     "speaker": "MIT Sloan Academic Areas Research Seminars",
@@ -6391,7 +7150,7 @@
       "topic_bonus:+30:finance",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT Sloan Finance Fallback|MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars|2026-05-12",
+    "uid_seed": "MIT Sloan Finance Fallback|MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars|2026-05-13",
     "include": false,
     "reject_reasons": [
       "past_event",
@@ -6423,35 +7182,6 @@
       "source_error"
     ],
     "http_status": null
-  },
-  {
-    "title": "Theory for innovative cosmological tests of dark matter-baryon interactions",
-    "start": "2026-02-12T16:00:00+00:00",
-    "end": "2026-02-12T17:00:00+00:00",
-    "timezone": "UTC",
-    "speaker": "Yacine Ali-Haimoud, New York University More: https://www.ias.edu/sns/events/institute-advanced-study-astrophysics-seminar-140 Among many things, dark matter could be made of new fundamental or composite particles, which may feebly interact with nuclei or electrons (“baryons”), as well as with themselves. Cosmological observables are a promising avenue to test such interactions, and are complementary to direct-detection experiments, in particular for probing relatively light dark matter particles. In this talk I will motivate two projects to build theoretical tools for innovative and higher-sensitivity cosmological tests of dark matter interactions -- in the hopes to recruit help in finishing them! In Project 1, I propose to expand and implement a new framework allowing us to study dark matter- baryon interactions and dark matter self-interactions simultaneously and self-consistently: the Boltzmann-Fokker-Planck (BFP) formalism, which I introduced in arXiv:1811.09903. The goal is to expand the BFP framework to incorporate dark matter self-interactions with arbitrary strengths, and implement it into the Boltzmann code CLASS. In Project 2, I motivate quantifying a completely novel signature of dark matter-baryon scattering, namely non-Gaussianity in the Cosmic Microwave Background (CMB) arising from the non-linearity of the dark matter-baryon momentum-exchange rate. This idea has similarities with a previous study my former student Jensen and I conducted on primordial black holes, which I will briefly highlight.",
-    "affiliation": null,
-    "location": "Bloomberg Lecture Hall",
-    "online_url": null,
-    "source_name": "IAS Princeton Physics Events",
-    "source_url": "https://www.ias.edu/sns/events/physics",
-    "event_url": "https://www.ias.edu/sns/events/institute-advanced-study-astrophysics-seminar-140",
-    "description": "Topic: Theory for innovative cosmological tests of dark matter-baryon interactions Speakers: Yacine Ali-Haimoud, New York University More: https://www.ias.edu/sns/events/institute-advanced-study-astrophysics-seminar-140 Among many things, dark matter could be made of new fundamental or composite particles, which may feebly interact with nuclei or electrons (“baryons”), as well as with themselves. Cosmological observables are a promising avenue to test such interactions, and are complementary to direct-detection experiments, in particular for probing relatively light dark matter particles. In this talk I will motivate two projects to build theoretical tools for innovative and higher-sensitivity cosmological tests of dark matter interactions -- in the hopes to recruit help in finishing them! In Project 1, I propose to expand and implement a new framework allowing us to study dark matter- baryon interactions and dark matter self-interactions simultaneously and self-consistently: the Boltzmann-Fokker-Planck (BFP) formalism, which I introduced in arXiv:1811.09903. The goal is to expand the BFP framework to incorporate dark matter self-interactions with arbitrary strengths, and implement it into the Boltzmann code CLASS. In Project 2, I motivate quantifying a completely novel signature of dark matter-baryon scattering, namely non-Gaussianity in the Cosmic Microwave Background (CMB) arising from the non-linearity of the dark matter-baryon momentum-exchange rate. This idea has similarities with a previous study my former student Jensen and I conducted on primordial black holes, which I will briefly highlight.",
-    "categories": [
-      "Physics"
-    ],
-    "score": 90,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "IAS Princeton Physics Events|https://www.ias.edu/sns/events/institute-advanced-study-astrophysics-seminar-140|Theory for innovative cosmological tests of dark matter-baryon interactions|2026-02-12T16:00:00+00:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
   },
   {
     "title": "Rethinking about gravitational instability as a planet formation scenario",

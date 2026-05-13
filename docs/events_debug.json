@@ -1,85 +1,5 @@
 [
   {
-    "title": "Turbulence Ahead: Economic Policies for Decarbonizing Aviation",
-    "start": "2026-05-12T11:30:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": "Sebastian Rausch",
-    "affiliation": "University of Heidelberg & ZEW",
-    "location": "TUM School of Management, Room",
-    "online_url": null,
-    "source_name": "TUM SEEM",
-    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "description": "Speaker: Sebastian Rausch. Affiliation: University of Heidelberg & ZEW. TUM School of Management, Room",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:60",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM SEEM|Turbulence Ahead: Economic Policies for Decarbonizing Aviation|2026-05-12T11:30:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "A Theoretical Point of View on Machine Unlearning and Privacy",
-    "start": "2026-05-12T13:30:00-04:00",
-    "end": "2026-05-12T15:30:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "A Theoretical Point of View on Machine Unlearning and Privacy Abstract:How do machine learning models really “learn” the data?Modern models learn complex patterns and high-level structure from massive datasets, yet surprisingly, it is often possible to efficiently remove the influence of a single training example without significantly affecting overall performance. While this phenomenon may appear deceptively simple, it offers a powerful lens for understanding the learning and unlearning process itself.Machine Unlearning is motivated by privacy regulations and the growing demand for trustworthy AI. In practice, many successful methods rely on surprisingly simple operations such as gradient ascent or projection, while the main theoretical foundations, rooted in Differential Privacy theory, remain limited in scope and difficult to reconcile with strong empirical results. In this talk, I will present our novel unlearning criterion, rooted in learning theory and its implicit bias. I will discuss how the effect of a single data point can be isolated from the training process in several settings, and present a new perspective on practical and theoretically grounded unlearning.Short bio: I am a PhD student in the Department of Applied Mathematics and Computer Science at the Weizmann Institute of Science, advised by Prof. Adi Shamir. My research focuses on trustworthy AI, machine learning security, and the theory of deep learning, with an emphasis on adversarial robustness and machine unlearning. I combine theoretical analysis with practical methods, including empirical evaluation on modern learning systems. TBD Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Hadas Orgad Kempner Institute, Harvard 2:00 P - 3:00 P Location 45-792 45-792",
-    "categories": [
-      "AI",
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|A Theoretical Point of View on Machine Unlearning and Privacy|2026-05-12T13:30:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
-    "start": "2026-05-13T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Machine Learning Natural Language Processing Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Wolfgang Lehrach | Code World Models for General Game Playing|2026-05-13T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes",
     "start": "2026-05-13T13:00:00+02:00",
     "end": "2026-05-13T14:00:00+02:00",
@@ -118,7 +38,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a huge industry, to an extent it has lost its way. What is needed to get us back on track to true intelligence? Most of all we need agents that learn continually from their first-person experience. We also need world models and planning. We need knowledge that is high-level and learnable. We need to meta-learn how to generalize. The Oak architecture is an approach based on reinforcement learning that seeks to satisfy all these needs and which has three special features. First, all of its components learn continually. Second, each learned weight has a dedicated step-size parameter that is meta-learned using online cross-validation. And third, abstractions in state and time are continually created in a five-step progression: 1) create a new feature, 2) pose a subproblems to achieve the feature, 3) learn to solve the subproblem, 4) learn a transition (world) model of the solution, and 5) plan using the transition model. The Oak architecture is rather meaty; in this talk I will give an outline and point to the many works, prior and contemporaneous, that are contributing to its overall vision of how superintelligence can arise from an agent’s experience.Bio: Richard Sutton is a recipient of the ACM Turing Award, the highest distinction in computing science. He is also a fellow of the Royal Society of London, the Royal Society of Canada, and the Association for the Advancement of Artificial Intelligence. At the University of Alberta, Sutton teaches and designs learning algorithms for artificial intelligence and reinforcement learning. At the Alberta Machine Intelligence Institute, he is Chief Scientific Advisor and a Canada CIFAR AI chair. Earlier, he studied at Stanford University and the University of Massachusetts, and worked at GTE Labs, AT&amp;T Labs, and DeepMind. His scientific publications have been cited about 180,000 times and include the defining textbook on reinforcement learning. Sutton’s research emphasizes learning from the agent’s first-person experience without training from a teacher or a prepared dataset. He is also a libertarian, a chess player, and a cancer survivor.&nbsp; TBD May 14, 2026 CSAIL Open Studios: Performing arts 10:00 A - 4:00 P Location TBD",
+    "description": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a huge industry, to an extent it has lost its way. What is needed to get us back on track to true intelligence? Most of all we need agents that learn continually from their first-person experience. We also need world models and planning. We need knowledge that is high-level and learnable. We need to meta-learn how to generalize. The Oak architecture is an approach based on reinforcement learning that seeks to satisfy all these needs and which has three special features. First, all of its components learn continually. Second, each learned weight has a dedicated step-size parameter that is meta-learned using online cross-validation. And third, abstractions in state and time are continually created in a five-step progression: 1) create a new feature, 2) pose a subproblems to achieve the feature, 3) learn to solve the subproblem, 4) learn a transition (world) model of the solution, and 5) plan using the transition model. The Oak architecture is rather meaty; in this talk I will give an outline and point to the many works, prior and contemporaneous, that are contributing to its overall vision of how superintelligence can arise from an agent’s experience.Bio: Richard Sutton is a recipient of the ACM Turing Award, the highest distinction in computing science. He is also a fellow of the Royal Society of London, the Royal Society of Canada, and the Association for the Advancement of Artificial Intelligence. At the University of Alberta, Sutton teaches and designs learning algorithms for artificial intelligence and reinforcement learning. At the Alberta Machine Intelligence Institute, he is Chief Scientific Advisor and a Canada CIFAR AI chair. Earlier, he studied at Stanford University and the University of Massachusetts, and worked at GTE Labs, AT&amp;T Labs, and DeepMind. His scientific publications have been cited about 180,000 times and include the defining textbook on reinforcement learning. Sutton’s research emphasizes learning from the agent’s first-person experience without training from a teacher or a prepared dataset. He is also a libertarian, a chess player, and a cancer survivor.&nbsp; TBD May 14, 2026 Thesis Defense: Reconciling AI Representations and User Mental Models Angie Boggust MIT CSAIL Part Of Thesis Defense 12:00 P - 1:00 P Location 32-D463 Star",
     "categories": [
       "AI"
     ],
@@ -188,6 +108,58 @@
       "online_bonus:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Arvind Narayanan | Adapting to the Transformation of Knowledge Work|2026-05-18T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Pint of Science Festival:Talk Quantum to Me",
+    "start": "2026-05-19T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Pint of Science Festival:Talk Quantum to Me|2026-05-19T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes",
+    "start": "2026-05-20T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "20 May 2026 Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 11 June 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes|2026-05-20T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },

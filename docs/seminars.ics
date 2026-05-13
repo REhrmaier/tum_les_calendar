@@ -10,12 +10,26 @@ SUMMARY:[Finance] Arvind Narayanan | Adapting to the Transformation of Knowledge
 UID:88d794fbecb5118d62e439d6@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events This year\, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Vo
+DTEND:20260518T233000Z
+DTSTART:20260518T220000Z
+SUMMARY:[Quantum] Pint of Science Festival:Talk Quantum to Me
+UID:7360fdbba710357d4e4e93b9@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Jun 03\, 2026 12:00 PM - 1:15 PM Music is intertwined with human emotion\, memory\, and identity\, making it a powerful medium for affec
 DTEND:20260603T083000Z
 LOCATION:12:00 PM - 1:15 PM
 DTSTART:20260603T070000Z
 SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition
 UID:d18599c4758c8617b639cca3@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes Public Events This year\, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 11 June 2026 PhD CafÃ© P
+DTEND:20260519T233000Z
+DTSTART:20260519T220000Z
+SUMMARY:[Quantum] Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes
+UID:9dcd2164f560c723e04fe0b7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton\, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a hug
@@ -25,35 +39,12 @@ SUMMARY:[AI] Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of 
 UID:ed776d370cf168a362d8e13c@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; penalty:-25:exam\nExcerpt: A Theoretical Point of View on Machine Unlearning and Privacy Abstract:How do machine learning models really “learn” the data?Modern models learn complex patterns and high-level structure from massive datasets\, yet surprisingly\, it is often
-DTEND:20260512T193000Z
-DTSTART:20260512T173000Z
-SUMMARY:[AI] A Theoretical Point of View on Machine Unlearning and Privacy
-UID:690094162888c9d05cccd8e8@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
 DTSTART:20260602T070000Z
 SUMMARY:[AI] 2026 RAISE Health Symposium
 UID:9b698c0cf0a3ad161d30ada7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13\, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains\, relying on them for direct policy generation in games often results in illeg
-DTEND:20260513T083000Z
-LOCATION:12:00 PM - 1:15 PM
-DTSTART:20260513T070000Z
-SUMMARY:[AI] Wolfgang Lehrach | Code World Models for General Game Playing
-UID:3a37c729a9fff5bec0a6c242@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Sebastian Rausch\nAffiliation: University of Heidelberg & ZEW\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Sebastian Rausch. Affiliation: University of Heidelberg & ZEW. TUM School of Management\, Room
-DTEND:20260512T110000Z
-LOCATION:TUM School of Management\, Room
-DTSTART:20260512T093000Z
-SUMMARY:[General High Impact] Turbulence Ahead: Economic Policies for Decarbonizing Aviation — Sebastian Rausch
-UID:1f5a3dc6e5ea84c6b1e5c9c4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: IAS Princeton Physics Events\nSource URL: https://www.ias.edu/sns/events/physics\nEvent URL: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3\nOnline URL: \nSpeaker: Tapio Schneider\, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain\, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach\, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM)\, developed by the Climate Modeling Alliance (CliMA)\, which is performance-portable across modern computing architectures. The talk will cover key new concepts and results\, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.\nAffiliation: \nLocation: Rubenstein Commons | Meeting Room 5\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; local_bonus:+15\nExcerpt: Topic: First Principles\, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling Speakers: Tapio Schneider\, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 Whi
