@@ -32,13 +32,6 @@ SUMMARY:[Quantum] Pint of Science: Komplexe Systeme verstehen: Von Quantenexperi
 UID:9dcd2164f560c723e04fe0b7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton\, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a hug
-DTEND:20260513T220000Z
-DTSTART:20260513T210000Z
-SUMMARY:[AI] Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof
-UID:ed776d370cf168a362d8e13c@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
@@ -90,13 +83,5 @@ LOCATION:12:00 PM - 1:15 PM
 DTSTART:20260520T070000Z
 SUMMARY:[Energy] Inside the 2026 AI Index Report | Stanford HAI
 UID:04eddb1467368f910555c599@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Dr. Gianluca Pauletto\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Dr. Gianluca Pauletto on “Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes”
-DTEND:20260513T120000Z
-LOCATION:Online
-DTSTART:20260513T110000Z
-SUMMARY:[General High Impact] Electrifying the Chemical Industry: How Electric Heating can Power Chemical Processes — Dr. Gianluca Pauletto
-UID:8153c3cd02059810742596f2@tum-les-calendar
 END:VEVENT
 END:VCALENDAR

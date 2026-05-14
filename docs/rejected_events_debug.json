@@ -111,6 +111,7 @@
     "uid_seed": "TUM Central Events|https://www.tum.de/en/news-and-events/all-news/press-releases/details/improving-plastics-recycling-from-end-of-life-vehicles|Improving plastics recycling from end-of-life vehicles|2026-05-13T11:00:00+02:00",
     "include": false,
     "reject_reasons": [
+      "past_event",
       "score_below_threshold"
     ]
   },
@@ -951,87 +952,6 @@
     ]
   },
   {
-    "title": "Prof. Angela Gronenborn (U Pittsburgh): \"The magic of linking rings\"",
-    "start": "2026-05-13T13:30:00+02:00",
-    "end": "2026-05-13T14:30:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": "extern",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "as part of Lecture Series: Bayerisches NMR Zentrum (BNMRZ) Seminar room 1101, BNMRZ, E.O.Fischer-Str. 2, Garching",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 35,
-    "score_reasons": [
-      "source_weight:20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Prof. Angela Gronenborn (U Pittsburgh): \"The magic of linking rings\"|2026-05-13T13:30:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Plasmaphysik",
-    "start": "2026-05-13T14:00:00+02:00",
-    "end": "2026-05-13T15:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Tim Happel Ph.D. as part of Lecture Series \"Introduction to Current Aspects of Scientific Research\"",
-    "affiliation": null,
-    "location": "PH HS1",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://bbb.tum.de/rooms/6qx-q2d-90t-cx1/join",
-    "description": "Speaker: Prof. Tim Happel Ph.D. as part of Lecture Series \"Introduction to Current Aspects of Scientific Research\"",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 35,
-    "score_reasons": [
-      "source_weight:20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://bbb.tum.de/rooms/6qx-q2d-90t-cx1/join|Plasmaphysik|2026-05-13T14:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Ultrakurzzeitphysik",
-    "start": "2026-05-13T15:00:00+02:00",
-    "end": "2026-05-13T16:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Dr. Reinhard Kienberger as part of Lecture Series \"Introduction to Current Aspects of Scientific Research\"",
-    "affiliation": null,
-    "location": "PH HS1",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://bbb.tum.de/rooms/6qx-q2d-90t-cx1/join",
-    "description": "Speaker: Prof. Dr. Reinhard Kienberger as part of Lecture Series \"Introduction to Current Aspects of Scientific Research\"",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 35,
-    "score_reasons": [
-      "source_weight:20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://bbb.tum.de/rooms/6qx-q2d-90t-cx1/join|Ultrakurzzeitphysik|2026-05-13T15:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "How molecules compete for space on crowded catalyst surfaces",
     "start": "2026-05-18T10:00:00+02:00",
     "end": "2026-05-18T11:00:00+02:00",
@@ -1053,6 +973,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36456|How molecules compete for space on crowded catalyst surfaces|2026-05-18T10:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Hydride-doped Coinage Metal Nanoclusters: From Superatomic Alloys to Superclusters",
+    "start": "2026-05-18T17:15:00+02:00",
+    "end": "2026-05-18T19:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Chen-Wei Liu, National Dong Hwa University (Guest of T. Fässler)",
+    "affiliation": null,
+    "location": "CH 27402",
+    "online_url": null,
+    "source_name": "TUM Natural Sciences Events",
+    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
+    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36463",
+    "description": "as part of Lecture Series: TUM Talks Inorganic Symposium Speaker: Prof. Chen-Wei Liu, National Dong Hwa University (Guest of T. Fässler)",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 35,
+    "score_reasons": [
+      "source_weight:20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36463|Hydride-doped Coinage Metal Nanoclusters: From Superatomic Alloys to Superclusters|2026-05-18T17:15:00+02:00",
     "include": false,
     "reject_reasons": [
       "score_below_threshold"
@@ -1143,7 +1090,7 @@
   {
     "title": "Magnetic Nanomaterials for Control of Neural Signaling via Sensory Ion Channels.",
     "start": "2026-05-22T14:00:00+02:00",
-    "end": "2026-05-22T16:00:00+02:00",
+    "end": "2026-05-22T15:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -1281,9 +1228,9 @@
     ]
   },
   {
-    "title": "Title: Can AI really help us find new antibiotics?",
+    "title": "Can AI really help us find new antibiotics?",
     "start": "2026-05-29T14:00:00+02:00",
-    "end": "2026-05-29T16:00:00+02:00",
+    "end": "2026-05-29T15:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -1301,7 +1248,7 @@
       "source_weight:20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Title: Can AI really help us find new antibiotics?|2026-05-29T14:00:00+02:00",
+    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Can AI really help us find new antibiotics?|2026-05-29T14:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "score_below_threshold"
@@ -1472,9 +1419,9 @@
     ]
   },
   {
-    "title": "CPA Seminar",
+    "title": "Structural and functional plasticity of cytokine receptor signaling complexes",
     "start": "2026-06-12T14:00:00+02:00",
-    "end": "2026-06-12T16:00:00+02:00",
+    "end": "2026-06-12T15:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -1483,20 +1430,18 @@
     "source_name": "TUM Natural Sciences Events",
     "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
     "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "Prof. Dr. Jacob Piehler, Univ. Osnabrück",
+    "description": "as part of CPA Seminar Prof. Dr. Jacob Piehler, Univ. Osnabrück",
     "categories": [
       "General High Impact"
     ],
-    "score": 20,
+    "score": 35,
     "score_reasons": [
       "source_weight:20",
-      "local_bonus:+15",
-      "penalty:-15:weak_title_no_speaker"
+      "local_bonus:+15"
     ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|CPA Seminar|2026-06-12T14:00:00+02:00",
+    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Structural and functional plasticity of cytokine receptor signaling complexes|2026-06-12T14:00:00+02:00",
     "include": false,
     "reject_reasons": [
-      "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
@@ -1556,36 +1501,6 @@
     ]
   },
   {
-    "title": "CPA Seminar",
-    "start": "2026-06-17T14:00:00+02:00",
-    "end": "2026-06-17T16:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": "CPA EG.006A",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "Prof. Timothy Springer, Harvard Medical School",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 40,
-    "score_reasons": [
-      "source_weight:20",
-      "institution_signal:+20",
-      "local_bonus:+15",
-      "penalty:-15:weak_title_no_speaker"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|CPA Seminar|2026-06-17T14:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_series_without_talk_title",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Physics with Positrons",
     "start": "2026-06-17T14:00:00+02:00",
     "end": "2026-06-17T15:00:00+02:00",
@@ -1610,6 +1525,36 @@
     "uid_seed": "TUM Natural Sciences Events|https://bbb.tum.de/rooms/6qx-q2d-90t-cx1/join|Physics with Positrons|2026-06-17T14:00:00+02:00",
     "include": false,
     "reject_reasons": [
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "CPA Seminar",
+    "start": "2026-06-17T14:00:00+02:00",
+    "end": "2026-06-17T15:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": "CPA EG.006A",
+    "online_url": null,
+    "source_name": "TUM Natural Sciences Events",
+    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
+    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
+    "description": "Prof. Timothy Springer, Harvard Medical School",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 40,
+    "score_reasons": [
+      "source_weight:20",
+      "institution_signal:+20",
+      "local_bonus:+15",
+      "penalty:-15:weak_title_no_speaker"
+    ],
+    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|CPA Seminar|2026-06-17T14:00:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
@@ -1753,7 +1698,7 @@
   {
     "title": "CPA Seminar",
     "start": "2026-06-26T14:00:00+02:00",
-    "end": "2026-06-26T16:00:00+02:00",
+    "end": "2026-06-26T15:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
@@ -2028,6 +1973,33 @@
     ]
   },
   {
+    "title": "Tailoring Enzymes for Medicinal Chemistry (Buller) and Tailor-made Biomolecules by Molecular Evolution: Engineering Defluorinases for PFAS Degradation (Mayer)",
+    "start": "2026-07-08T12:30:00+02:00",
+    "end": "2026-07-08T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": "CPA EG.006A",
+    "online_url": null,
+    "source_name": "TUM Natural Sciences Events",
+    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
+    "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
+    "description": "as part of CPA Seminar Prof. Rebecca Buller, Prof. Clemens Mayer",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 35,
+    "score_reasons": [
+      "source_weight:20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Tailoring Enzymes for Medicinal Chemistry (Buller) and Tailor-made Biomolecules by Molecular Evolution: Engineering Defluorinases for PFAS Degradation (Mayer)|2026-07-08T12:30:00+02:00",
+    "include": false,
+    "reject_reasons": [
+      "score_below_threshold"
+    ]
+  },
+  {
     "title": "Nanotechnologie und -materialien",
     "start": "2026-07-08T15:00:00+02:00",
     "end": "2026-07-08T16:00:00+02:00",
@@ -2166,31 +2138,29 @@
     ]
   },
   {
-    "title": "CPA Seminar",
-    "start": "2026-07-17T14:00:00+02:00",
-    "end": "2026-07-17T16:00:00+02:00",
+    "title": "Toward miniaturised and multiplexed assay platforms for on-site (bio)chemical analysis",
+    "start": "2026-07-17T10:00:00+02:00",
+    "end": "2026-07-17T11:00:00+02:00",
     "timezone": "Europe/Berlin",
     "speaker": null,
     "affiliation": null,
-    "location": "CPA EG.006A",
+    "location": "MIBE E.126",
     "online_url": null,
     "source_name": "TUM Natural Sciences Events",
     "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
     "event_url": "https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0",
-    "description": "Prof. Jesse Veenvliet, MPI Dresden",
+    "description": "as part of CPA Seminar Dr. Knut Rurak",
     "categories": [
       "General High Impact"
     ],
-    "score": 20,
+    "score": 35,
     "score_reasons": [
       "source_weight:20",
-      "local_bonus:+15",
-      "penalty:-15:weak_title_no_speaker"
+      "local_bonus:+15"
     ],
-    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|CPA Seminar|2026-07-17T14:00:00+02:00",
+    "uid_seed": "TUM Natural Sciences Events|https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0|Toward miniaturised and multiplexed assay platforms for on-site (bio)chemical analysis|2026-07-17T10:00:00+02:00",
     "include": false,
     "reject_reasons": [
-      "generic_series_without_talk_title",
       "score_below_threshold"
     ]
   },
@@ -3445,36 +3415,8 @@
     ]
   },
   {
-    "title": "Achieving Socio-Economic Parity Through the Lens of EU AI Act",
-    "start": "2026-05-08T10:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCML Events",
-    "source_url": "https://mcml.ai/events/",
-    "event_url": "https://mcml.ai/events/2026-05-13-stat-colloquium/",
-    "description": "06.05.26, 4:15-5:45 pm: Eirini Ntoutsi from University of the Bundeswehr Munich",
-    "categories": [
-      "AI"
-    ],
-    "score": 70,
-    "score_reasons": [
-      "source_weight:55",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCML Events|https://mcml.ai/events/2026-05-13-stat-colloquium/|Achieving Socio-Economic Parity Through the Lens of EU AI Act|2026-05-08T10:00:00+02:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Munich Center for Quantum Science and Technology",
-    "start": "2026-12-13T00:00:00+01:00",
+    "start": "2026-12-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3494,7 +3436,7 @@
       "topic_bonus:+30:quantum",
       "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Munich Center for Quantum Science and Technology|2026-12-13T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Munich Center for Quantum Science and Technology|2026-12-14T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -3503,7 +3445,7 @@
   },
   {
     "title": "Diese Seite ist derzeit leider nur auf",
-    "start": "2026-12-13T00:00:00+01:00",
+    "start": "2026-12-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3521,7 +3463,7 @@
     "score_reasons": [
       "source_weight:60"
     ],
-    "uid_seed": "MCQST Events|Diese Seite ist derzeit leider nur auf|2026-12-13T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Diese Seite ist derzeit leider nur auf|2026-12-14T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "score_below_threshold"
@@ -3529,7 +3471,7 @@
   },
   {
     "title": "13 May 2026",
-    "start": "2027-05-13T00:00:00+02:00",
+    "start": "2027-05-14T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -3551,7 +3493,7 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "MCQST Events|13 May 2026|2027-05-13T00:00:00+02:00",
+    "uid_seed": "MCQST Events|13 May 2026|2027-05-14T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "date_only_title",
@@ -4060,7 +4002,7 @@
   },
   {
     "title": "Munich Quantum Center",
-    "start": "2026-12-13T00:00:00+01:00",
+    "start": "2026-12-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -4081,7 +4023,7 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "Munich Quantum Center Events|Munich Quantum Center|2026-12-13T00:00:00+01:00",
+    "uid_seed": "Munich Quantum Center Events|Munich Quantum Center|2026-12-14T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4090,7 +4032,7 @@
   },
   {
     "title": "Diese Seite ist derzeit leider nur auf",
-    "start": "2026-12-13T00:00:00+01:00",
+    "start": "2026-12-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -4110,7 +4052,7 @@
       "topic_bonus:+30:quantum",
       "local_bonus:+15"
     ],
-    "uid_seed": "Munich Quantum Center Events|Diese Seite ist derzeit leider nur auf|2026-12-13T00:00:00+01:00",
+    "uid_seed": "Munich Quantum Center Events|Diese Seite ist derzeit leider nur auf|2026-12-14T00:00:00+01:00",
     "include": false,
     "reject_reasons": [
       "internal_or_student_community",
@@ -4119,7 +4061,7 @@
   },
   {
     "title": "11 May -",
-    "start": "2026-10-13T00:00:00+02:00",
+    "start": "2026-10-14T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -4140,7 +4082,7 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "Munich Quantum Center Events|11 May -|2026-10-13T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|11 May -|2026-10-14T00:00:00+02:00",
     "include": false,
     "reject_reasons": [
       "internal_or_student_community",
@@ -4520,36 +4462,6 @@
     ]
   },
   {
-    "title": "Share HAI Seminar with Wolfgang Lehrach on LinkedIn",
-    "start": "2026-05-20T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "Class/Seminar",
-    "online_url": null,
-    "source_name": "Stanford HAI Events",
-    "source_url": "https://events.stanford.edu/department/hai/calendar",
-    "event_url": "https://events.stanford.edu/department/hai/calendar",
-    "description": "Share HAI Seminar with Wolfgang Lehrach on X Share HAI Seminar with Wolfgang Lehrach on LinkedIn Wednesday, May 20 Class/Seminar HAI Seminar The AI Index with Sha Sajadieh Wed, May 20, 2026 12pm to 1:15pm PT Gates Computer Science Building, 119 Register",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events|Share HAI Seminar with Wolfgang Lehrach on LinkedIn|2026-05-20T00:00:00-07:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "generic_series_without_talk_title",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "Share HAI Seminar The AI Index with Sha Sajadieh on LinkedIn",
     "start": "2026-05-27T00:00:00-07:00",
     "end": null,
@@ -4640,98 +4552,8 @@
     ]
   },
   {
-    "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-13T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "13",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "May 13, 2026 12:00 PM - 1:15 PM May 13 2026 While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. May 13",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play.",
-    "start": "2027-05-13T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "13",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. May 13 2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play.|2027-05-13T00:00:00-07:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "title_too_long_or_description",
-      "title_too_long_or_description",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
-    "start": "2026-05-13T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Machine Learning Natural Language Processing Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Wolfgang Lehrach | Code World Models for General Game Playing|2026-05-13T00:00:00-07:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4751,7 +4573,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4760,7 +4582,7 @@
   },
   {
     "title": "The possibility that AI will automate most cognitive labor is worth taking seriously",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4780,7 +4602,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The possibility that AI will automate most cognitive labor is worth taking seriously|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The possibility that AI will automate most cognitive labor is worth taking seriously|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4790,7 +4612,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4810,7 +4632,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4819,7 +4641,7 @@
   },
   {
     "title": "The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4839,7 +4661,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The AI Index, currently in its ninth year, tracks, collates, distills, and visualizes data relating to artificial intelligence.|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4850,7 +4672,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4869,7 +4691,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4878,7 +4700,7 @@
   },
   {
     "title": "Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4897,7 +4719,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first.|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "title_too_long_or_description",
@@ -4908,7 +4730,7 @@
   },
   {
     "title": "The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all",
-    "start": "2026-06-13T00:00:00-07:00",
+    "start": "2026-06-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4929,7 +4751,7 @@
       "topic_bonus:+25:medicine",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all|2026-06-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all|2026-06-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4942,7 +4764,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2026-06-13T00:00:00-07:00",
+    "start": "2026-06-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4961,7 +4783,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-06-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-06-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -4970,7 +4792,7 @@
   },
   {
     "title": "Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.",
-    "start": "2026-06-13T00:00:00-07:00",
+    "start": "2026-06-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -4989,12 +4811,70 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.|2026-06-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation.|2026-06-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
       "title_too_long_or_description",
       "score_below_threshold",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "12:00 PM - 1:15 PM",
+    "start": "2027-05-14T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "13",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "May 13, 2026 12:00 PM - 1:15 PM May 13 2026 While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-05-14T00:00:00-07:00",
+    "include": false,
+    "reject_reasons": [
+      "generic_title",
+      "score_below_threshold"
+    ]
+  },
+  {
+    "title": "Wolfgang Lehrach | Code World Models for General Game Playing",
+    "start": "2026-05-13T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Wolfgang Lehrach | Code World Models for General Game Playing May 13, 2026 12:00 PM - 1:15 PM While Large Language Models (LLMs) show promise in many domains, relying on them for direct policy generation in games often results in illegal moves and poor strategic play. Machine Learning Natural Language Processing Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s)",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Wolfgang Lehrach | Code World Models for General Game Playing|2026-05-13T00:00:00-07:00",
+    "include": false,
+    "reject_reasons": [
+      "past_event",
       "score_below_threshold"
     ]
   },
@@ -5010,7 +4890,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "Workshops Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11, 2026 12:00 PM - 1:00 PM May 11 2026 We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American manufacturing. Working with the Census Bureau to collect detailed large-scale data for 2017 and 2021, we focus on AI-related technologies with industrial applications.",
+    "description": "Natural Language Processing Kristina McElheran | The Rise of Industrial AI in America: Microfoundations of the Productivity J-curve(s) May 11, 2026 12:00 PM - 1:00 PM May 11 2026 We examine the prevalence and productivity dynamics of artificial intelligence (AI) in American manufacturing. Working with the Census Bureau to collect detailed large-scale data for 2017 and 2021, we focus on AI-related technologies with industrial applications.",
     "categories": [
       "AI"
     ],
@@ -5030,7 +4910,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5051,7 +4931,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5091,7 +4971,7 @@
   },
   {
     "title": "8:30 AM - 6:45 PM",
-    "start": "2027-05-13T00:00:00-07:00",
+    "start": "2027-05-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5116,7 +4996,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|8:30 AM - 6:45 PM|2027-05-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|8:30 AM - 6:45 PM|2027-05-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5153,7 +5033,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-13T00:00:00-07:00",
+    "start": "2027-04-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5172,7 +5052,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5211,7 +5091,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-04-13T00:00:00-07:00",
+    "start": "2027-04-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5230,7 +5110,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-04-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-04-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5297,7 +5177,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-13T00:00:00-07:00",
+    "start": "2027-04-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5317,7 +5197,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5384,7 +5264,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-04-13T00:00:00-07:00",
+    "start": "2027-04-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5403,7 +5283,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-04-14T00:00:00-07:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5442,7 +5322,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-03-13T00:00:00-08:00",
+    "start": "2027-03-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5463,7 +5343,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5532,7 +5412,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-03-13T00:00:00-08:00",
+    "start": "2027-03-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5551,7 +5431,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5590,7 +5470,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-03-13T00:00:00-08:00",
+    "start": "2027-03-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5609,7 +5489,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-03-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5675,7 +5555,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-03-13T00:00:00-08:00",
+    "start": "2027-03-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5695,7 +5575,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-03-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5734,7 +5614,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-02-13T00:00:00-08:00",
+    "start": "2027-02-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5757,7 +5637,7 @@
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5827,7 +5707,7 @@
   },
   {
     "title": "12:00 PM - 1:00 PM",
-    "start": "2027-02-13T00:00:00-08:00",
+    "start": "2027-02-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5847,7 +5727,7 @@
       "topic_bonus:+30:artificial intelligence",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-02-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:00 PM|2027-02-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5885,7 +5765,7 @@
   },
   {
     "title": "8:00 AM - 5:00 PM",
-    "start": "2027-02-13T00:00:00-08:00",
+    "start": "2027-02-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5904,7 +5784,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|8:00 AM - 5:00 PM|2027-02-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|8:00 AM - 5:00 PM|2027-02-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5913,7 +5793,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-02-13T00:00:00-08:00",
+    "start": "2027-02-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5932,7 +5812,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-02-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -5969,7 +5849,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-01-13T00:00:00-08:00",
+    "start": "2027-01-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -5988,7 +5868,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -6054,7 +5934,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2027-01-13T00:00:00-08:00",
+    "start": "2027-01-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -6073,7 +5953,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2027-01-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -6112,7 +5992,7 @@
   },
   {
     "title": "12:00 PM - 1:15 PM",
-    "start": "2026-12-13T00:00:00-08:00",
+    "start": "2026-12-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -6131,7 +6011,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-12-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|12:00 PM - 1:15 PM|2026-12-14T00:00:00-08:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -6167,66 +6047,9 @@
     ]
   },
   {
-    "title": "3:00 PM - 4:30 PM",
-    "start": "2026-12-13T00:00:00-08:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "02",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "Dec 02, 2025 3:00 PM - 4:30 PM December 02 2025 On December 2, 2025, the Lab is thrilled to host a conversation with Sandy Pentland, Stanford Digital Economy Lab Faculty Lead and Stanford HAI Center Fellow, about his new book, Shared Wisdom: Cultural Evolution in the Age of AI .",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|3:00 PM - 4:30 PM|2026-12-13T00:00:00-08:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Shared Wisdom: A Conversation with Sandy Pentland and Cade Metz",
-    "start": "2025-12-02T00:00:00-08:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "3:00 PM - 4:30 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": ". Shared Wisdom: A Conversation with Sandy Pentland and Cade Metz Dec 02, 2025 3:00 PM - 4:30 PM On December 2, 2025, the Lab is thrilled to host a conversation with Sandy Pentland, Stanford Digital Economy Lab Faculty Lead and Stanford HAI Center Fellow, about his new book, Shared Wisdom: Cultural Evolution in the Age of AI . Economy, Markets",
-    "categories": [
-      "Finance",
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Shared Wisdom: A Conversation with Sandy Pentland and Cade Metz|2025-12-02T00:00:00-08:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "A Theoretical Point of View on Machine Unlearning and Privacy",
-    "start": "2026-05-12T13:30:00-04:00",
-    "end": "2026-05-12T15:30:00-04:00",
+    "title": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof",
+    "start": "2026-05-13T17:00:00-04:00",
+    "end": "2026-05-13T18:00:00-04:00",
     "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
@@ -6235,215 +6058,23 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "A Theoretical Point of View on Machine Unlearning and Privacy Abstract:How do machine learning models really “learn” the data?Modern models learn complex patterns and high-level structure from massive datasets, yet surprisingly, it is often possible to efficiently remove the influence of a single training example without significantly affecting overall performance. While this phenomenon may appear deceptively simple, it offers a powerful lens for understanding the learning and unlearning process itself.Machine Unlearning is motivated by privacy regulations and the growing demand for trustworthy AI. In practice, many successful methods rely on surprisingly simple operations such as gradient ascent or projection, while the main theoretical foundations, rooted in Differential Privacy theory, remain limited in scope and difficult to reconcile with strong empirical results. In this talk, I will present our novel unlearning criterion, rooted in learning theory and its implicit bias. I will discuss how the effect of a single data point can be isolated from the training process in several settings, and present a new perspective on practical and theoretically grounded unlearning.Short bio: I am a PhD student in the Department of Applied Mathematics and Computer Science at the Weizmann Institute of Science, advised by Prof. Adi Shamir. My research focuses on trustworthy AI, machine learning security, and the theory of deep learning, with an emphasis on adversarial robustness and machine unlearning. I combine theoretical analysis with practical methods, including empirical evaluation on modern learning systems. TBD Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Hadas Orgad Kempner Institute, Harvard 2:00 P - 3:00 P Location 45-792 45-792",
+    "description": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof. Richard Sutton, ACM Turing AwardeeThe Oak Architecture: A Vision of Superintelligence from ExperienceAbstract: As AI has become a huge industry, to an extent it has lost its way. What is needed to get us back on track to true intelligence? Most of all we need agents that learn continually from their first-person experience. We also need world models and planning. We need knowledge that is high-level and learnable. We need to meta-learn how to generalize. The Oak architecture is an approach based on reinforcement learning that seeks to satisfy all these needs and which has three special features. First, all of its components learn continually. Second, each learned weight has a dedicated step-size parameter that is meta-learned using online cross-validation. And third, abstractions in state and time are continually created in a five-step progression: 1) create a new feature, 2) pose a subproblems to achieve the feature, 3) learn to solve the subproblem, 4) learn a transition (world) model of the solution, and 5) plan using the transition model. The Oak architecture is rather meaty; in this talk I will give an outline and point to the many works, prior and contemporaneous, that are contributing to its overall vision of how superintelligence can arise from an agent’s experience.Bio: Richard Sutton is a recipient of the ACM Turing Award, the highest distinction in computing science. He is also a fellow of the Royal Society of London, the Royal Society of Canada, and the Association for the Advancement of Artificial Intelligence. At the University of Alberta, Sutton teaches and designs learning algorithms for artificial intelligence and reinforcement learning. At the Alberta Machine Intelligence Institute, he is Chief Scientific Advisor and a Canada CIFAR AI chair. Earlier, he studied at Stanford University and the University of Massachusetts, and worked at GTE Labs, AT&amp;T Labs, and DeepMind. His scientific publications have been cited about 180,000 times and include the defining textbook on reinforcement learning. Sutton’s research emphasizes learning from the agent’s first-person experience without training from a teacher or a prepared dataset. He is also a libertarian, a chess player, and a cancer survivor.&nbsp; TBD May 14, 2026 Thesis Defense: Reconciling AI Representations and User Mental Models Angie Boggust MIT CSAIL Part Of Thesis Defense 12:00 P - 1:00 P Location 32-D463 Star",
     "categories": [
-      "AI",
-      "Math"
+      "AI"
     ],
     "score": 100,
     "score_reasons": [
       "source_weight:55",
       "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|A Theoretical Point of View on Machine Unlearning and Privacy|2026-05-12T13:30:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly",
-    "start": "2026-05-12T14:00:00-04:00",
-    "end": "2026-05-12T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly. Whether this brittleness reflects a fundamental lack of coherent internal organization for harmfulness remains unclear. Here we use targeted weight pruning as a causal intervention to probe the internal organization of harmfulness in LLMs. We find that harmful content generation depends on a compact set of weights that are general across harm types and distinct from benign capabilities. Aligned models show a greater compression of harm generation weights than unaligned counterparts, indicating that alignment reshapes harmful representations internally---despite the brittleness of safety guardrails at the surface level. This explains emergent misalignment: if weights of harmful capabilities are compressed, fine-tuning that engages these weights in one domain can trigger broad misalignment. Consistent with this, pruning harm generation weights in a narrow domain substantially reduces emergent misalignment. Notably, LLMs generate harmful content with a distinct mechanism, dissociated from how they recognize and explain such content. Together, these results reveal a coherent internal structure for harmfulness in LLMs that may serve as a foundation for more principled approaches to safety.Use the following link to set a meeting with the speaker:https://docs.google.com/spreadsheets/d/1ANUHpD_EPx5uND7mhWRbf_v41Fz2Xtujkg4kqafBJgM/edit?usp=sharing TBD THESIS DEFENSE: Advancing Language Models for Reasoning and Beyond Text Kaiwen Zha MIT-CSAIL 2:00 P - 4:00 P Location 32-D463 STAR Conference Room",
-    "categories": [
-      "AI"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly|2026-05-12T14:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "generic_title",
-      "low_value_event_type",
-      "title_too_long_or_description",
-      "internal_or_student_community",
-      "score_below_threshold",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "THESIS DEFENSE: Advancing Language Models for Reasoning and Beyond Text &nbsp;Title: Advancing Language Models for Reasoning and Beyond Text",
-    "start": "2026-05-12T14:00:00-04:00",
-    "end": "2026-05-12T16:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Advancing Language Models for Reasoning and Beyond Text &nbsp;Title: Advancing Language Models for Reasoning and Beyond TextSpeaker: Kaiwen ZhaDate: May 12, 2026Time: 2pm - 4pmLocation: 32-D463 (Star)Zoom: https://mit.zoom.us/my/kaiwenzhaThesis Committee: Prof. Dina Katabi, Dr. Aude Oliva, Prof. Kaiming He&nbsp;Abstract:Modern language models have achieved remarkable success in natural language processing and increasingly serve as a foundation for generative modeling. However, two fundamental challenges remain: current training paradigms still struggle with complex multi-step and long-context reasoning, and language modeling paradigms remain difficult to extend efficiently beyond text to other modalities and domains.&nbsp;This thesis presents new training and modeling approaches that advance language models along both directions. I will first introduce reinforcement learning frameworks that improve reasoning capabilities through process-level supervision and adaptive long-context processing. These methods enable language models to reason more effectively over complex intermediate steps and long inputs. Next, I will present approaches that extend language modeling beyond text through new tokenization and generative modeling techniques for continuous and high-dimensional data. I introduce methods for modeling physiological signals as tokenized sequences and for improving image tokenization using language-guided semantic representations, enabling more expressive and efficient multimodal generation. TBD HCI Seminar - Zana Bucinca - Worker-Centric AI Zana Bucinca Microsoft Part Of HCI Seminar 2025-2026 4:00 P - 5:00 P Location 32-D463",
-    "categories": [
-      "AI"
-    ],
-    "score": 70,
-    "score_reasons": [
-      "source_weight:55",
+      "high_impact:+50",
       "institution_signal:+20",
       "online_bonus:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Advancing Language Models for Reasoning and Beyond Text &nbsp;Title: Advancing Language Models for Reasoning and Beyond Text|2026-05-12T14:00:00-04:00",
+    "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Prof|2026-05-13T17:00:00-04:00",
     "include": false,
     "reject_reasons": [
       "past_event",
-      "generic_title",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "HCI Seminar - Zana Bucinca - Worker-Centric AI",
-    "start": "2026-05-12T16:00:00-04:00",
-    "end": "2026-05-12T17:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "HCI Seminar - Zana Bucinca - Worker-Centric AI Abstract:The large-scale deployment of AI&nbsp;systems in knowledge&nbsp;work is impacting not only productivity and&nbsp;work&nbsp;quality but also&nbsp;workers' values and workplace dynamics. I argue that how we design and deploy AI-infused technologies will shape people's skills and competence, their sense of agency, collaboration with others, and even the meaning they derive from their&nbsp;work. I design human-AI&nbsp;interaction techniques that complement people and amplify their values in AI-assisted&nbsp;work. My research focuses on (1) understanding how people make AI-assisted decisions and (2) designing novel interaction paradigms, explanations and systems that optimize human-centric&nbsp;outcomes (e.g., human skills) and output-centric&nbsp;outcomes (e.g., decision accuracy) in AI-assisted tasks. In this talk, I will present a suite of interaction techniques I have introduced to optimize AI-assisted decision-making. These include cognitive forcing interventions that reduce overreliance on AI, adaptive AI&nbsp;support that enables human-AI&nbsp;complementarity in decision accuracy, and contrastive explanations that improve both decision accuracy and users’ task-related skills.Bio:Zana Buçinca is a Postdoctoral Researcher at Microsoft, and an incoming Assistant Professor at MIT, with a shared appointment in Sloan and EECS. She earned her PhD in Computer Science at Harvard, where her research at the intersection of human-AI&nbsp;interaction and responsible AI&nbsp;integrated cognitive and social science theories to design novel interaction techniques that complement workers&nbsp;and amplify their values in AI-assisted tasks. Her work&nbsp;has been recognized with the IBM PhD Fellowship, a Siebel Scholarship, and Best Paper Awards at CHI and IUI. She has also been named a Rising Star in AI&nbsp;by the University of Michigan, a Rising Star in Management Science &amp; Engineering by Stanford, and one of the Top 10 Most Inspiring Women in STEM by UNDP Kosovo.This talk will also be streamed over Zoom: https://mit.zoom.us/j/98673878359. TBD Slop Is a Skill Issue: The Engineering Around Coding Agents Thomas Dietert Mercury 4:00 P - 5:00 P Location TBD Virtual",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|HCI Seminar - Zana Bucinca - Worker-Centric AI|2026-05-12T16:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "generic_series_without_talk_title",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "Slop Is a Skill Issue",
-    "start": "2026-05-12T16:00:00-04:00",
-    "end": "2026-05-12T17:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Slop Is a Skill Issue: The Engineering Around Coding Agents &nbsp;Slop Is a Skill Issue: The Engineering Around Coding AgentsBy: Thomas Dietert&nbsp;Date: Tuesday, May 12th 2026Time: 4:00 PM to 5:00 PMRegistration:&nbsp;https://mit.zoom.us/meeting/register/2r12PuhfTQq_snMuLfgddg&nbsp;Abstract:Getting the most out of state-of-the-art coding agents requires deliberate, intentional management of the context window on every turn. The model's prior output, the results of any tool calls, and whatever else the harness includes all compete for space in a finite resource, and the choices you make about what fills it largely determine the quality of what comes out. Coding agents can feel like magic, but the productivity gains the frontier labs advertise only show up when those choices are made carefully: which tools you expose, how the harness shapes each turn, and how the environment pushes back when the agent gets something wrong.In this talk I'll share three disciplines that, in my experience building production AI agents at Nectry and Mercury, do most of that work: context engineering, harness engineering, and backpressure. It is easy to confuse the feeling of using an AI tool with the reality of being more productive, and most engineers settle for a fraction of what these tools can actually do. Attendees will leave with a concrete vocabulary for diagnosing why their coding agents fail and a set of patterns and workflows they can apply immediately to get higher-quality results out of Claude Code and similar tools.Bio:Thomas Dietert is a Software Engineer on the AI Engineering team at Mercury, where he leads the background coding agent platform used across Mercury engineering. He is also a Technical Advisor to Nectry, a startup building AI agents with correctness guarantees. Before working on agents, Thomas built compilers, programming language tooling, and ML systems infrastructure for AI accelerator companies like Groq, Rain AI, and Luminous Computing.&nbsp; TBD List Decoding Expander-Based Codes (up to capacity, in near-linear time) Madhur Tulsiani Toyota Technological Institute at Chicago Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 95,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Slop Is a Skill Issue|2026-05-12T16:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "List Decoding Expander-Based Codes (up to capacity, in near-linear time) We will talk about a new framework based on graph regularity lemmas, for list decoding and list recovery of codes based on spectral expanders",
-    "start": "2026-05-12T16:15:00-04:00",
-    "end": "2026-05-12T17:15:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "List Decoding Expander-Based Codes (up to capacity, in near-linear time) We will talk about a new framework based on graph regularity lemmas, for list decoding and list recovery of codes based on spectral expanders. These constructions often proceed by showing that the distance of local constant-sized codes can be lifted to a distance lower bound for the global code. The regularity framework allows us to similarly lift list size bounds for local base codes, to list size bounds for the global codes. This allows us to obtain novel combinatorial bounds for list decoding and list recovery up to optimal radius, for Tanner codes of Sipser and Spielman, and for the distance amplification scheme of Alon, Edmonds, and Luby. Further, using existing algorithms for computing weak-regularity decompositions of sparse graphs, these tasks can be performed in (randomized) near-linear time. Based on joint work with Shashank Srivastava. TBD May 13, 2026 CSAIL Open Studios: Performing arts Part Of CSAIL Forum 10:00 A - 4:00 P Location TBD",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|List Decoding Expander-Based Codes (up to capacity, in near-linear time) We will talk about a new framework based on graph regularity lemmas, for list decoding and list recovery of codes based on spectral expanders|2026-05-12T16:15:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "past_event",
-      "generic_title",
-      "title_too_long_or_description",
-      "title_too_long_or_description",
-      "title_too_long_or_description",
-      "score_below_threshold",
-      "score_below_threshold"
-    ]
-  },
-  {
-    "title": "CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM",
-    "start": "2026-05-13T10:00:00-04:00",
-    "end": "2026-05-13T16:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM. We have reserved several performing spaces in Stata for your performing arts: music, dance, spoken word, video/film.&nbsp;Open to all CSAIL members (and performing members ie, troupes, ensembles, bands, etc with at least one CSAIL member). We look forward to this opportunity for us to connect across our community, get to know something more about one another, and share our art. Please sign up&nbsp;by Friday, May 1&nbsp;so we can draft schedules for mutual agreement (ensure enough space, allot sufficient time for each performance, ensure resources are aligned).&nbsp;&nbsp;Direct questions and input to open-studios-volunteers@csail.mit.edu&nbsp; TBD Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience Richard Sutton ACM Turing Awardee; Univ. of Alberta Part Of Dertouzos Distinguished Lecture 5:00 P - 6:00 P Location 32-123 Kirsch Auditorium, Stata Center",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|CSAIL Open Studios: Performing arts CSAIL Open Studios: Performing Arts will be held&nbsp;Wednesday May 13 &amp; Thursday May 14, with a closing&nbsp;reception on Thursday 4-5 PM|2026-05-13T10:00:00-04:00",
-    "include": false,
-    "reject_reasons": [
-      "generic_title",
-      "low_value_event_type",
-      "internal_or_student_community",
       "score_below_threshold"
     ]
   },
@@ -6603,7 +6234,7 @@
     ]
   },
   {
-    "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear",
+    "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS This talk was rescheduled to May 21.Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear",
     "start": "2026-05-21T11:00:00-04:00",
     "end": "2026-05-21T12:00:00-04:00",
     "timezone": "America/New_York",
@@ -6614,7 +6245,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, and proof-of-concept deployments by Apple, Google, and Mozilla. In spite of this progress, few of the apps we use today actually collect telemetry data using private aggregation.This talk will try to answer two questions: Why is the real-world use of private-aggregation systems so limited? And what can we do about it? To do so, we will draw on our experience designing private-aggregations systems and on conversations with engineers at Apple, Cloudflare, Google, Mozilla, and ISRG who have deployed them. TBD May 22, 2026 [ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything Jing (Jane) Li (UPenn) 10:00 A - 11:00 A Location 32-G449",
+    "description": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS This talk was rescheduled to May 21.Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, and proof-of-concept deployments by Apple, Google, and Mozilla. In spite of this progress, few of the apps we use today actually collect telemetry data using private aggregation.This talk will try to answer two questions: Why is the real-world use of private-aggregation systems so limited? And what can we do about it? To do so, we will draw on our experience designing private-aggregations systems and on conversations with engineers at Apple, Cloudflare, Google, Mozilla, and ISRG who have deployed them. TBD May 22, 2026 [ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything Jing (Jane) Li (UPenn) 10:00 A - 11:00 A Location 32-G449",
     "categories": [
       "General High Impact"
     ],
@@ -6623,7 +6254,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT CSAIL Events|Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear|2026-05-21T11:00:00-04:00",
+    "uid_seed": "MIT CSAIL Events|Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS This talk was rescheduled to May 21.Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear|2026-05-21T11:00:00-04:00",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -6765,7 +6396,7 @@
   },
   {
     "title": "MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.",
-    "start": "2027-03-13T00:00:00-05:00",
+    "start": "2027-03-14T00:00:00-05:00",
     "end": null,
     "timezone": "America/New_York",
     "speaker": "Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.",
@@ -6785,7 +6416,7 @@
       "topic_bonus:+30:finance",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT Sloan Finance Seminars|MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.|2027-03-13",
+    "uid_seed": "MIT Sloan Finance Seminars|MIT Sloan Finance Seminar — Through intellectual rigor and experiential learning, this full-time, two-year MBA program prepares leaders to make a difference in the world.|2027-03-14",
     "include": false,
     "reject_reasons": [
       "generic_title",
@@ -7130,7 +6761,7 @@
   },
   {
     "title": "MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars",
-    "start": "2026-05-13T00:00:00-04:00",
+    "start": "2026-05-14T00:00:00-04:00",
     "end": null,
     "timezone": "America/New_York",
     "speaker": "MIT Sloan Academic Areas Research Seminars",
@@ -7150,7 +6781,7 @@
       "topic_bonus:+30:finance",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT Sloan Finance Fallback|MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars|2026-05-13",
+    "uid_seed": "MIT Sloan Finance Fallback|MIT Sloan Finance Seminar — MIT Sloan Academic Areas Research Seminars|2026-05-14",
     "include": false,
     "reject_reasons": [
       "past_event",
