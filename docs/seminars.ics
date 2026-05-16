@@ -32,6 +32,13 @@ SUMMARY:[Quantum] Pint of Science: Komplexe Systeme verstehen: Von Quantenexperi
 UID:9dcd2164f560c723e04fe0b7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
+DTEND:20260709T233000Z
+DTSTART:20260709T220000Z
+SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation
+UID:0029e0891ca8246f0cae7db5@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
@@ -40,26 +47,39 @@ SUMMARY:[AI] 2026 RAISE Health Symposium
 UID:9b698c0cf0a3ad161d30ada7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: IAS Princeton Physics Events\nSource URL: https://www.ias.edu/sns/events/physics\nEvent URL: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3\nOnline URL: \nSpeaker: Tapio Schneider\, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain\, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach\, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM)\, developed by the Climate Modeling Alliance (CliMA)\, which is performance-portable across modern computing architectures. The talk will cover key new concepts and results\, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.\nAffiliation: \nLocation: Simons Hall Dilworth Room\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; local_bonus:+15\nExcerpt: Topic: First Principles\, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling Speakers: Tapio Schneider\, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 Whi
-DTEND:20260515T180000Z
-LOCATION:Simons Hall Dilworth Room
-DTSTART:20260515T160000Z
-SUMMARY:[AI] First Principles\, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling — Tapio Schneider\, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain\, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach\, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM)\, developed by the Climate Modeling Alliance (CliMA)\, which is performance-portable across modern computing architectures. The talk will cover key new concepts and results\, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.
-UID:55eadb4b38ce795dc8916953@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST C
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST C
 DTEND:20260615T233000Z
 DTSTART:20260615T220000Z
 SUMMARY:[Quantum] Quantencomputer: Eine Revolution der Rechenwelt?
-UID:3504aceb983bd9841beb2106@tum-les-calendar
+UID:5c8d2f8f92b00ab273aecb17@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
-DTEND:20260709T233000Z
-DTSTART:20260709T220000Z
-SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation
-UID:0029e0891ca8246f0cae7db5@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
+DTEND:20261002T233000Z
+DTSTART:20261002T220000Z
+SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
+UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |
+DTEND:20260618T233000Z
+DTSTART:20260618T220000Z
+SUMMARY:[Quantum] Quantum Networks with Atomic Memories
+UID:4df22b7f7849704416a3f01f@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
+DTEND:20260616T233000Z
+DTSTART:20260616T220000Z
+SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
+UID:84c691ebba0eec7c715e693c@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July
+DTEND:20260718T233000Z
+DTSTART:20260718T220000Z
+SUMMARY:[Quantum] MCQST bei der Forscha 2026
+UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition May 27\, 2026 12:00 PM - 1:15 PM Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first. P

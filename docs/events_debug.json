@@ -1,33 +1,5 @@
 [
   {
-    "title": "First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling",
-    "start": "2026-05-15T16:00:00+00:00",
-    "end": "2026-05-15T18:00:00+00:00",
-    "timezone": "UTC",
-    "speaker": "Tapio Schneider, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM), developed by the Climate Modeling Alliance (CliMA), which is performance-portable across modern computing architectures. The talk will cover key new concepts and results, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.",
-    "affiliation": null,
-    "location": "Simons Hall Dilworth Room",
-    "online_url": null,
-    "source_name": "IAS Princeton Physics Events",
-    "source_url": "https://www.ias.edu/sns/events/physics",
-    "event_url": "https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3",
-    "description": "Topic: First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling Speakers: Tapio Schneider, California Institute of Technology More: https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3 While climate change is certain, precisely how climate will change is less clear. But advances in the accuracy of climate projections and in the quantification of their uncertainties are now within reach, thanks to advances in the computational and data sciences and in the availability of Earth observations from space and from the ground. I will survey the design of a new Earth system model (ESM), developed by the Climate Modeling Alliance (CliMA), which is performance-portable across modern computing architectures. The talk will cover key new concepts and results, including how data assimilation (DA) and machine learning (ML) can inform physics-based models with heterogeneous and noisy data and how substantial increases in the accuracy of simulations of uncertain processes can be achieved.",
-    "categories": [
-      "AI",
-      "Physics"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "IAS Princeton Physics Events|https://www.ias.edu/sns/events/institute-advanced-study-multi-scale-initiative-3|First Principles, Fast Algorithms: Physics-AI Synthesis in Earth System Modeling|2026-05-15T16:00:00+00:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
     "start": "2026-05-18T00:00:00-07:00",
     "end": null,
@@ -222,19 +194,75 @@
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Events MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: Munich Quantum Center Events",
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Events MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: MCQST Events",
     "categories": [
       "Quantum"
     ],
     "score": 100,
     "score_reasons": [
       "source_weight:60",
-      "high_impact:+50"
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Quantum Computers for the Future (and for Cocktail Parties)",
+    "start": "2026-06-17T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium |",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Quantum Computers for the Future (and for Cocktail Parties)|2026-06-17T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Quantum Networks with Atomic Memories",
+    "start": "2026-06-19T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Quantum Networks with Atomic Memories|2026-06-19T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -265,6 +293,31 @@
     "reject_reasons": []
   },
   {
+    "title": "MCQST bei der Forscha 2026",
+    "start": "2026-07-19T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|MCQST bei der Forscha 2026|2026-07-19T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Girls for Science 2026",
     "start": "2026-07-24T00:00:00+02:00",
     "end": null,
@@ -287,6 +340,34 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Girls for Science 2026|2026-07-24T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Tag der Offenen TÃ¼r Garching 2026",
+    "start": "2026-10-03T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   }
