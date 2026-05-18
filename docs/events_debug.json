@@ -1,33 +1,5 @@
 [
   {
-    "title": "Arvind Narayanan | Adapting to the Transformation of Knowledge Work",
-    "start": "2026-05-18T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:00 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Arvind Narayanan | Adapting to the Transformation of Knowledge Work May 18, 2026 12:00 PM - 1:00 PM The possibility that AI will automate most cognitive labor is worth taking seriously. How should we adapt to this transformation? I start from the perspective, articulated in the essay “AI as normal technology”, that the true bottlenecks lie downstream of capabilities and that AI’s impacts will unfold gradually over decades. If this is true, there are major gaps in our current evidence infrastructure, because it over-emphasizes the capability layer. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
-    "categories": [
-      "Finance",
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Arvind Narayanan | Adapting to the Transformation of Knowledge Work|2026-05-18T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Pint of Science Festival:Talk Quantum to Me",
     "start": "2026-05-19T00:00:00+02:00",
     "end": null,
