@@ -1,31 +1,5 @@
 [
   {
-    "title": "Pint of Science Festival:Talk Quantum to Me",
-    "start": "2026-05-19T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes Public Events This year, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Pint of Science Festival:Talk Quantum to Me|2026-05-19T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes",
     "start": "2026-05-20T00:00:00+02:00",
     "end": null,

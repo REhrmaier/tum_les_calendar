@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 19 May 2026 Pint of Science Festival:Talk Quantum to Me Public Events This year\, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Vo
-DTEND:20260518T233000Z
-DTSTART:20260518T220000Z
-SUMMARY:[Quantum] Pint of Science Festival:Talk Quantum to Me
-UID:7360fdbba710357d4e4e93b9@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Jun 03\, 2026 12:00 PM - 1:15 PM Music is intertwined with human emotion\, memory\, and identity\, making it a powerful medium for affec
 DTEND:20260603T083000Z
 LOCATION:12:00 PM - 1:15 PM
