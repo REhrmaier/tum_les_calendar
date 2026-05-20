@@ -10,13 +10,6 @@ SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For H
 UID:d18599c4758c8617b639cca3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 20 May 2026 Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes Public Events This year\, the Pint of Science festival brings quantum science and technology to a local Munich pub. Read More 11 June 2026 PhD CafÃ© P
-DTEND:20260519T233000Z
-DTSTART:20260519T220000Z
-SUMMARY:[Quantum] Pint of Science: Komplexe Systeme verstehen: Von Quantenexperimenten bis Memes
-UID:9dcd2164f560c723e04fe0b7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
 DTEND:20260709T233000Z
 DTSTART:20260709T220000Z
@@ -60,13 +53,6 @@ SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
 UID:84c691ebba0eec7c715e693c@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July
-DTEND:20260718T233000Z
-DTSTART:20260718T220000Z
-SUMMARY:[Quantum] MCQST bei der Forscha 2026
-UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition May 27\, 2026 12:00 PM - 1:15 PM Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first. P
 DTEND:20260527T083000Z
 LOCATION:12:00 PM - 1:15 PM
@@ -82,11 +68,10 @@ SUMMARY:[Quantum] Girls for Science 2026
 UID:b3000a6c8fd9a3c6863257ed@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:finance\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Inside the 2026 AI Index Report | Stanford HAI May 20\, 2026 12:00 PM - 1:15 PM The AI Index\, currently in its ninth year\, tracks\, collates\, distills\, and visualizes data relating to artificial intelligence. Economy\, Markets Energy\, Env
-DTEND:20260520T083000Z
-LOCATION:12:00 PM - 1:15 PM
-DTSTART:20260520T070000Z
-SUMMARY:[Energy] Inside the 2026 AI Index Report | Stanford HAI
-UID:04eddb1467368f910555c599@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July
+DTEND:20260718T233000Z
+DTSTART:20260718T220000Z
+SUMMARY:[Quantum] MCQST bei der Forscha 2026
+UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
