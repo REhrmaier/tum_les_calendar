@@ -10,6 +10,14 @@ SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For H
 UID:d18599c4758c8617b639cca3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Angela M. Gronenborn\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Angela M. Gronenborn on “The awesome power of fluorine NMR”
+DTEND:20260527T120000Z
+LOCATION:Online
+DTSTART:20260527T110000Z
+SUMMARY:[General High Impact] The awesome power of fluorine NMR — Prof. Angela M. Gronenborn
+UID:5ab68a9206a98b8f2acbe1cd@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
 DTEND:20260709T233000Z
 DTSTART:20260709T220000Z
@@ -37,6 +45,14 @@ DTEND:20261002T233000Z
 DTSTART:20261002T220000Z
 SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
 UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Florian Diekert\nAffiliation: University of Augsburg\nLocation: ifo Institute\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Florian Diekert. Affiliation: University of Augsburg. ifo Institute
+DTEND:20260616T110000Z
+LOCATION:ifo Institute
+DTSTART:20260616T093000Z
+SUMMARY:[General High Impact] The Behavioral Effects of Early Warning Signals — Florian Diekert
+UID:c77269ebeb3b74ca1b2e5f46@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |
