@@ -25,6 +25,14 @@ SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravi
 UID:0029e0891ca8246f0cae7db5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Stephan Sieber\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Stephan Sieber on “Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition”
+DTEND:20260603T120000Z
+LOCATION:Online
+DTSTART:20260603T110000Z
+SUMMARY:[General High Impact] Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition — Prof. Stephan Sieber
+UID:ad11d561447fe3a1f412e8ca@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
 DTEND:20260602T083000Z
 LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
