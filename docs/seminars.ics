@@ -63,26 +63,18 @@ SUMMARY:[General High Impact] The Behavioral Effects of Early Warning Signals �
 UID:c77269ebeb3b74ca1b2e5f46@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 19 June 2026 Quantum Networks with Atomic Memories Events | Distinguished Lecturer Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |
 DTEND:20260618T233000Z
 DTSTART:20260618T220000Z
 SUMMARY:[Quantum] Quantum Networks with Atomic Memories
 UID:4df22b7f7849704416a3f01f@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Public Events | Distinguished Lecturer Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
 DTEND:20260616T233000Z
 DTSTART:20260616T220000Z
 SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
 UID:84c691ebba0eec7c715e693c@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition May 27\, 2026 12:00 PM - 1:15 PM Strategic stability exists when neither side thinks it can improve its strategic outcome by striking first. P
-DTEND:20260527T083000Z
-LOCATION:12:00 PM - 1:15 PM
-DTSTART:20260527T070000Z
-SUMMARY:[AI] Eyck Freymann | AI and Strategic Stability: A Framework for U.S.–China Technology Competition
-UID:4bfae35980617e8d33e28c7b@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More
