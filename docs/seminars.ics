@@ -10,14 +10,6 @@ SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For H
 UID:d18599c4758c8617b639cca3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Angela M. Gronenborn\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Angela M. Gronenborn on “The awesome power of fluorine NMR”
-DTEND:20260527T120000Z
-LOCATION:Online
-DTSTART:20260527T110000Z
-SUMMARY:[General High Impact] The awesome power of fluorine NMR — Prof. Angela M. Gronenborn
-UID:5ab68a9206a98b8f2acbe1cd@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
 DTEND:20260709T233000Z
 DTSTART:20260709T220000Z
@@ -75,6 +67,14 @@ DTEND:20260616T233000Z
 DTSTART:20260616T220000Z
 SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
 UID:84c691ebba0eec7c715e693c@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Kejia Hu\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Kejia Hu on “Digital Transformation Pathway: The Value of Hybrid Talent”
+DTEND:20260617T120000Z
+LOCATION:Online
+DTSTART:20260617T110000Z
+SUMMARY:[General High Impact] Digital Transformation Pathway: The Value of Hybrid Talent — Prof. Kejia Hu
+UID:aa6f335366a22715b6d50610@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More

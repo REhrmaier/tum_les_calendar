@@ -1,32 +1,5 @@
 [
   {
-    "title": "The awesome power of fluorine NMR",
-    "start": "2026-05-27T13:00:00+02:00",
-    "end": "2026-05-27T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Angela M. Gronenborn",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Angela M. Gronenborn on “The awesome power of fluorine NMR”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|27.05.2026|The awesome power of fluorine NMR|Prof. Angela M. Gronenborn",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "2026 RAISE Health Symposium",
     "start": "2026-06-02T00:00:00-07:00",
     "end": null,
@@ -181,6 +154,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|Quantum Computers for the Future (and for Cocktail Parties)|2026-06-17T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Digital Transformation Pathway: The Value of Hybrid Talent",
+    "start": "2026-06-17T13:00:00+02:00",
+    "end": "2026-06-17T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Kejia Hu",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Kejia Hu on “Digital Transformation Pathway: The Value of Hybrid Talent”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|17.06.2026|Digital Transformation Pathway: The Value of Hybrid Talent|Prof. Kejia Hu",
     "include": true,
     "reject_reasons": []
   },
