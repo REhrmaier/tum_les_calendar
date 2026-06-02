@@ -25,14 +25,6 @@ SUMMARY:[General High Impact] Metronidazole and ether derivates target Helicobac
 UID:ad11d561447fe3a1f412e8ca@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+25:medicine\; institution_signal:+20\nExcerpt: 2026 2026 RAISE Health Symposium Jun 02\, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benef
-DTEND:20260602T083000Z
-LOCATION:The 2026 RAISE Health Symposium will convene leading voices in technology\, medicine\, and policy to explore what’s real\, what’s next\, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.
-DTSTART:20260602T070000Z
-SUMMARY:[AI] 2026 RAISE Health Symposium
-UID:9b698c0cf0a3ad161d30ada7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST C
 DTEND:20260615T233000Z
 DTSTART:20260615T220000Z

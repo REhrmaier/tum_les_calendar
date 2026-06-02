@@ -1,32 +1,5 @@
 [
   {
-    "title": "2026 RAISE Health Symposium",
-    "start": "2026-06-02T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 2026 RAISE Health Symposium Jun 02, 2026 The 2026 RAISE Health Symposium will convene leading voices in technology, medicine, and policy to explore what’s real, what’s next, and what’s needed to ensure AI advances responsibly and benefits all. Registration opens March 11. Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Seminar Jun 03, 2026 12:00 PM - 1:15 PM Also seen in: Stanford HAI Events Main",
-    "categories": [
-      "AI",
-      "Medicine"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+25:medicine",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|2026 RAISE Health Symposium|2026-06-02T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition",
     "start": "2026-06-03T00:00:00-07:00",
     "end": null,
