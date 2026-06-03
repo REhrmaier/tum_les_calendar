@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Jun 03\, 2026 12:00 PM - 1:15 PM Music is intertwined with human emotion\, memory\, and identity\, making it a powerful medium for affec
-DTEND:20260603T083000Z
-LOCATION:12:00 PM - 1:15 PM
-DTSTART:20260603T070000Z
-SUMMARY:[AI] Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition
-UID:d18599c4758c8617b639cca3@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
 DTEND:20260709T233000Z
 DTSTART:20260709T220000Z
@@ -81,5 +73,12 @@ DTEND:20260718T233000Z
 DTSTART:20260718T220000Z
 SUMMARY:[Quantum] MCQST bei der Forscha 2026
 UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Power Term Polynomial Algebra for Boolean Logic Abstract: We introduce power term polynomial algebra\, a representation language for Boolean formulae designed to bridgec onjunctive normal form (CNF) and algebraic normal form (ANF). The langu
+DTEND:20260611T210000Z
+DTSTART:20260611T200000Z
+SUMMARY:[AI] Power Term Polynomial Algebra for Boolean Logic
+UID:6601ec17889b7f26a8e66d93@tum-les-calendar
 END:VEVENT
 END:VCALENDAR

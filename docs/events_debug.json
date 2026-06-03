@@ -1,30 +1,5 @@
 [
   {
-    "title": "Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition",
-    "start": "2026-06-03T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition Jun 03, 2026 12:00 PM - 1:15 PM Music is intertwined with human emotion, memory, and identity, making it a powerful medium for affective experience and regulation. Ethics, Equity, Inclusion Arts, Humanities Previous Events at HAI",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Juan Sebastián Gómez-Cañón | Challenges And Opportunities For Human-Centered Music Emotion Recognition|2026-06-03T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition",
     "start": "2026-06-03T13:00:00+02:00",
     "end": "2026-06-03T14:00:00+02:00",
@@ -48,6 +23,35 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM IAS Wednesday Coffee Talks|03.06.2026|Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition|Prof. Stephan Sieber",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Power Term Polynomial Algebra for Boolean Logic",
+    "start": "2026-06-11T16:00:00-04:00",
+    "end": "2026-06-11T17:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Power Term Polynomial Algebra for Boolean Logic Abstract: We introduce power term polynomial algebra, a representation language for Boolean formulae designed to bridgec onjunctive normal form (CNF) and algebraic normal form (ANF). The language is motivated by the tiling mismatch between these representations: direct CNF↔ANF conversion may cause exponential blowup unless formulas are decomposed into smaller fragments using auxiliary variables and side constraints. In contrast, our framework addresses this mismatch within the representation itself, compactly encoding structured families of monomials while representing CNF clauses directly, thereby avoiding auxiliary variables and constraints at the abstraction level. We formalize the language through power terms and power term polynomials, define theirsemantics, and show that they admit algebraic operations corresponding to Boolean polynomial addition andmultiplication. We prove several key properties of the language: disjunctive clauses admit compact canonical representations; power terms support local shortening and expansion rewrite rules; and products of atomic terms can be systematically rewritten within the language. Together, these results yield a symbolic calculus that enables direct manipulation of formulae without expanding them into ordinary ANF. The resulting framework provides a new intermediate representation and rewriting calculus that bridges clause-based and algebraic reasoning and suggests new directions for structure-aware CNF↔ANF conversion and hybrid reasoning methods.Bio: Emanuele Sansone is Marie Curie Postdoctoral Fellow at KU Leuven and previously at MIT CSAIL. His research interests lie at the intersection between unsupervised learning, neuro-symbolic programming and program synthesis. His research vision is to empower machines with the capability to acquire and discover knowledge from data in an autonomous, scalable and reliable manner.ZOOM: &nbsp;https://mit.zoom.us/j/96643478302 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science & Artificial Intelligence Laboratory 32 Vassar St, Cambridge MA 02139 Contact Press Requests Accessibility",
+    "categories": [
+      "AI",
+      "Neuroscience"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Power Term Polynomial Algebra for Boolean Logic|2026-06-11T16:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
