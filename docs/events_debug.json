@@ -27,6 +27,32 @@
     "reject_reasons": []
   },
   {
+    "title": "2026 Conference on Physics and AI (PAI26)",
+    "start": "2026-06-10T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "The",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 2026 Conference on Physics and AI (PAI26) Jun 10, 2026 The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Workshop",
+    "categories": [
+      "AI",
+      "Physics"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|2026 Conference on Physics and AI (PAI26)|2026-06-10T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Power Term Polynomial Algebra for Boolean Logic",
     "start": "2026-06-11T16:00:00-04:00",
     "end": "2026-06-11T17:00:00-04:00",
@@ -64,10 +90,10 @@
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Events MCQST Colloquium | Distinguished Lecturer Christopher Monroe (Duke University, USA) Also seen in: MCQST Events",
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -78,7 +104,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "Munich Quantum Center Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
+    "uid_seed": "MCQST Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -119,7 +145,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium |",
+    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -173,7 +199,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |",
+    "description": "19 June 2026 Quantum Networks with Atomic Memories Events | Distinguished Lecturer Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events | Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -200,7 +226,7 @@
     "source_name": "Munich Quantum Center Events",
     "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
     "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events",
+    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 17 July - 19 July 2026 MCQST bei der Forscha 2026 Events |",
     "categories": [
       "Quantum"
     ],
@@ -211,6 +237,31 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation|2026-07-10T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS",
+    "start": "2026-07-15T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "2:00 PM - 3:30 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Previous Events at HAI All Conference",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS|2026-07-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -226,7 +277,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events",
+    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -277,7 +328,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More",
+    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -290,6 +341,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Quantum Talents Symposium Munich 2026",
+    "start": "2026-10-27T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More Load More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "Munich Quantum Center Events|Quantum Talents Symposium Munich 2026|2026-10-27T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
