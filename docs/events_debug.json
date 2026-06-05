@@ -1,32 +1,5 @@
 [
   {
-    "title": "Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition",
-    "start": "2026-06-03T13:00:00+02:00",
-    "end": "2026-06-03T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Stephan Sieber",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Stephan Sieber on “Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|03.06.2026|Metronidazole and ether derivates target Helicobacter pylori via simultaneous stress induction and inhibition|Prof. Stephan Sieber",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "2026 Conference on Physics and AI (PAI26)",
     "start": "2026-06-10T00:00:00-07:00",
     "end": null,
