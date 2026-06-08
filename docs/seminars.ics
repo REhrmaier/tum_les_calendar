@@ -40,7 +40,7 @@ SUMMARY:[AI] 2026 Conference on Physics and AI (PAI26)
 UID:89ff7e0cacd161aa569a78ab@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distingui
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Public Ev
 DTEND:20260615T233000Z
 DTSTART:20260615T220000Z
 SUMMARY:[Quantum] Quantencomputer: Eine Revolution der Rechenwelt?
@@ -61,7 +61,7 @@ SUMMARY:[Quantum] Quantum Talents Symposium Munich 2026
 UID:c66429dab8eb4880bc9887d4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Public Events | Distinguished Lecturer Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
 DTEND:20260616T233000Z
 DTSTART:20260616T220000Z
 SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
@@ -90,10 +90,10 @@ SUMMARY:[Quantum] MCQST bei der Forscha 2026
 UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Power Term Polynomial Algebra for Boolean Logic Abstract: We introduce power term polynomial algebra\, a representation language for Boolean formulae designed to bridgec onjunctive normal form (CNF) and algebraic normal form (ANF). The langu
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Power Term Polynomial Algebra for Boolean Logic Abstract: We introduce power term polynomial algebra\, a representation language for Boolean formulae designed to bridgec onjunctive normal form (CNF) and algebraic normal form (ANF). The langu
 DTEND:20260611T210000Z
 DTSTART:20260611T200000Z
-SUMMARY:[AI] Power Term Polynomial Algebra for Boolean Logic
+SUMMARY:[Neuroscience] Power Term Polynomial Algebra for Boolean Logic
 UID:6601ec17889b7f26a8e66d93@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
