@@ -1,27 +1,28 @@
 [
   {
-    "title": "2026 Conference on Physics and AI (PAI26)",
-    "start": "2026-06-10T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
+    "title": "Sensing the Invisible Universe with Gravitational Waves",
+    "start": "2026-06-10T13:00:00+02:00",
+    "end": "2026-06-10T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Laura Cadonati",
     "affiliation": null,
-    "location": "The",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 2026 Conference on Physics and AI (PAI26) Jun 10, 2026 The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Workshop",
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Laura Cadonati on “Sensing the Invisible Universe with Gravitational Waves”",
     "categories": [
-      "AI",
-      "Physics"
+      "General High Impact"
     ],
-    "score": 75,
+    "score": 100,
     "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
     ],
-    "uid_seed": "Stanford HAI Events Main|2026 Conference on Physics and AI (PAI26)|2026-06-10T00:00:00-07:00",
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|10.06.2026|Sensing the Invisible Universe with Gravitational Waves|Prof. Dr. Laura Cadonati",
     "include": true,
     "reject_reasons": []
   },
@@ -64,7 +65,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Public Events | Distinguished Lecturer Public Talk Also seen in: Munich Quantum Center Events",
+    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -116,7 +117,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Public Events | Distinguished Lecturer Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Also seen in: Munich Quantum Center Events",
+    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -170,7 +171,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 June 2026 Quantum Networks with Atomic Memories Events | Distinguished Lecturer Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events | Also seen in: Munich Quantum Center Events",
+    "description": "19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events | Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -248,7 +249,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 24 July 2026 Girls for Science 2026 EDI | Public Events Also seen in: Munich Quantum Center Events",
+    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -284,6 +285,31 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Girls for Science 2026|2026-07-24T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Das MEP öffnet seine Türen",
+    "start": "2026-10-03T00:00:00+02:00",
+    "end": "2026-10-04T00:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": "TUM MEP",
+    "online_url": null,
+    "source_name": "TUM MEP Termine",
+    "source_url": "https://www.mep.tum.de/mep/aktuelles/termine/",
+    "event_url": "https://www.mep.tum.de/mep/aktuelles/termine/",
+    "description": "Wir laden Sie ein, bei den nächsten Veranstaltungen des MEP dabei zu sein.",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM MEP Termine|Das MEP öffnet seine Türen|2026-10-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
