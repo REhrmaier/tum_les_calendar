@@ -16,11 +16,11 @@ SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravi
 UID:0029e0891ca8246f0cae7db5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
-UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July
+DTEND:20260718T233000Z
+DTSTART:20260718T220000Z
+SUMMARY:[Quantum] MCQST bei der Forscha 2026
+UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2:00 PM - 3:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15\, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with ze
@@ -31,12 +31,11 @@ SUMMARY:[AI] NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS
 UID:dceb26c7862f8caea39b2eca@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Dr. Laura Cadonati\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Laura Cadonati on “Sensing the Invisible Universe with Gravitational Waves”
-DTEND:20260610T120000Z
-LOCATION:Online
-DTSTART:20260610T110000Z
-SUMMARY:[General High Impact] Sensing the Invisible Universe with Gravitational Waves — Prof. Dr. Laura Cadonati
-UID:60171849a8b04cb9b2650e14@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
+DTEND:20261002T233000Z
+DTSTART:20261002T220000Z
+SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
+UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Florian Diekert\nAffiliation: University of Augsburg\nLocation: ifo Institute\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Florian Diekert. Affiliation: University of Augsburg. ifo Institute
@@ -83,11 +82,12 @@ SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
 UID:84c691ebba0eec7c715e693c@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July
-DTEND:20260718T233000Z
-DTSTART:20260718T220000Z
-SUMMARY:[Quantum] MCQST bei der Forscha 2026
-UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Kejia Hu\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Kejia Hu on “Digital Transformation Pathway: The Value of Hybrid Talent”
+DTEND:20260617T120000Z
+LOCATION:Online
+DTSTART:20260617T110000Z
+SUMMARY:[General High Impact] Digital Transformation Pathway: The Value of Hybrid Talent — Prof. Kejia Hu
+UID:aa6f335366a22715b6d50610@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More
@@ -102,13 +102,6 @@ DTEND:20260616T170000Z
 DTSTART:20260616T160000Z
 SUMMARY:[Buildings] Towards Understanding and Improving Multimodal Models using Interpretability Tools
 UID:8f2dfe1ae7dedc3da4283c57@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Power Term Polynomial Algebra for Boolean Logic Abstract: We introduce power term polynomial algebra\, a representation language for Boolean formulae designed to bridgec onjunctive normal form (CNF) and algebraic normal form (ANF). The langu
-DTEND:20260611T210000Z
-DTSTART:20260611T200000Z
-SUMMARY:[Neuroscience] Power Term Polynomial Algebra for Boolean Logic
-UID:6601ec17889b7f26a8e66d93@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
