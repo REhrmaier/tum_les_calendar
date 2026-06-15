@@ -52,6 +52,34 @@
     "reject_reasons": []
   },
   {
+    "title": "Towards Understanding and Improving Multimodal Models using Interpretability Tools",
+    "start": "2026-06-16T12:00:00-04:00",
+    "end": "2026-06-16T13:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Towards Understanding and Improving Multimodal Models using Interpretability Tools Abstract:Modern multimodal models are highly powerful, yet often brittle in certain ways, such as susceptibility to hallucinations or misleading reasoning traces. Understanding how these models work is a key step to fixing them. In this talk, we first discuss approaches to make vision encoders---a core component of multimodal models---inherently interpretable to faithfully attribute outputs to inputs, and explore two complementary approaches to do so. Then, we look at making this interpretability actionable by using explanations as a signal to fix model behaviour. Starting from the promise shown by use of such tools to improve small models, we then discuss how they may be used to understand and mitigate issues faced by large-scale multimodal models.Bio:Sukrut Rao is a PhD student at the Max Planck Institute for Informatics, advised by Bernt Schiele. His PhD research has focused on bringing inherent interpretability to vision models and scaling to interpretable variants of foundation models like CLIP and DINO via faithful attributions (NeurIPS 2024,&nbsp;CVPR 2026), concept decompositions (arXiv 2026,&nbsp;ECCV 2024), and bringing the two together (NeurIPS 2025); and also using human feedback via explanations to improve models (ICCV 2023). His current research interests broadly include making interpretability actionable for building trustworthy and safe multimodal models, for example, ensuring faithfulness of chains-of-thought and addressing model hallucinations. He has also co-organized multiple workshops on explainable computer vision at CVPR, ICCV, and ECCV.Meet with the Speaker:https://docs.google.com/spreadsheets/d/1NHgEMlXjxO1JuZ6D5g6r9tiIKheeiBLmFxhvveGy9hU/edit?usp=sharing&nbsp; TBD June 17, 2026 Securing Agentic AI: Contextual Security and Beyond 2:00 P - 3:00 P Location 32-G882",
+    "categories": [
+      "Buildings",
+      "AI"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|Towards Understanding and Improving Multimodal Models using Interpretability Tools|2026-06-16T12:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Quantum Computers for the Future (and for Cocktail Parties)",
     "start": "2026-06-17T00:00:00+02:00",
     "end": null,
@@ -160,6 +188,35 @@
     "reject_reasons": []
   },
   {
+    "title": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks",
+    "start": "2026-06-24T12:00:00-04:00",
+    "end": "2026-06-24T14:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp;Several years ago, language models were brittle when it came to programming, mathematics, and reasoning. Today, AI coding assistants are widely used by software engineers, and AI systems have helped mathematicians achieve breakthrough results. This progress was driven not only by modeling innovations, but also by evaluations that highlighted emerging capabilities and exposed failure modes.In this talk, I will discuss three lessons I have learned from language model evaluation. First, it is crucial to focus on the right metrics and eliminate confounding biases. This can include contamination, low-quality code, and hallucinated reasoning chains that arrive at the correct answer. Second, looking beyond the score can reveal hidden nuances in language models, such as uneven capabilities across closely related tasks and benchmark overfitting. Third, evaluations inevitably shape how a field moves forward by turning observations into measurable goals.I will conclude by synthesizing what these evaluations suggest about the broader challenges ahead for AI in software engineering.Thesis Committee: &nbsp;Professor Armando Solar-Lezama, MIT; Professor Jacob Andreas, MIT; and Kaiyu Yang, Apodex.Join Zoom Meetinghttps://mit.zoom.us/j/4264568033?pwd=12Bm46xVz0t8UmN8IaD8ahQYTiEJsL.1&amp;omn=99021171496 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science & Artificial Intelligence Laboratory 32 Vassar St, Cambridge MA 02139 Contact Press Requests Accessibility",
+    "categories": [
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks|2026-06-24T12:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation",
     "start": "2026-07-10T00:00:00+02:00",
     "end": null,
@@ -182,6 +239,31 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation|2026-07-10T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS",
+    "start": "2026-07-15T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "2:00 PM - 3:30 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Previous Events at HAI All Conference",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS|2026-07-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
