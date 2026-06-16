@@ -1,57 +1,5 @@
 [
   {
-    "title": "Quantencomputer: Eine Revolution der Rechenwelt?",
-    "start": "2026-06-16T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "16 June 2026 Quantencomputer: Eine Revolution der Rechenwelt? Public Events Ãffentlicher Vortrag von Prof. Dr. Barbara Kraus in der ERES Stiftung. Read More 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk Also seen in: Munich Quantum Center Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Quantencomputer: Eine Revolution der Rechenwelt?|2026-06-16T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "The Behavioral Effects of Early Warning Signals",
-    "start": "2026-06-16T11:30:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": "Florian Diekert",
-    "affiliation": "University of Augsburg",
-    "location": "ifo Institute",
-    "online_url": null,
-    "source_name": "TUM SEEM",
-    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "description": "Speaker: Florian Diekert. Affiliation: University of Augsburg. ifo Institute",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:60",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM SEEM|The Behavioral Effects of Early Warning Signals|2026-06-16T11:30:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Towards Understanding and Improving Multimodal Models using Interpretability Tools",
     "start": "2026-06-16T12:00:00-04:00",
     "end": "2026-06-16T13:00:00-04:00",
@@ -254,7 +202,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Previous Events at HAI All Conference",
+    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Empirical Methods in the Age of AI Conference Conference Oct 02, 2026",
     "categories": [
       "AI"
     ],
@@ -315,6 +263,32 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Girls for Science 2026|2026-07-24T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Empirical Methods in the Age of AI Conference",
+    "start": "2026-10-02T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them.",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Previous Events at HAI All Conference Seminars",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Empirical Methods in the Age of AI Conference|2026-10-02T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
