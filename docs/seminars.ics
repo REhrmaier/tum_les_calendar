@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp\;Several years ago\, language models were brittle when it came to programming\, mathematics\, and reasoning. Today\, AI coding assistants are widely
-DTEND:20260624T180000Z
-DTSTART:20260624T160000Z
-SUMMARY:[AI] THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks
-UID:2e059903a306098f05385f60@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
 DTEND:20261002T083000Z
 LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
@@ -17,18 +10,11 @@ SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
-DTEND:20260709T233000Z
-DTSTART:20260709T220000Z
-SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation
-UID:0029e0891ca8246f0cae7db5@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July
-DTEND:20260718T233000Z
-DTSTART:20260718T220000Z
-SUMMARY:[Quantum] MCQST bei der Forscha 2026
-UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
+DTEND:20261002T233000Z
+DTSTART:20261002T220000Z
+SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
+UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2:00 PM - 3:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15\, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with ze
@@ -37,13 +23,6 @@ LOCATION:2:00 PM - 3:30 PM
 DTSTART:20260715T070000Z
 SUMMARY:[AI] NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS
 UID:dceb26c7862f8caea39b2eca@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
-UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36471\nOnline URL: \nSpeaker: Prof. Marina Filip (University of Oxford)\nAffiliation: \nLocation: MIBE E.126\nScore: 100\nScore reasons: source_weight:20\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: as part of Seminar of the Atomistic Modeling Center Speaker: Prof. Marina Filip (University of Oxford)
@@ -68,11 +47,11 @@ SUMMARY:[Quantum] Quantum Networks with Atomic Memories
 UID:4df22b7f7849704416a3f01f@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer\, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of t
-DTEND:20260616T233000Z
-DTSTART:20260616T220000Z
-SUMMARY:[Quantum] Quantum Computers for the Future (and for Cocktail Parties)
-UID:84c691ebba0eec7c715e693c@tum-les-calendar
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
+DTEND:20260709T233000Z
+DTSTART:20260709T220000Z
+SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation
+UID:0029e0891ca8246f0cae7db5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Kejia Hu\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Kejia Hu on “Digital Transformation Pathway: The Value of Hybrid Talent”
@@ -90,11 +69,11 @@ SUMMARY:[Quantum] Girls for Science 2026
 UID:b3000a6c8fd9a3c6863257ed@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Towards Understanding and Improving Multimodal Models using Interpretability Tools Abstract:Modern multimodal models are highly powerful\, yet often brittle in certain ways\, such as susceptibility to hallucinations or misleading reasoning tr
-DTEND:20260616T170000Z
-DTSTART:20260616T160000Z
-SUMMARY:[Buildings] Towards Understanding and Improving Multimodal Models using Interpretability Tools
-UID:8f2dfe1ae7dedc3da4283c57@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July
+DTEND:20260718T233000Z
+DTSTART:20260718T220000Z
+SUMMARY:[Quantum] MCQST bei der Forscha 2026
+UID:2eb7d6880aa0f8c2486e9e04@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002

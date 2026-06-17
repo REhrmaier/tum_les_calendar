@@ -1,60 +1,5 @@
 [
   {
-    "title": "Towards Understanding and Improving Multimodal Models using Interpretability Tools",
-    "start": "2026-06-16T12:00:00-04:00",
-    "end": "2026-06-16T13:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Towards Understanding and Improving Multimodal Models using Interpretability Tools Abstract:Modern multimodal models are highly powerful, yet often brittle in certain ways, such as susceptibility to hallucinations or misleading reasoning traces. Understanding how these models work is a key step to fixing them. In this talk, we first discuss approaches to make vision encoders---a core component of multimodal models---inherently interpretable to faithfully attribute outputs to inputs, and explore two complementary approaches to do so. Then, we look at making this interpretability actionable by using explanations as a signal to fix model behaviour. Starting from the promise shown by use of such tools to improve small models, we then discuss how they may be used to understand and mitigate issues faced by large-scale multimodal models.Bio:Sukrut Rao is a PhD student at the Max Planck Institute for Informatics, advised by Bernt Schiele. His PhD research has focused on bringing inherent interpretability to vision models and scaling to interpretable variants of foundation models like CLIP and DINO via faithful attributions (NeurIPS 2024,&nbsp;CVPR 2026), concept decompositions (arXiv 2026,&nbsp;ECCV 2024), and bringing the two together (NeurIPS 2025); and also using human feedback via explanations to improve models (ICCV 2023). His current research interests broadly include making interpretability actionable for building trustworthy and safe multimodal models, for example, ensuring faithfulness of chains-of-thought and addressing model hallucinations. He has also co-organized multiple workshops on explainable computer vision at CVPR, ICCV, and ECCV.Meet with the Speaker:https://docs.google.com/spreadsheets/d/1NHgEMlXjxO1JuZ6D5g6r9tiIKheeiBLmFxhvveGy9hU/edit?usp=sharing&nbsp; TBD June 17, 2026 Securing Agentic AI: Contextual Security and Beyond 2:00 P - 3:00 P Location 32-G882",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Towards Understanding and Improving Multimodal Models using Interpretability Tools|2026-06-16T12:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Quantum Computers for the Future (and for Cocktail Parties)",
-    "start": "2026-06-17T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "17 June 2026 Quantum Computers for the Future (and for Cocktail Parties) Distinguished Lecturer | Public Events Public Talk | Distinguished Lecturer, Prof. Christopher Monroe (Duke University) offers insights into the quantum computers of the future at Deutsches Museum. Read More 18 June 2026 MCQST Colloquium: Christopher Monroe - Distinguished Lecturer MCQST Colloquium | Also seen in: Munich Quantum Center Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Quantum Computers for the Future (and for Cocktail Parties)|2026-06-17T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Digital Transformation Pathway: The Value of Hybrid Talent",
     "start": "2026-06-17T13:00:00+02:00",
     "end": "2026-06-17T14:00:00+02:00",
@@ -132,35 +77,6 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36471|Exciton Dissociation and (De)Localization in Heterogeneous Semiconductors from First Principles Computational Modeling|2026-06-23T10:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks",
-    "start": "2026-06-24T12:00:00-04:00",
-    "end": "2026-06-24T14:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp;Several years ago, language models were brittle when it came to programming, mathematics, and reasoning. Today, AI coding assistants are widely used by software engineers, and AI systems have helped mathematicians achieve breakthrough results. This progress was driven not only by modeling innovations, but also by evaluations that highlighted emerging capabilities and exposed failure modes.In this talk, I will discuss three lessons I have learned from language model evaluation. First, it is crucial to focus on the right metrics and eliminate confounding biases. This can include contamination, low-quality code, and hallucinated reasoning chains that arrive at the correct answer. Second, looking beyond the score can reveal hidden nuances in language models, such as uneven capabilities across closely related tasks and benchmark overfitting. Third, evaluations inevitably shape how a field moves forward by turning observations into measurable goals.I will conclude by synthesizing what these evaluations suggest about the broader challenges ahead for AI in software engineering.Thesis Committee: &nbsp;Professor Armando Solar-Lezama, MIT; Professor Jacob Andreas, MIT; and Kaiyu Yang, Apodex.Join Zoom Meetinghttps://mit.zoom.us/j/4264568033?pwd=12Bm46xVz0t8UmN8IaD8ahQYTiEJsL.1&amp;omn=99021171496 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science & Artificial Intelligence Laboratory 32 Vassar St, Cambridge MA 02139 Contact Press Requests Accessibility",
-    "categories": [
-      "AI",
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks|2026-06-24T12:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
