@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+25:medicine\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic\, human-validated managerial scenarios via Mana
+DTEND:20260625T170000Z
+DTSTART:20260625T160000Z
+SUMMARY:[AI] Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions
+UID:a46e6d3b7d83efc1d50d3d49@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp\;Several years ago\, language models were brittle when it came to programming\, mathematics\, and reasoning. Today\, AI coding assistants are widely
 DTEND:20260624T180000Z
 DTSTART:20260624T160000Z
@@ -45,13 +52,6 @@ DTEND:20261027T003000Z
 DTSTART:20261026T230000Z
 SUMMARY:[Quantum] Quantum Talents Symposium Munich 2026
 UID:c66429dab8eb4880bc9887d4@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 19 June 2026 Quantum Networks with Atomic Memories Distinguished Lecturer | Events Specialized seminar by Prof. Christopher Monroe (Duke University) Read More 20 June 2026 Zamanand Festival Events |
-DTEND:20260618T233000Z
-DTSTART:20260618T220000Z
-SUMMARY:[Quantum] Quantum Networks with Atomic Memories
-UID:4df22b7f7849704416a3f01f@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Rea
