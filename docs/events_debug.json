@@ -1,32 +1,5 @@
 [
   {
-    "title": "Digital Transformation Pathway: The Value of Hybrid Talent",
-    "start": "2026-06-17T13:00:00+02:00",
-    "end": "2026-06-17T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Kejia Hu",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Kejia Hu on “Digital Transformation Pathway: The Value of Hybrid Talent”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|17.06.2026|Digital Transformation Pathway: The Value of Hybrid Talent|Prof. Kejia Hu",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Exciton Dissociation and (De)Localization in Heterogeneous Semiconductors from First Principles Computational Modeling",
     "start": "2026-06-23T10:00:00+02:00",
     "end": "2026-06-23T12:00:00+02:00",
@@ -50,6 +23,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36471|Exciton Dissociation and (De)Localization in Heterogeneous Semiconductors from First Principles Computational Modeling|2026-06-23T10:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "From Mass Spectrometry to Market: The Story of AI-Driven Proteomics",
+    "start": "2026-06-24T13:00:00+02:00",
+    "end": "2026-06-24T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Mathias Wilhelm",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Mathias Wilhelm on “From Mass Spectrometry to Market: The Story of AI-Driven Proteomics”",
+    "categories": [
+      "Finance"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|24.06.2026|From Mass Spectrometry to Market: The Story of AI-Driven Proteomics|Prof. Mathias Wilhelm",
     "include": true,
     "reject_reasons": []
   },
@@ -108,6 +108,33 @@
       "penalty:-25:exam"
     ],
     "uid_seed": "MIT CSAIL Events|Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions|2026-06-25T12:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "From City to System: Computational Thinking in Postwar Urbanism",
+    "start": "2026-07-01T13:00:00+02:00",
+    "end": "2026-07-01T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Nathalie Bredella",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Nathalie Bredella on “From City to System: Computational Thinking in Postwar Urbanism”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|01.07.2026|From City to System: Computational Thinking in Postwar Urbanism|Prof. Dr. Nathalie Bredella",
     "include": true,
     "reject_reasons": []
   },
