@@ -1,32 +1,5 @@
 [
   {
-    "title": "Exciton Dissociation and (De)Localization in Heterogeneous Semiconductors from First Principles Computational Modeling",
-    "start": "2026-06-23T10:00:00+02:00",
-    "end": "2026-06-23T12:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Marina Filip (University of Oxford)",
-    "affiliation": null,
-    "location": "MIBE E.126",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36471",
-    "description": "as part of Seminar of the Atomistic Modeling Center Speaker: Prof. Marina Filip (University of Oxford)",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:20",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://campus.tum.de/tumonline/LV_TX.wbDisplayTerminDoc?pTerminDocNr=36471|Exciton Dissociation and (De)Localization in Heterogeneous Semiconductors from First Principles Computational Modeling|2026-06-23T10:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "From Mass Spectrometry to Market: The Story of AI-Driven Proteomics",
     "start": "2026-06-24T13:00:00+02:00",
     "end": "2026-06-24T14:00:00+02:00",
