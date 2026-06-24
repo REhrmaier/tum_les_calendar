@@ -67,16 +67,15 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic, human-validated managerial scenarios via ManagerBench (ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs). Indicating that frontier LLMs perform poorly when navigating the safety-pragmatism trade-off.We next turn to a multi-turn setting to investigate the \"carryover-effect\" — the phenomenon in which, for example, hallucinations in earlier interactions shape subsequent model responses. To study this, we developed HISTORY-ECHOES, a framework for analyzing how conversational history biases later generations. The framework approaches this from two angles: a probabilistic view, modeling conversations as Markov chains to quantify state consistency, and a geometric view, measuring the consistency of consecutive hidden representations. Indicating a correlation between the two angles (Old Habits Die Hard: How Conversational History Geometrically Traps LLMs).Bio:Adi Simhi is a final-year PhD student in Yonatan Belinkov's lab at the Technion. Her research focuses on hallucinations, interpretability, and safety in LLMs (https://adi.simhi.com/).Meet with the speaker:https://docs.google.com/spreadsheets/d/1rb9kPjsGGHuuD43ehk0cJtWPi92dKbwbaOn9KsRNC7Q/edit?usp=sharing&nbsp; TBD June 26, 2026 Training and Evaluating Foundation Models for Neuroscience Christopher Wang MIT CSAIL Part Of Thesis Defense 1:00 P - 3:00 P Location 32-D463",
+    "description": "Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic, human-validated managerial scenarios via ManagerBench (ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs). Indicating that frontier LLMs perform poorly when navigating the safety-pragmatism trade-off.We next turn to a multi-turn setting to investigate the \"carryover-effect\" — the phenomenon in which, for example, hallucinations in earlier interactions shape subsequent model responses. To study this, we developed HISTORY-ECHOES, a framework for analyzing how conversational history biases later generations. The framework approaches this from two angles: a probabilistic view, modeling conversations as Markov chains to quantify state consistency, and a geometric view, measuring the consistency of consecutive hidden representations. Indicating a correlation between the two angles (Old Habits Die Hard: How Conversational History Geometrically Traps LLMs).Bio:Adi Simhi is a final-year PhD student in Yonatan Belinkov's lab at the Technion. Her research focuses on hallucinations, interpretability, and safety in LLMs (https://adi.simhi.com/).Meet with the speaker:https://docs.google.com/spreadsheets/d/1rb9kPjsGGHuuD43ehk0cJtWPi92dKbwbaOn9KsRNC7Q/edit?usp=sharing&nbsp; TBD THESIS DEFENSE: Building Surface and Volumetric Kinematic Body Model from MRI Yingcheng Liu MIT CSAIL 3:00 P - 5:00 P Location 32-G449",
     "categories": [
-      "AI",
-      "Neuroscience"
+      "Buildings",
+      "AI"
     ],
-    "score": 100,
+    "score": 80,
     "score_reasons": [
       "source_weight:55",
       "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+25:medicine",
       "institution_signal:+20",
       "penalty:-25:exam"
     ],

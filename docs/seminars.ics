@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+25:medicine\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic\, human-validated managerial scenarios via Mana
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic\, human-validated managerial scenarios via Mana
 DTEND:20260625T170000Z
 DTSTART:20260625T160000Z
-SUMMARY:[AI] Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions
+SUMMARY:[Buildings] Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions
 UID:a46e6d3b7d83efc1d50d3d49@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
