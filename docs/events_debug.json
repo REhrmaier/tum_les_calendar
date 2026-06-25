@@ -27,63 +27,6 @@
     "reject_reasons": []
   },
   {
-    "title": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks",
-    "start": "2026-06-24T12:00:00-04:00",
-    "end": "2026-06-24T14:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp;Several years ago, language models were brittle when it came to programming, mathematics, and reasoning. Today, AI coding assistants are widely used by software engineers, and AI systems have helped mathematicians achieve breakthrough results. This progress was driven not only by modeling innovations, but also by evaluations that highlighted emerging capabilities and exposed failure modes.In this talk, I will discuss three lessons I have learned from language model evaluation. First, it is crucial to focus on the right metrics and eliminate confounding biases. This can include contamination, low-quality code, and hallucinated reasoning chains that arrive at the correct answer. Second, looking beyond the score can reveal hidden nuances in language models, such as uneven capabilities across closely related tasks and benchmark overfitting. Third, evaluations inevitably shape how a field moves forward by turning observations into measurable goals.I will conclude by synthesizing what these evaluations suggest about the broader challenges ahead for AI in software engineering.Thesis Committee: &nbsp;Professor Armando Solar-Lezama, MIT; Professor Jacob Andreas, MIT; and Kaiyu Yang, Apodex.Join Zoom Meetinghttps://mit.zoom.us/j/4264568033?pwd=12Bm46xVz0t8UmN8IaD8ahQYTiEJsL.1&amp;omn=99021171496 TBD June 25, 2026 Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Adi Simhi Technion 12:00 P - 1:00 P Location 45-600B",
-    "categories": [
-      "AI",
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks|2026-06-24T12:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions",
-    "start": "2026-06-25T12:00:00-04:00",
-    "end": "2026-06-25T13:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic, human-validated managerial scenarios via ManagerBench (ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs). Indicating that frontier LLMs perform poorly when navigating the safety-pragmatism trade-off.We next turn to a multi-turn setting to investigate the \"carryover-effect\" — the phenomenon in which, for example, hallucinations in earlier interactions shape subsequent model responses. To study this, we developed HISTORY-ECHOES, a framework for analyzing how conversational history biases later generations. The framework approaches this from two angles: a probabilistic view, modeling conversations as Markov chains to quantify state consistency, and a geometric view, measuring the consistency of consecutive hidden representations. Indicating a correlation between the two angles (Old Habits Die Hard: How Conversational History Geometrically Traps LLMs).Bio:Adi Simhi is a final-year PhD student in Yonatan Belinkov's lab at the Technion. Her research focuses on hallucinations, interpretability, and safety in LLMs (https://adi.simhi.com/).Meet with the speaker:https://docs.google.com/spreadsheets/d/1rb9kPjsGGHuuD43ehk0cJtWPi92dKbwbaOn9KsRNC7Q/edit?usp=sharing&nbsp; TBD THESIS DEFENSE: Building Surface and Volumetric Kinematic Body Model from MRI Yingcheng Liu MIT CSAIL 3:00 P - 5:00 P Location 32-G449",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions|2026-06-25T12:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "From City to System: Computational Thinking in Postwar Urbanism",
     "start": "2026-07-01T13:00:00+02:00",
     "end": "2026-07-01T14:00:00+02:00",

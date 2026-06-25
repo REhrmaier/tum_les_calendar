@@ -2,18 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic\, human-validated managerial scenarios via Mana
-DTEND:20260625T170000Z
-DTSTART:20260625T160000Z
-SUMMARY:[Buildings] Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions
-UID:a46e6d3b7d83efc1d50d3d49@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks Abstract:&nbsp\;Several years ago\, language models were brittle when it came to programming\, mathematics\, and reasoning. Today\, AI coding assistants are widely
-DTEND:20260624T180000Z
-DTSTART:20260624T160000Z
-SUMMARY:[AI] THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks
-UID:2e059903a306098f05385f60@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
+DTEND:20261002T083000Z
+LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
+DTSTART:20261002T070000Z
+SUMMARY:[AI] Empirical Methods in the Age of AI Conference
+UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Dr. Nathalie Bredella\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Nathalie Bredella on “From City to System: Computational Thinking in Postwar Urbanism”
@@ -22,14 +16,6 @@ LOCATION:Online
 DTSTART:20260701T110000Z
 SUMMARY:[General High Impact] From City to System: Computational Thinking in Postwar Urbanism — Prof. Dr. Nathalie Bredella
 UID:b4c565575488511f5716c939@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
-DTEND:20261002T083000Z
-LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
-DTSTART:20261002T070000Z
-SUMMARY:[AI] Empirical Methods in the Age of AI Conference
-UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Mathias Wilhelm\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Mathias Wilhelm on “From Mass Spectrometry to Market: The Story of AI-Driven Proteomics”
