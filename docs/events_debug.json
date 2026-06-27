@@ -27,6 +27,33 @@
     "reject_reasons": []
   },
   {
+    "title": "Silicon Diplomacy: Chips, Power, and the Politics of AI Compute",
+    "start": "2026-07-08T13:00:00+02:00",
+    "end": "2026-07-08T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Hussam Amrouch",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Hussam Amrouch on “Silicon Diplomacy: Chips, Power, and the Politics of AI Compute”",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|08.07.2026|Silicon Diplomacy: Chips, Power, and the Politics of AI Compute|Prof. Hussam Amrouch",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation",
     "start": "2026-07-10T00:00:00+02:00",
     "end": null,

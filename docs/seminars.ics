@@ -33,6 +33,14 @@ SUMMARY:[AI] NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS
 UID:dceb26c7862f8caea39b2eca@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Hussam Amrouch\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Hussam Amrouch on “Silicon Diplomacy: Chips\, Power\, and the Politics of AI Compute”
+DTEND:20260708T120000Z
+LOCATION:Online
+DTSTART:20260708T110000Z
+SUMMARY:[AI] Silicon Diplomacy: Chips\, Power\, and the Politics of AI Compute — Prof. Hussam Amrouch
+UID:3e59c694f8a723d931cfdd63@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
 DTEND:20261027T003000Z
 DTSTART:20261026T230000Z
