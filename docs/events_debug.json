@@ -1,32 +1,5 @@
 [
   {
-    "title": "From City to System: Computational Thinking in Postwar Urbanism",
-    "start": "2026-07-01T13:00:00+02:00",
-    "end": "2026-07-01T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Dr. Nathalie Bredella",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Nathalie Bredella on “From City to System: Computational Thinking in Postwar Urbanism”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|01.07.2026|From City to System: Computational Thinking in Postwar Urbanism|Prof. Dr. Nathalie Bredella",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Silicon Diplomacy: Chips, Power, and the Politics of AI Compute",
     "start": "2026-07-08T13:00:00+02:00",
     "end": "2026-07-08T14:00:00+02:00",
@@ -91,7 +64,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Empirical Methods in the Age of AI Conference Conference Oct 02, 2026",
+    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Info Session: Rising Stars in Data Science Workshop Workshop Jul 23, 2026",
     "categories": [
       "AI"
     ],
