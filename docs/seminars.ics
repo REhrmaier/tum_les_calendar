@@ -10,11 +10,11 @@ SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
-UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More
+DTEND:20260723T233000Z
+DTSTART:20260723T220000Z
+SUMMARY:[Quantum] Girls for Science 2026
+UID:b3000a6c8fd9a3c6863257ed@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2:00 PM - 3:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15\, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with ze
@@ -23,6 +23,13 @@ LOCATION:2:00 PM - 3:30 PM
 DTSTART:20260715T070000Z
 SUMMARY:[AI] NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS
 UID:dceb26c7862f8caea39b2eca@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
+DTEND:20261002T233000Z
+DTSTART:20261002T220000Z
+SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
+UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Hussam Amrouch\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Hussam Amrouch on “Silicon Diplomacy: Chips\, Power\, and the Politics of AI Compute”
@@ -47,11 +54,11 @@ SUMMARY:[Quantum] Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravi
 UID:0029e0891ca8246f0cae7db5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung\, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile\, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More
-DTEND:20260723T233000Z
-DTSTART:20260723T220000Z
-SUMMARY:[Quantum] Girls for Science 2026
-UID:b3000a6c8fd9a3c6863257ed@tum-les-calendar
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: THESIS DEFENSE: Learning Representations for Health Data Speaker: Peng CaoDate / Time: July 10\, 10 amLocation: Patil/Kiva (32-G449)Zoom Link: https://mit.zoom.us/my/pengcaoAbstract: Modern health systems collect vast amounts of physiologica
+DTEND:20260710T150000Z
+DTSTART:20260710T140000Z
+SUMMARY:[AI] THESIS DEFENSE: Learning Representations for Health Data
+UID:0a25870279531afff338aae1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July
