@@ -81,6 +81,32 @@
     "reject_reasons": []
   },
   {
+    "title": "The greener, the better? Evidence from government contractors",
+    "start": "2026-07-14T11:30:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Olga Chiapinelli",
+    "affiliation": "Universitat de Barcelona",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Olga Chiapinelli. Affiliation: Universitat de Barcelona. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|The greener, the better? Evidence from government contractors|2026-07-14T11:30:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS",
     "start": "2026-07-15T00:00:00-07:00",
     "end": null,

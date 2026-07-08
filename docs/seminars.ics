@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Olga Chiapinelli\nAffiliation: Universitat de Barcelona\nLocation: TUM School of Management\, Room\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: Olga Chiapinelli. Affiliation: Universitat de Barcelona. TUM School of Management\, Room
+DTEND:20260714T110000Z
+LOCATION:TUM School of Management\, Room
+DTSTART:20260714T093000Z
+SUMMARY:[General High Impact] The greener\, the better? Evidence from government contractors — Olga Chiapinelli
+UID:f732f9a88184bd66e0afeaed@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
 DTEND:20261002T083000Z
 LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
