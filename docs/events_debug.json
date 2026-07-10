@@ -1,58 +1,5 @@
 [
   {
-    "title": "Silicon Diplomacy: Chips, Power, and the Politics of AI Compute",
-    "start": "2026-07-08T13:00:00+02:00",
-    "end": "2026-07-08T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Hussam Amrouch",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Hussam Amrouch on “Silicon Diplomacy: Chips, Power, and the Politics of AI Compute”",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|08.07.2026|Silicon Diplomacy: Chips, Power, and the Politics of AI Compute|Prof. Hussam Amrouch",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation",
-    "start": "2026-07-10T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "10 July 2026 Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation Events | Public Events Dr. Moritz Dorband aus dem PhotonLab hÃ¤lt einen Ã¶ffentlichen Vortrag an der Max-Planck-Institut fÃ¼r Quantenoptik. Offen fÃ¼r alle. Read More 17 July - 19 July 2026 MCQST bei der Forscha 2026 Events |",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "Munich Quantum Center Events|Physik fÃ¼r Alle: Stolpersteine auf dem Weg zur Quantengravitation|2026-07-10T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "THESIS DEFENSE: Learning Representations for Health Data",
     "start": "2026-07-10T10:00:00-04:00",
     "end": "2026-07-10T11:00:00-04:00",
@@ -128,6 +75,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS|2026-07-15T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "The Evolution of Discovery: Mapping Chemistry’s Family Tree",
+    "start": "2026-07-15T13:00:00+02:00",
+    "end": "2026-07-15T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "TUM-IAS Fellow Prof. Dr. Heather J. Kulik",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Heather J. Kulik on “The Evolution of Discovery: Mapping Chemistry’s Family Tree”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|15.07.2026|The Evolution of Discovery: Mapping Chemistry’s Family Tree|TUM-IAS Fellow Prof. Dr. Heather J. Kulik",
     "include": true,
     "reject_reasons": []
   },
@@ -258,6 +232,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Dertouzos Distinguished Lecture: Prof",
+    "start": "2026-10-13T16:00:00-04:00",
+    "end": "2026-10-13T17:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science & Artificial Intelligence Laboratory 32 Vassar St, Cambridge MA 02139 Contact Press Requests Accessibility",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: Prof|2026-10-13T16:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
