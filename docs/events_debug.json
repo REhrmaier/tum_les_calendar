@@ -1,33 +1,5 @@
 [
   {
-    "title": "THESIS DEFENSE: Learning Representations for Health Data",
-    "start": "2026-07-10T10:00:00-04:00",
-    "end": "2026-07-10T11:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Learning Representations for Health Data Speaker: Peng CaoDate / Time: July 10, 10 amLocation: Patil/Kiva (32-G449)Zoom Link: https://mit.zoom.us/my/pengcaoAbstract: Modern health systems collect vast amounts of physiological and clinical data, but its volume has grown far faster than our ability to translate it into clinical insight. The bottleneck is the representation: raw measurements are long, noisy and diluted, making them difficult to use directly. This thesis argues that the missing layer is a learned representation: a base-layer encoding that are informative of a patient’s physiological and clinical state, compact enough to support probing on small labeled cohorts, and transferable across diverse, open-ended clinical questions. It addresses this representation bottleneck from two complementary directions. First, it develops foundation models for three physiological modalities: wrist-worn waveforms, clinical EEG, and nocturnal respiration. Second, it develops learning algorithms for challenging label distributions common in health: imbalanced labels and continuous labels.Thesis Committee: Dina Katabi (MIT), Polina Golland (MIT), Marzyeh Ghassemi (MIT),&nbsp; Ming-Zher&nbsp;Poh (Google) TBD THESIS DEFENSE: Estimating 3D Structure and Dynamics from 2D Intraoperative Imaging Vivek Gopalakrishnan MIT CSAIL and Harvard-MIT HST Part Of Thesis Defense 2:00 P - 4:00 P Location 32-D463",
-    "categories": [
-      "AI",
-      "Medicine"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Learning Representations for Health Data|2026-07-10T10:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "The greener, the better? Evidence from government contractors",
     "start": "2026-07-14T11:30:00+02:00",
     "end": null,
