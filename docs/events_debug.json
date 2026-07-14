@@ -129,6 +129,33 @@
     "reject_reasons": []
   },
   {
+    "title": "Instance-optimal estimation of L2-norm",
+    "start": "2026-08-14T10:30:00-04:00",
+    "end": "2026-08-14T11:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD October 13, 2026 Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Part Of Dertouzos Distinguished Lecture 4:00 P - 5:00 P Location TBD",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MIT CSAIL Events|Instance-optimal estimation of L2-norm|2026-08-14T10:30:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Empirical Methods in the Age of AI Conference",
     "start": "2026-10-02T00:00:00-07:00",
     "end": null,
