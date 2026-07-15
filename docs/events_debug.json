@@ -1,56 +1,5 @@
 [
   {
-    "title": "The greener, the better? Evidence from government contractors",
-    "start": "2026-07-14T11:30:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": "Olga Chiapinelli",
-    "affiliation": "Universitat de Barcelona",
-    "location": "TUM School of Management, Room",
-    "online_url": null,
-    "source_name": "TUM SEEM",
-    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "description": "Speaker: Olga Chiapinelli. Affiliation: Universitat de Barcelona. TUM School of Management, Room",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "high_impact:+50",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM SEEM|The greener, the better? Evidence from government contractors|2026-07-14T11:30:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS",
-    "start": "2026-07-15T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "2:00 PM - 3:30 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with zero code changes. You will learn how to use GPU-accelerated tools to conduct data science faster, leading to more scalable, reliable, and cost-effective results! Info Session: Rising Stars in Data Science Workshop Workshop Jul 23, 2026",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS|2026-07-15T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "The Evolution of Discovery: Mapping Chemistry’s Family Tree",
     "start": "2026-07-15T13:00:00+02:00",
     "end": "2026-07-15T14:00:00+02:00",

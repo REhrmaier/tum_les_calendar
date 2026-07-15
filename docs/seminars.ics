@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Olga Chiapinelli\nAffiliation: Universitat de Barcelona\nLocation: TUM School of Management\, Room\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: Olga Chiapinelli. Affiliation: Universitat de Barcelona. TUM School of Management\, Room
-DTEND:20260714T110000Z
-LOCATION:TUM School of Management\, Room
-DTSTART:20260714T093000Z
-SUMMARY:[General High Impact] The greener\, the better? Evidence from government contractors — Olga Chiapinelli
-UID:f732f9a88184bd66e0afeaed@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
 DTEND:20261002T083000Z
 LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
@@ -45,14 +37,6 @@ DTEND:20261002T233000Z
 DTSTART:20261002T220000Z
 SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
 UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2:00 PM - 3:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS Jul 15\, 2026 2:00 PM - 3:30 PM This workshop will cover how NVIDIA RAPIDS offers a seamless experience to enable GPU-acceleration for many existing data science tasks with ze
-DTEND:20260715T083000Z
-LOCATION:2:00 PM - 3:30 PM
-DTSTART:20260715T070000Z
-SUMMARY:[AI] NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS
-UID:dceb26c7862f8caea39b2eca@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
