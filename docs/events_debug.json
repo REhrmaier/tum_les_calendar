@@ -35,19 +35,21 @@
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Also seen in: Munich Quantum Center Events",
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "19 July 2026 MCQST bei der Forscha 2026 Events | Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 23 July 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Also seen in: MCQST Events",
     "categories": [
       "Quantum"
     ],
-    "score": 80,
+    "score": 100,
     "score_reasons": [
       "source_weight:60",
-      "institution_signal:+20"
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|MCQST bei der Forscha 2026|2026-07-19T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|MCQST bei der Forscha 2026|2026-07-19T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -116,7 +118,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Previous Events at HAI All Conference Seminars",
+    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026 9:00 AM - 6:00 PM",
     "categories": [
       "AI"
     ],
@@ -211,6 +213,32 @@
     "reject_reasons": []
   },
   {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-16T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:00 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-16T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Quantum Talents Symposium Munich 2026",
     "start": "2026-10-27T00:00:00+01:00",
     "end": null,
@@ -234,6 +262,32 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Quantum Talents Symposium Munich 2026|2026-10-27T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
+    "start": "2026-10-28T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "9:00 AM - 6:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:00 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Previous Events at HAI",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Confronting Our AI Future: Hope, Fear, and the Choices Ahead|2026-10-28T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   }
