@@ -18,14 +18,6 @@ SUMMARY:[General High Impact] The Evolution of Discovery: Mapping Chemistry’s 
 UID:820e9bbad4181a6875c6cf4a@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261016T083000Z
-LOCATION:28
-DTSTART:20261016T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:54a45bf7fd23cd9b2f89e8b5@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm\, or collision norm\, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic
 DTEND:20260814T153000Z
 DTSTART:20260814T143000Z
@@ -38,6 +30,14 @@ DTEND:20261013T210000Z
 DTSTART:20261013T200000Z
 SUMMARY:[AI] Dertouzos Distinguished Lecture: Prof
 UID:e49fe53112c0e0abe429c6be@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261017T083000Z
+LOCATION:28
+DTSTART:20261017T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:26ddd3f9fc728d89c98f3b8d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 Octo
