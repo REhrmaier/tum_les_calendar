@@ -26,6 +26,36 @@
     "reject_reasons": []
   },
   {
+    "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+    "start": "2026-07-30T14:00:00-04:00",
+    "end": "2026-07-30T16:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requireslearned models to satisfy critical safety, reliability, and interpretability constraints withoutcompromising predictive accuracy or computational efficiency. This work addresses thechallenge of enforcing three such critical properties: properness, adversarial robustness, anddiscrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into onethat fully and strictly satisfies the target property. This localized approach reduces thecomplex globally-constrained optimization task during training to a relaxed version, which canthen be solved efficiently using traditional polynomial approximation methods and standardoptimization techniques. We design and analyze several such local correction algorithms andbuild learners and testers around them, producing provably safe and interpretable learnedmodels with efficiency comparable to that of traditional learning.&nbsp; TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+35:energy system",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|Learning Interpretable and Reliable Classifiers Using Local Algorithms|2026-07-30T14:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Instance-optimal estimation of L2-norm",
     "start": "2026-08-14T10:30:00-04:00",
     "end": "2026-08-14T11:30:00-04:00",
@@ -160,7 +190,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-20T00:00:00-07:00",
+    "start": "2026-10-21T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -180,7 +210,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-20T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
