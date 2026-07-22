@@ -1,5 +1,33 @@
 [
   {
+    "title": "THESIS DEFENSE (Rebecca Jiang): &quot;Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search&quot;",
+    "start": "2026-07-23T15:00:00-04:00",
+    "end": "2026-07-23T16:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "THESIS DEFENSE (Rebecca Jiang): &quot;Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search&quot; Speaker: Rebecca JiangSpeaker Affiliation: MIT CSAILHost: Russ TedrakeHost Affiliation: MIT CSAILZoom link: https://mit.zoom.us/j/94775605627Abstract: Convex optimization has shown great promise for robot motion planning, particularly through methods that decompose collision-free space into unions of convex sets. However, performance of these decomposition-based motion planners depends on a synergy between set representation and search method. In particular, while many useful constraints including non-collision are cleanly specified in task space, robot motion planning is done in configuration space, where these same constraints are highly nonlinear. These decomposition-based planners use conservative convex approximations that lose access to the contact manifold and introduce a fundamental representational complexity price for capturing space near it. This thesis aims to improve optimization-friendliness of set representations, expand the accessible search space, and tailor search to these reformulated sets, toward enabling motion planning in tight spaces. We first propose IRIS-NP2, an algorithm for calculating collision-free polytopes in configuration space that improves runtime and region quality relative to its predecessor, IRIS-NP. We then propose our approach for simplifying these polytopes by calculating inner approximations using fewer hyperplanes while respecting constraints that are critical to motion planning: bounded set volume loss, preserved intersections with other polytopes, and containment of user-specified points. We also share GCS*, a decomposition-based search framework inspired by A*, enabling heuristic-guided search over large numbers of sets. This is critical for our final goal of re-parameterizing sets to optimize over rotation matrices, allowing exact expression of task-space constraints and facilitating planning close to contact. Here, we leverage semidefinite relaxations via the SOS-moment hierarchy to facilitate convex formulations over this parameterization. Critically, we introduce machinery to rigorously leverage cheaper relaxations to guide search, only solving more expensive relaxations when necessary. We show results for bodies moving in and near contact, kinematic linkages, and a 3D environment.Committee (and thesis readers):- Committee chair: Russ Tedrake (Professor of Electrical Engineering and Computer Science, Aeronautics and Astronautics, and Mechanical Engineering at MIT)- Committee member (and Draper Scholar advisor): Ravi Gondhalekar (Principal Member of Technical Staff at Charles Stark Draper Lab)- Committee member: Tomas Lozano Perez (Professor of Computer Science and Engineering at MIT)- Thesis reader: Leslie Kaelbling (Panasonic Professor of Computer Science and Engineering, Department of Electrical Engineering and Computer Science at MIT)- Thesis reader: Glen Chou (Assistant Professor in the School of Cybersecurity &amp; Privacy and in the School of Aerospace Engineering, at Georgia Tech)&nbsp; TBD July 28, 2026 Generative AI for 3D Design with Multi-Objective Physical Constraints Faraz Faruqi Part Of Thesis Defense 10:00 A - 12:00 P Location 32-D463 STAR Conference Room",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+35:energy system",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE (Rebecca Jiang): &quot;Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search&quot;|2026-07-23T15:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Girls for Science 2026",
     "start": "2026-07-24T00:00:00+02:00",
     "end": null,
@@ -28,7 +56,7 @@
   {
     "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
     "start": "2026-07-30T14:00:00-04:00",
-    "end": "2026-07-30T16:00:00-04:00",
+    "end": "2026-07-30T15:00:00-04:00",
     "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
@@ -37,7 +65,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requireslearned models to satisfy critical safety, reliability, and interpretability constraints withoutcompromising predictive accuracy or computational efficiency. This work addresses thechallenge of enforcing three such critical properties: properness, adversarial robustness, anddiscrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into onethat fully and strictly satisfies the target property. This localized approach reduces thecomplex globally-constrained optimization task during training to a relaxed version, which canthen be solved efficiently using traditional polynomial approximation methods and standardoptimization techniques. We design and analyze several such local correction algorithms andbuild learners and testers around them, producing provably safe and interpretable learnedmodels with efficiency comparable to that of traditional learning.&nbsp; TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
+    "description": "Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
     "categories": [
       "AI"
     ],
@@ -190,7 +218,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-21T00:00:00-07:00",
+    "start": "2026-10-22T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -210,7 +238,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-21T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-22T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
