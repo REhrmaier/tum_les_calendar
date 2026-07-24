@@ -1,53 +1,58 @@
 [
   {
-    "title": "Dr. Karl Wamsler Innovation Award honors Frances H. Arnold and Tao Zhang",
-    "start": "2026-07-23T13:06:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
+    "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+    "start": "2026-07-30T14:00:00-04:00",
+    "end": "2026-07-30T15:00:00-04:00",
+    "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "TUM Central Events",
-    "source_url": "https://www.tum.de/en/news-and-events/events/event-overview",
-    "event_url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/dr-karl-wamsler-innovation-award-honors-frances-h-arnold-and-tao-zhang",
-    "description": "For the tenth time, the Technical University of Munich (TUM) and the specialty chemicals company Clariant have presented the Dr. Karl Wamsler Innovation Award. The 2026 award for outstanding achievements in catalysis research was bestowed on Nobel Laureate Prof. Frances H. Arnold. During the ceremony, the 2025 award was also formally presented to Prof. Tao Zhang.",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
     "categories": [
-      "General High Impact"
+      "AI"
     ],
-    "score": 85,
+    "score": 100,
     "score_reasons": [
-      "source_weight:20",
+      "source_weight:55",
+      "topic_bonus:+35:energy system",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
       "high_impact:+50",
-      "local_bonus:+15"
+      "institution_signal:+20",
+      "penalty:-25:exam"
     ],
-    "uid_seed": "TUM Central Events|https://www.tum.de/en/news-and-events/all-news/press-releases/details/dr-karl-wamsler-innovation-award-honors-frances-h-arnold-and-tao-zhang|Dr. Karl Wamsler Innovation Award honors Frances H. Arnold and Tao Zhang|2026-07-23T13:06:00+02:00",
+    "uid_seed": "MIT CSAIL Events|Learning Interpretable and Reliable Classifiers Using Local Algorithms|2026-07-30T14:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
   {
-    "title": "Girls for Science 2026",
-    "start": "2026-07-24T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
+    "title": "Instance-optimal estimation of L2-norm",
+    "start": "2026-08-14T10:30:00-04:00",
+    "end": "2026-08-14T11:30:00-04:00",
+    "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "24 July 2026 Girls for Science 2026 EDI | Public Events Eine Veranstaltung, die interessierte SchÃ¼lerinnen zusammenbringt und ihnen die Vorteile, Herausforderungen und MÃ¶glichkeiten einer Karriere in der Wissenschaft vorstellt. Read More 28 July 2026 MCQST Colloquium: Alex Altland MCQST Colloquium | Events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD October 13, 2026 Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Part Of Dertouzos Distinguished Lecture 5:00 P - 6:00 P Location 32-123 Kirsch Auditorium",
     "categories": [
-      "Quantum"
+      "General High Impact"
     ],
     "score": 100,
     "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "Munich Quantum Center Events|Girls for Science 2026|2026-07-24T00:00:00+02:00",
+    "uid_seed": "MIT CSAIL Events|Instance-optimal estimation of L2-norm|2026-08-14T10:30:00-04:00",
     "include": true,
     "reject_reasons": []
   },
@@ -131,8 +136,35 @@
     "reject_reasons": []
   },
   {
+    "title": "Dertouzos Distinguished Lecture: Prof",
+    "start": "2026-10-13T17:00:00-04:00",
+    "end": "2026-10-13T18:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science & Artificial Intelligence Laboratory 32 Vassar St, Cambridge MA 02139 Contact Press Requests Accessibility",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: Prof|2026-10-13T17:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-23T00:00:00-07:00",
+    "start": "2026-10-24T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -152,7 +184,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-23T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-24T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
