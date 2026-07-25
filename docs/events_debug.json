@@ -1,5 +1,31 @@
 [
   {
+    "title": "GoMG: A Grammar of More Graphics!",
+    "start": "2026-07-29T10:00:00-04:00",
+    "end": "2026-07-29T12:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "GoMG: A Grammar of More Graphics! Abstract:Intricate scientific figures, mathematical diagrams, and infographics make complex information easier to reason about and more engaging. But it’s still difficult to make them. The Grammar of Graphics (GoG), which underlies most modern visualization software, eases this process for statistical charts by decomposing them into marks like bars, lines, and areas; and channels like shape, color, and size. While effective for statistical charts, this model does not directly support more bespoke visualizations that convey information through graphical structure like clustering and arrows. In response, researchers have built a slew of new grammars and GoG extensions, but these are difficult to engineer, mutually incompatible, and rarely make it out of the lab. Whether a more universal grammar of graphics can be built remains an open question.In this thesis, I present GoMG, a Grammar of More Graphics, which shows that the GoG, a diagramming language, and specialized grammars for unit, tree, and pictorial visualizations can be unified through a small set of core abstractions. Drawing on ideas from programming languages and compilers, I achieve this by combining the recursive composition of UI components with new formalisms for marks, channels, and graphical structure. I have released GoMG as an open-source Python and TypeScript library called GoFish that is designed to serve both as a practical tool for creating visualizations and a common substrate for future visualization systems research.Supervisor:&nbsp;Arvind Satyanarayan TBD July 30, 2026 Learning Interpretable and Reliable Classifiers Using Local Algorithms Jane Lange MIT Part Of Thesis Defense 2:00 P - 3:00 P Location 32-D463",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|GoMG: A Grammar of More Graphics!|2026-07-29T10:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
     "start": "2026-07-30T14:00:00-04:00",
     "end": "2026-07-30T15:00:00-04:00",
@@ -164,7 +190,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-24T00:00:00-07:00",
+    "start": "2026-10-25T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -184,7 +210,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-24T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-25T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
