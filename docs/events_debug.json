@@ -1,17 +1,17 @@
 [
   {
-    "title": "GoMG: A Grammar of More Graphics!",
+    "title": "THESIS DEFENSE: GoMG: A Grammar of More Graphics!",
     "start": "2026-07-29T10:00:00-04:00",
     "end": "2026-07-29T12:00:00-04:00",
     "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
     "location": null,
-    "online_url": null,
+    "online_url": "https://www.csail.mit.edu/events",
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "GoMG: A Grammar of More Graphics! Abstract:Intricate scientific figures, mathematical diagrams, and infographics make complex information easier to reason about and more engaging. But it’s still difficult to make them. The Grammar of Graphics (GoG), which underlies most modern visualization software, eases this process for statistical charts by decomposing them into marks like bars, lines, and areas; and channels like shape, color, and size. While effective for statistical charts, this model does not directly support more bespoke visualizations that convey information through graphical structure like clustering and arrows. In response, researchers have built a slew of new grammars and GoG extensions, but these are difficult to engineer, mutually incompatible, and rarely make it out of the lab. Whether a more universal grammar of graphics can be built remains an open question.In this thesis, I present GoMG, a Grammar of More Graphics, which shows that the GoG, a diagramming language, and specialized grammars for unit, tree, and pictorial visualizations can be unified through a small set of core abstractions. Drawing on ideas from programming languages and compilers, I achieve this by combining the recursive composition of UI components with new formalisms for marks, channels, and graphical structure. I have released GoMG as an open-source Python and TypeScript library called GoFish that is designed to serve both as a practical tool for creating visualizations and a common substrate for future visualization systems research.Supervisor:&nbsp;Arvind Satyanarayan TBD July 30, 2026 Learning Interpretable and Reliable Classifiers Using Local Algorithms Jane Lange MIT Part Of Thesis Defense 2:00 P - 3:00 P Location 32-D463",
+    "description": "THESIS DEFENSE: GoMG: A Grammar of More Graphics! Abstract:Intricate scientific figures, mathematical diagrams, and infographics make complex information easier to reason about and more engaging. But it’s still difficult to make them. The Grammar of Graphics (GoG), which underlies most modern visualization software, eases this process for statistical charts by decomposing them into marks like bars, lines, and areas; and channels like shape, color, and size. While effective for statistical charts, this model does not directly support more bespoke visualizations that convey information through graphical structure like clustering and arrows. In response, researchers have built a slew of new grammars and GoG extensions, but these are difficult to engineer, mutually incompatible, and rarely make it out of the lab. Whether a more universal grammar of graphics can be built remains an open question.In this thesis, I present GoMG, a Grammar of More Graphics, which shows that the GoG, a diagramming language, and specialized grammars for unit, tree, and pictorial visualizations can be unified through a small set of core abstractions. Drawing on ideas from programming languages and compilers, I achieve this by combining the recursive composition of UI components with new formalisms for marks, channels, and graphical structure. I have released GoMG as an open-source Python and TypeScript library called GoFish that is designed to serve both as a practical tool for creating visualizations and a common substrate for future visualization systems research.Thesis Committee: Professors Arvind Satyanarayan (supervisor), David Karger, and Jonathan Ragan-Kelley.Zoom Link - Available upon request - jopo@mit.edu&nbsp; TBD July 30, 2026 THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms Jane Lange MIT Part Of Thesis Defense 2:00 P - 3:00 P Location 32-D463",
     "categories": [
       "General High Impact"
     ],
@@ -19,14 +19,15 @@
     "score_reasons": [
       "source_weight:55",
       "high_impact:+50",
-      "institution_signal:+20"
+      "institution_signal:+20",
+      "online_bonus:+20"
     ],
-    "uid_seed": "MIT CSAIL Events|GoMG: A Grammar of More Graphics!|2026-07-29T10:00:00-04:00",
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: GoMG: A Grammar of More Graphics!|2026-07-29T10:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
   {
-    "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+    "title": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms",
     "start": "2026-07-30T14:00:00-04:00",
     "end": "2026-07-30T15:00:00-04:00",
     "timezone": "America/New_York",
@@ -37,8 +38,9 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
+    "description": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 4, 2026 THESIS DEFENSE: Grounding Neural Representations from Many Views of the World Sharut Gupta MIT Computer Science and Artificial Intelligence Laboratory 12:00 P - 1:00 P Location 32-G449 MIT Stata Center (Building 32) 32 Vassar Street",
     "categories": [
+      "Buildings",
       "AI"
     ],
     "score": 100,
@@ -46,12 +48,39 @@
       "source_weight:55",
       "topic_bonus:+35:energy system",
       "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
       "high_impact:+50",
       "institution_signal:+20",
       "penalty:-25:exam"
     ],
-    "uid_seed": "MIT CSAIL Events|Learning Interpretable and Reliable Classifiers Using Local Algorithms|2026-07-30T14:00:00-04:00",
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms|2026-07-30T14:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
+    "start": "2026-08-04T15:30:00-04:00",
+    "end": "2026-08-04T17:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation Abstract: Tensor programming has become a standard abstraction for expressing and optimizing dense and sparse computations. However, existing tensor systems are built around integer-indexed domains, which makes it difficult to express applications whose data and computation are defined over real-valued coordinates, such as point clouds, genomic intervals, and spatial queries. As a result, these workloads are scattered across fragmented libraries, each with its own hand-written kernels and data structures. This thesis introduces the continuous tensor abstraction, which extends tensor programming to real-valued domains. Under a piecewise-constant assumption, continuous tensors can be represented finitely, reduced over continuous regions, and compiled into executable code. On top of this abstraction, the thesis develops format-aware computation: a program rewrite that turns continuous tensor programs into dense tensor operations with the format information embedded in the expression, so that highly optimized dense compiler infrastructure can execute them efficiently on GPUs. Together, these contributions broaden tensor programming beyond integer-indexed arrays and bring continuous-domain applications into a unified framework. Thesis Committee: Saman Amarasinghe Joel Emer Fredrik Kjolstad (Stanford) Location: Stata Kiva (32-G449) /Date/Time: August 4th 3:30pm - 5:30pm &nbsp;Zoom Link: Available Upon Request TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation|2026-08-04T15:30:00-04:00",
     "include": true,
     "reject_reasons": []
   },
@@ -67,14 +96,13 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD October 13, 2026 Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Part Of Dertouzos Distinguished Lecture 5:00 P - 6:00 P Location 32-123 Kirsch Auditorium",
+    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD August 17, 2026 Diagnosing and Managing Performance in Data Systems Markos Markakis MIT CSAIL Part Of Thesis Defense 1:00 P - 2:00 P Location 32-G882",
     "categories": [
       "General High Impact"
     ],
-    "score": 100,
+    "score": 90,
     "score_reasons": [
       "source_weight:55",
-      "high_impact:+50",
       "institution_signal:+20",
       "local_bonus:+15"
     ],
@@ -217,7 +245,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-27T00:00:00-07:00",
+    "start": "2026-10-28T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -237,7 +265,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-27T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-28T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
