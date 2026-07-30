@@ -1,32 +1,5 @@
 [
   {
-    "title": "THESIS DEFENSE: GoMG: A Grammar of More Graphics!",
-    "start": "2026-07-29T10:00:00-04:00",
-    "end": "2026-07-29T12:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: GoMG: A Grammar of More Graphics! Abstract:Intricate scientific figures, mathematical diagrams, and infographics make complex information easier to reason about and more engaging. But it’s still difficult to make them. The Grammar of Graphics (GoG), which underlies most modern visualization software, eases this process for statistical charts by decomposing them into marks like bars, lines, and areas; and channels like shape, color, and size. While effective for statistical charts, this model does not directly support more bespoke visualizations that convey information through graphical structure like clustering and arrows. In response, researchers have built a slew of new grammars and GoG extensions, but these are difficult to engineer, mutually incompatible, and rarely make it out of the lab. Whether a more universal grammar of graphics can be built remains an open question.In this thesis, I present GoMG, a Grammar of More Graphics, which shows that the GoG, a diagramming language, and specialized grammars for unit, tree, and pictorial visualizations can be unified through a small set of core abstractions. Drawing on ideas from programming languages and compilers, I achieve this by combining the recursive composition of UI components with new formalisms for marks, channels, and graphical structure. I have released GoMG as an open-source Python and TypeScript library called GoFish that is designed to serve both as a practical tool for creating visualizations and a common substrate for future visualization systems research.Thesis Committee: Professors Arvind Satyanarayan (supervisor), David Karger, and Jonathan Ragan-Kelley.Zoom Link - Available upon request - jopo@mit.edu&nbsp; TBD July 30, 2026 THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms Jane Lange MIT Part Of Thesis Defense 2:00 P - 3:00 P Location 32-D463",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: GoMG: A Grammar of More Graphics!|2026-07-29T10:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms",
     "start": "2026-07-30T14:00:00-04:00",
     "end": "2026-07-30T15:00:00-04:00",
@@ -38,9 +11,8 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 4, 2026 THESIS DEFENSE: Grounding Neural Representations from Many Views of the World Sharut Gupta MIT Computer Science and Artificial Intelligence Laboratory 12:00 P - 1:00 P Location 32-G449 MIT Stata Center (Building 32) 32 Vassar Street",
+    "description": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work addresses the challenge of enforcing three such critical properties: properness, adversarial robustness, and discrete Lipschitz continuity. Expressing these properties as global constraints to be enforcedthroughout the entirety of the training makes the problem computationally expensive.&nbsp; &nbsp; &nbsp; &nbsp;To overcome this, we propose a framework based on “local correctors”—efficient query-time procedures that transform a base hypothesis satisfying a relaxed constraint into one that fully and strictly satisfies the target property. This localized approach reduces the complex globally-constrained optimization task during training to a relaxed version, which can then be solved efficiently using traditional polynomial approximation methods and standard optimization techniques. We design and analyze several such local correction algorithms and build learners and testers around them, producing provably safe and interpretable learned models with efficiency comparable to that of traditional learning.Thesis Committee: Mohsen Ghaffari, Ankur Moitra, Ronitt Rubinfeld, Li-Yang Tan TBD August 4, 2026 PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications Ariel Szekely MIT Part Of Thesis Defense 11:00 A - 2:00 P Location 32-G882",
     "categories": [
-      "Buildings",
       "AI"
     ],
     "score": 100,
@@ -81,6 +53,58 @@
       "online_bonus:+20"
     ],
     "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation|2026-08-04T15:30:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Mini MÃ¼nchen: MCQST macht mit!",
+    "start": "2026-08-05T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "5 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Mini MÃ¼nchen: MCQST macht mit!|2026-08-05T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Mini MÃ¼nchen: MCQST macht mit!",
+    "start": "2026-08-12T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 7 September - 11 September 2026 Atomic Quantum Matter Conference 2026 Events |",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Mini MÃ¼nchen: MCQST macht mit!|2026-08-12T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -170,10 +194,10 @@
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More Also seen in: Munich Quantum Center Events",
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More",
     "categories": [
       "Quantum"
     ],
@@ -185,7 +209,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -271,7 +295,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-29T00:00:00-07:00",
+    "start": "2026-10-30T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -291,7 +315,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-29T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-30T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   }
