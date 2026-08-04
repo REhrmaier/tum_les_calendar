@@ -1,32 +1,5 @@
 [
   {
-    "title": "THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles",
-    "start": "2026-08-03T10:00:00-04:00",
-    "end": "2026-08-03T11:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles Abstract: &nbsp;Underwater robotic systems are increasingly relied upon for scientific exploration, environmental monitoring, and infrastructure inspection. These systems typically have limited spatial awareness and, as a result, limited autonomy, performing preplanned missions and requiring extensive additional resources for deployment. These limitations are most consequential in coral reefs, among the most biodiverse ecosystems on the planet and critically under threat from anthropogenic disturbances and climate change. Within coral reefs, the predominant method for observation remains human divers. To bridge this gap, we develop spatial representations that enable underwater robots to understand the world, both physically and semantically, a foundation for scalable, autonomous operation in challenging marine environments.&nbsp;First, we incorporate a physically grounded underwater image formation model within 3D Gaussian Splatting (3DGS), a radiance field method for scene representation. Jointly estimating medium parameters and the true underlying color alongside geometry, we create an efficient scene representation that overcomes the challenges of degraded imaging through water. Next, we remove 3DGS’s need for precise camera poses and a sparse point cloud from structure-from-motion. Instead, motivated by the noisy, multimodal navigation sensor data already present on underwater vehicles, we develop an approach to synergistically integrate this rich prior with 3DGS. This enables building such spatial representations with improved trajectory estimation with less computational cost. Finally, geometric and photometric reconstruction alone does not convey ecosystem understanding. In coral reefs, fish abundance and diversity are important indicators of ecosystem health. Towards measuring this, we show how visual fish detection from an autonomous underwater vehicle survey can enable rapid discovery of biological hotspots aligning with rugosity, a classical proxy for reef biodiversity. We also introduce a dataset, grounded in ego-perspective, in-situ imagery representative of field surveys, to benchmark progress on detection, identification, and tracking of fish.&nbsp;Together, these contributions lay a foundation for scalable, autonomous operation in challenging marine environments.Thesis Advisors: Yogesh Girdhar, John LeonardThesis Committee:&nbsp; Sara Beery, Vincent Sitzmann TBD August 4, 2026 PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications Ariel Szekely MIT Part Of Thesis Defense 11:00 A - 2:00 P Location 32-G882",
-    "categories": [
-      "Buildings",
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles|2026-08-03T10:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Semiconductor stabilization in the context of energy storage",
     "start": "2026-08-04T14:15:00+02:00",
     "end": "2026-08-04T15:30:00+02:00",
@@ -265,7 +238,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-03T00:00:00-07:00",
+    "start": "2026-10-04T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -285,7 +258,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-03T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-04T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },

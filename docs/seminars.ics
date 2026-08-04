@@ -9,13 +9,6 @@ SUMMARY:[General High Impact] THESIS DEFENSE: Continuous Tensor Abstraction and 
 UID:b8fd0d7c30330c21303aebdf@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles Abstract: &nbsp\;Underwater robotic systems are increasingly relied upon for scientific exploration\, environmental monitori
-DTEND:20260803T150000Z
-DTSTART:20260803T140000Z
-SUMMARY:[Buildings] THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles
-UID:3153f10ed3c041c67df9e2fb@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://www.moodle.tum.de/course/view.php?idnumber=950883741\nOnline URL: \nSpeaker: Prof. Nathan S. Lewis\, California Institute of Technology (Caltech)\nAffiliation: \nLocation: CRC 3002\nScore: 100\nScore reasons: source_weight:20\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: as part of CRC Distinguished Lecturer Series Speaker: Prof. Nathan S. Lewis\, California Institute of Technology (Caltech)
 DTEND:20260804T133000Z
 LOCATION:CRC 3002
@@ -30,6 +23,14 @@ LOCATION:Save the Date. Artificial intelligence is transforming how researchers 
 DTSTART:20261002T070000Z
 SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261004T083000Z
+LOCATION:28
+DTSTART:20261004T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:00b1069e01b2a04bbb21c397@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: Recent Results in Graph Property Testing via the Container Method Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colo
@@ -87,14 +88,6 @@ DTEND:20260811T233000Z
 DTSTART:20260811T220000Z
 SUMMARY:[Quantum] Mini MÃ¼nchen: MCQST macht mit!
 UID:8a50ce4fbd17c59036b443cc@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261003T083000Z
-LOCATION:28
-DTSTART:20261003T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:28f21102b4fa65b0d1fe5c7d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
