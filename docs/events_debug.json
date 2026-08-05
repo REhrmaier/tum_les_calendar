@@ -1,85 +1,5 @@
 [
   {
-    "title": "Semiconductor stabilization in the context of energy storage",
-    "start": "2026-08-04T14:15:00+02:00",
-    "end": "2026-08-04T15:30:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Nathan S. Lewis, California Institute of Technology (Caltech)",
-    "affiliation": null,
-    "location": "CRC 3002",
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://www.moodle.tum.de/course/view.php?idnumber=950883741",
-    "description": "as part of CRC Distinguished Lecturer Series Speaker: Prof. Nathan S. Lewis, California Institute of Technology (Caltech)",
-    "categories": [
-      "Energy"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:20",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://www.moodle.tum.de/course/view.php?idnumber=950883741|Semiconductor stabilization in the context of energy storage|2026-08-04T14:15:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
-    "start": "2026-08-04T15:30:00-04:00",
-    "end": "2026-08-04T17:30:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation Abstract: Tensor programming has become a standard abstraction for expressing and optimizing dense and sparse computations. However, existing tensor systems are built around integer-indexed domains, which makes it difficult to express applications whose data and computation are defined over real-valued coordinates, such as point clouds, genomic intervals, and spatial queries. As a result, these workloads are scattered across fragmented libraries, each with its own hand-written kernels and data structures. This thesis introduces the continuous tensor abstraction, which extends tensor programming to real-valued domains. Under a piecewise-constant assumption, continuous tensors can be represented finitely, reduced over continuous regions, and compiled into executable code. On top of this abstraction, the thesis develops format-aware computation: a program rewrite that turns continuous tensor programs into dense tensor operations with the format information embedded in the expression, so that highly optimized dense compiler infrastructure can execute them efficiently on GPUs. Together, these contributions broaden tensor programming beyond integer-indexed arrays and bring continuous-domain applications into a unified framework. Thesis Committee: Saman Amarasinghe Joel Emer Fredrik Kjolstad (Stanford) Location: Stata Kiva (32-G449) /Date/Time: August 4th 3:30pm - 5:30pm &nbsp;Zoom Link: Available Upon Request TBD August 5, 2026 Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System Simon Langowski CSAIL 3:00 P - 4:15 P Location 32-G882",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation|2026-08-04T15:30:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Mini MÃ¼nchen: MCQST macht mit!",
-    "start": "2026-08-05T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "5 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:60",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MCQST Events|Mini MÃ¼nchen: MCQST macht mit!|2026-08-05T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Mini MÃ¼nchen: MCQST macht mit!",
     "start": "2026-08-12T00:00:00+02:00",
     "end": null,
@@ -238,7 +158,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-04T00:00:00-07:00",
+    "start": "2026-10-05T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -258,7 +178,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-04T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-05T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
