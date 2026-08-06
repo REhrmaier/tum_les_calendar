@@ -11,7 +11,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 7 September - 11 September 2026 Atomic Quantum Matter Conference 2026 Events |",
+    "description": "12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 7 September - 11 September 2026 Atomic Quantum Matter Conference 2026 Events | Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -129,36 +129,8 @@
     "reject_reasons": []
   },
   {
-    "title": "Tag der Offenen TÃ¼r Garching 2026",
-    "start": "2026-10-03T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "Munich Quantum Center Events|Tag der Offenen TÃ¼r Garching 2026|2026-10-03T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-05T00:00:00-07:00",
+    "start": "2026-10-06T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -178,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-05T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-06T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
