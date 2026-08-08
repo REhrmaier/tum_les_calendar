@@ -24,14 +24,6 @@ SUMMARY:[General High Impact] Instance-optimal estimation of L2-norm
 UID:626d2851a455d6b2b4a6f516@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261007T083000Z
-LOCATION:28
-DTSTART:20261007T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:f61fb841c74aca17364da9f2@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\nExcerpt: Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday\, October 13\, 2026 TBD MIT CSAIL Massachusetts Institute of Technology Computer Science &
 DTEND:20261013T210000Z
 DTSTART:20261013T200000Z
@@ -59,6 +51,14 @@ DTEND:20260811T233000Z
 DTSTART:20260811T220000Z
 SUMMARY:[Quantum] Mini MÃ¼nchen: MCQST macht mit!
 UID:8a50ce4fbd17c59036b443cc@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261008T083000Z
+LOCATION:28
+DTSTART:20261008T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:49fb3bb73c4e5df8433b2ee0@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002

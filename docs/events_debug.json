@@ -38,7 +38,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators).&nbsp; TBD Recent Results in Graph Property Testing via the Container Method Cameron Seth University of Waterloo 2:00 P - 3:00 P Location 32-G575 Also seen in: MIT CSAIL Events",
+    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD Recent Results in Graph Property Testing via the Container Method Cameron Seth University of Waterloo 2:00 P - 3:00 P Location 32-G575",
     "categories": [
       "General High Impact"
     ],
@@ -130,7 +130,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-07T00:00:00-07:00",
+    "start": "2026-10-08T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -150,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-07T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-08T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
