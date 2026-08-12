@@ -1,32 +1,5 @@
 [
   {
-    "title": "Mini MÃ¼nchen: MCQST macht mit!",
-    "start": "2026-08-12T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "12 August 2026 Mini MÃ¼nchen: MCQST macht mit! Events | Public Events Magie oder einfach Physik? In der Sommer-Spielstadt tauchen Kinder in die Welt der Quanten ein â im gleichnamigen Seminar von MCQST. Read More 7 September - 11 September 2026 Atomic Quantum Matter Conference 2026 Events | Also seen in: Munich Quantum Center Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Mini MÃ¼nchen: MCQST macht mit!|2026-08-12T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
     "start": "2026-08-12T11:00:00-04:00",
     "end": "2026-08-12T12:30:00-04:00",
@@ -155,7 +128,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-11T00:00:00-07:00",
+    "start": "2026-10-12T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -175,7 +148,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-11T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-12T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
