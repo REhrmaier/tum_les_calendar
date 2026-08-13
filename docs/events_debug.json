@@ -1,30 +1,5 @@
 [
   {
-    "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
-    "start": "2026-08-12T11:00:00-04:00",
-    "end": "2026-08-12T12:30:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto) Abstract: &nbsp;A parachute is a hundred microns of fabric travelling through a much larger volume of fluid. A heart valve consists of two leaflets that must meet and form a watertight seal. In problems like these, the geometry of the solid alone decides which paths a fluid can take, and resolving this exactly should be as important to our simulators as conservation laws and invariants.This talk will argue for discretizations that preserve the local flow topology, showing that retaining the proper connectivity of the fluid domain resolves errors in numerical sealing and leaking, independent of resolution. I will introduce a Lagrangian Voronoi partitioning scheme clipped and stitched against the solid to retain the correct fluid adjacencies, applied to both incompressible and compressible fluids. From this, I will demonstrate the key geometric requirements satisfied by the mesh, and extract only those and remove everything else to recover a meshless discretization that behaves much closer to their meshed counterparts than current methods. TBD August 14, 2026 Instance-optimal estimation of L2-norm Tomer Adar Technion 10:30 A - 11:30 A Location 32-G575",
-    "categories": [
-      "Math"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)|2026-08-12T11:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Instance-optimal estimation of L2-norm",
     "start": "2026-08-14T10:30:00-04:00",
     "end": "2026-08-14T11:30:00-04:00",
@@ -128,7 +103,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-12T00:00:00-07:00",
+    "start": "2026-10-13T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -148,7 +123,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-12T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-13T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },

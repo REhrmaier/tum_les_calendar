@@ -32,18 +32,11 @@ UID:e49fe53112c0e0abe429c6be@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261012T083000Z
+DTEND:20261013T083000Z
 LOCATION:28
-DTSTART:20261012T070000Z
+DTSTART:20261013T070000Z
 SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:c807615c51ce02feb3433b62@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos\, U. of Toronto) Abstract: &nbsp\;A parachute is a hundred microns of fabric travelling through a much larger volume of fluid. A heart valve consi
-DTEND:20260812T163000Z
-DTSTART:20260812T150000Z
-SUMMARY:[Math] Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos\, U. of Toronto)
-UID:98f854bc963326cea5d0db10@tum-les-calendar
+UID:bd5f864fedfcc37098082907@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
