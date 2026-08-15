@@ -1,56 +1,5 @@
 [
   {
-    "title": "Instance-optimal estimation of L2-norm",
-    "start": "2026-08-14T10:30:00-04:00",
-    "end": "2026-08-14T11:30:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Instance-optimal estimation of L2-norm Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estimating the $L_2$-norm itself, their algorithm is not always optimal compared to the instance-specific second-moment bounds, $O(1/(\\varepsilon\\|\\mu\\|_2) + t_\\mu/\\varepsilon^2)$, for $t_\\mu = \\|\\mu\\|_3^3 / \\|\\mu\\|_2^4 - 1$, as stated by Batu (WoLA 2025, open problem session).In this paper, we present an unbiased $L_2$-estimation algorithm whose sample complexity matches the instance-specific second-moment analysis. Additionally, we show that $\\Omega(1/(\\varepsilon \\|\\mu\\|_2) + t_\\mu / \\varepsilon^2)$ is indeed the per-instance lower bound for estimating the norm of a distribution $\\mu$ by sampling (even for non-unbiased estimators). TBD Recent Results in Graph Property Testing via the Container Method Cameron Seth University of Waterloo 2:00 P - 3:00 P Location 32-G575",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 90,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MIT CSAIL Events|Instance-optimal estimation of L2-norm|2026-08-14T10:30:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Recent Results in Graph Property Testing via the Container Method",
-    "start": "2026-08-14T14:00:00-04:00",
-    "end": "2026-08-14T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Recent Results in Graph Property Testing via the Container Method Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colorability, rho-clique and satisfiability. In this talk we will demonstrate that there is a deeper connection between the container method and graph property testing. For hereditary properties, we relate one-sided testability to the existence of a type of container lemma, and we obtain quantitative bounds in both directions. As applications, we obtain closure results for partition properties and new testing results for graph and digraph properties such as the dichromatic number.&nbsp; TBD August 17, 2026 Diagnosing and Managing Performance in Data Systems Markos Markakis MIT CSAIL Part Of Thesis Defense 1:00 P - 2:00 P Location 32-G882",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Recent Results in Graph Property Testing via the Container Method|2026-08-14T14:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Empirical Methods in the Age of AI Conference",
     "start": "2026-10-02T00:00:00-07:00",
     "end": null,
@@ -129,7 +78,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-14T00:00:00-07:00",
+    "start": "2026-10-15T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -149,7 +98,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-14T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
