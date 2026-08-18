@@ -2,34 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261018T083000Z
+LOCATION:28
+DTSTART:20261018T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:df5e04881a9a787c9717eccb@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Conference Oct 02\, 2026 Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific disco
 DTEND:20261002T083000Z
 LOCATION:Save the Date. Artificial intelligence is transforming how researchers collect\, analyze\, and learn from data. As AI systems become increasingly integrated into scientific discovery\, business decision-making\, and policy analysis\, they are reshaping both the questions researchers can ask and the methods they use to answer them.
 DTSTART:20261002T070000Z
 SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday\, October 13\, 2026 TBD October 27\, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL
-DTEND:20261013T210000Z
-DTSTART:20261013T200000Z
-SUMMARY:[General High Impact] Dertouzos Distinguished Lecture: Prof
-UID:e49fe53112c0e0abe429c6be@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261017T083000Z
-LOCATION:28
-DTSTART:20261017T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:26ddd3f9fc728d89c98f3b8d@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: [Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation Location: 32-D463 (Star)Title: Robots That Think Before They Act: Planning and Perception for Generalizable ManipulationAbstract: A h
-DTEND:20260827T190000Z
-DTSTART:20260827T180000Z
-SUMMARY:[AI] [Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation
-UID:e839f2add5d43c47f6151d73@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
