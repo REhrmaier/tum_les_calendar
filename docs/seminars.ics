@@ -17,19 +17,19 @@ SUMMARY:[General High Impact] Dertouzos Distinguished Lecture: Prof
 UID:e49fe53112c0e0abe429c6be@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261022T083000Z
+LOCATION:28
+DTSTART:20261022T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:cbb382d1f769326b9c815345@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: [Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation Location: 32-D463 (Star)Title: Robots That Think Before They Act: Planning and Perception for Generalizable ManipulationAbstract: A h
 DTEND:20260827T190000Z
 DTSTART:20260827T180000Z
 SUMMARY:[AI] [Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation
 UID:e839f2add5d43c47f6151d73@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261021T083000Z
-LOCATION:28
-DTSTART:20261021T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:baab558ae03579ec94c92f5e@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
