@@ -17,6 +17,14 @@ SUMMARY:[General High Impact] Dertouzos Distinguished Lecture: Prof
 UID:e49fe53112c0e0abe429c6be@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261026T083000Z
+LOCATION:28
+DTSTART:20261026T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:d1d844e46fdbd5621665dca1@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 70\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affili
 DTEND:20260901T180000Z
 DTSTART:20260901T170000Z
@@ -44,14 +52,6 @@ LOCATION:9:00 AM - 6:00 PM
 DTSTART:20261028T070000Z
 SUMMARY:[AI] Confronting Our AI Future: Hope\, Fear\, and the Choices Ahead
 UID:d4bc8bcb1c2e4819da2a57cc@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261025T083000Z
-LOCATION:28
-DTSTART:20261025T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:be81c1dd84f0fb9914ae6e23@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
