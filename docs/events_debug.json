@@ -38,7 +38,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affiliation: MIT CSAILHost: Prof. Russ TedrakeHost Affiliation: MIT CSAILZoom Link: TBDAbstract: General-purpose robots must operate across the diversity of real homes and workplaces. Much of the recent progress toward this goal comes from learned robot policies, including vision-language-action models trained on large datasets and GPU clusters. Developing these policies increasingly follows the experimental workflow of other machine-learning fields: train a model, evaluate it, and use the result to choose the next experiment. Training throughput can grow with GPU compute. Evaluation still often requires human operators to prepare scenes, reset robots, supervise rollouts, and record outcomes, so its throughput remains limited by robot time and human supervision. Simulation could make routine evaluation another compute job, but a simulator can only test policies in the worlds it is given. Today, those worlds are often hand-authored, sparse, static, or missing the physical structure required for contact-rich interaction. Creating diverse, simulation-ready content is therefore the bottleneck addressed in this thesis. This thesis develops methods for generating simulation-ready content at increasing scale, from individual object assets to cluttered arrangements to complete indoor environments. Simulation-ready content contains separable objects, collision geometry, physical properties, feasible placements, and export paths into robot simulators. The central question is how to produce this content automatically while still approximating the diversity and physical complexity of the real world. Scalable Real2Sim turns robot interaction with real objects into simulation-ready assets, reconstructing geometry and identifying inertial properties without custom scanning hardware or manual measurement. Steerable Scene Generation learns a generative prior over cluttered SE(3) object arrangements from large-scale proxy scene data, then adapts that prior through conditioning, post-training, and inference-time search toward robot-relevant objectives. SceneSmith generates complete indoor environments from language. It uses vision-language-model agents to design, critique, and revise scenes, while an integrated pipeline handles asset generation, articulated-object retrieval, physical property estimation, and physics-based feasibility checks. SceneSmith also connects generated environments to policy rollout and automatic scoring. The systems obtain their knowledge of the real world from physical interaction with real objects, imperfect but scalable scene data, and internet-trained vision-language models. They turn that knowledge into simulation-ready worlds that can be generated as part of the same compute-driven workflow used for policy training. These worlds make it possible to run more routine evaluation as compute jobs, allowing robotics experiments to scale without proportional growth in robots and human operators.Thesis committee: Russ Tedrake (Thesis Supervisor), Phillip Isola (Thesis Reader), Tomás Lozano-Pérez (Thesis Reader) TBD September 4, 2026 Thesis Defense: Efficient, Diverse and Reliable Sampling from Language Models Theo Olausson MIT-CSAIL 10:00 A - 12:00 P Location 32-G882 Hewlett",
+    "description": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affiliation: MIT CSAILHost: Prof. Russ TedrakeHost Affiliation: MIT CSAILZoom Link: TBDAbstract: General-purpose robots must operate across the diversity of real homes and workplaces. Much of the recent progress toward this goal comes from learned robot policies, including vision-language-action models trained on large datasets and GPU clusters. Developing these policies increasingly follows the experimental workflow of other machine-learning fields: train a model, evaluate it, and use the result to choose the next experiment. Training throughput can grow with GPU compute. Evaluation still often requires human operators to prepare scenes, reset robots, supervise rollouts, and record outcomes, so its throughput remains limited by robot time and human supervision. Simulation could make routine evaluation another compute job, but a simulator can only test policies in the worlds it is given. Today, those worlds are often hand-authored, sparse, static, or missing the physical structure required for contact-rich interaction. Creating diverse, simulation-ready content is therefore the bottleneck addressed in this thesis. This thesis develops methods for generating simulation-ready content at increasing scale, from individual object assets to cluttered arrangements to complete indoor environments. Simulation-ready content contains separable objects, collision geometry, physical properties, feasible placements, and export paths into robot simulators. The central question is how to produce this content automatically while still approximating the diversity and physical complexity of the real world. Scalable Real2Sim turns robot interaction with real objects into simulation-ready assets, reconstructing geometry and identifying inertial properties without custom scanning hardware or manual measurement. Steerable Scene Generation learns a generative prior over cluttered SE(3) object arrangements from large-scale proxy scene data, then adapts that prior through conditioning, post-training, and inference-time search toward robot-relevant objectives. SceneSmith generates complete indoor environments from language. It uses vision-language-model agents to design, critique, and revise scenes, while an integrated pipeline handles asset generation, articulated-object retrieval, physical property estimation, and physics-based feasibility checks. SceneSmith also connects generated environments to policy rollout and automatic scoring. The systems obtain their knowledge of the real world from physical interaction with real objects, imperfect but scalable scene data, and internet-trained vision-language models. They turn that knowledge into simulation-ready worlds that can be generated as part of the same compute-driven workflow used for policy training. These worlds make it possible to run more routine evaluation as compute jobs, allowing robotics experiments to scale without proportional growth in robots and human operators.Thesis committee: Russ Tedrake (Thesis Supervisor), Phillip Isola (Thesis Reader), Tomás Lozano-Pérez (Thesis Reader) TBD September 4, 2026 CSL Seminar Series: Bringing Physical Intelligence into the Real World Chelsea Finn Stanford 9:00 A - 10:00 A Location 32-G449 Kiva",
     "categories": [
       "Physics",
       "Math"
@@ -66,7 +66,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026 9:00 AM - 6:00 PM",
+    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026 9:00 AM - 6:45 PM",
     "categories": [
       "AI"
     ],
@@ -81,7 +81,7 @@
     "reject_reasons": []
   },
   {
-    "title": "Das MEP öffnet seine Türen",
+    "title": "Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein",
     "start": "2026-10-03T00:00:00+02:00",
     "end": "2026-10-04T00:00:00+02:00",
     "timezone": "Europe/Berlin",
@@ -101,7 +101,7 @@
       "source_weight:60",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM MEP Termine|Das MEP öffnet seine Türen|2026-10-03T00:00:00+02:00",
+    "uid_seed": "TUM MEP Termine|Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein|2026-10-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -128,32 +128,6 @@
       "institution_signal:+20"
     ],
     "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: Prof|2026-10-13T16:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-26T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:00 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-26T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -185,18 +159,44 @@
     "reject_reasons": []
   },
   {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-27T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-27T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
     "start": "2026-10-28T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
     "affiliation": null,
-    "location": "9:00 AM - 6:00 PM",
+    "location": "9:00 AM - 6:45 PM",
     "online_url": null,
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:00 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Previous Events at HAI",
+    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Previous Events at HAI",
     "categories": [
       "AI"
     ],
