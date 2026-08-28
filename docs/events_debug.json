@@ -1,32 +1,5 @@
 [
   {
-    "title": "[Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation",
-    "start": "2026-08-27T14:00:00-04:00",
-    "end": "2026-08-27T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "[Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation Location: 32-D463 (Star)Title: Robots That Think Before They Act: Planning and Perception for Generalizable ManipulationAbstract: A home robot will encounter a wide variety of objects, instructions, and environments it has never seen before. No amount of engineering or data collection can cover every situation. This defense argues that handling this variety is a problem of composition, and that planning provides the mechanism, allowing the robot to think before it acts. I develop this idea across three areas: planning by scaling test-time compute, planning from perception, and planning to guide perception. We first develop a task and motion planner that combines compositional sampling with differentiable optimization on GPUs, refining thousands of candidate solutions in parallel to solve tightly constrained problems in seconds. We then integrate our planner with foundation models for perception and language into a complete tabletop manipulation system. This system uses no task-specific robot data, yet outperforms state-of-the-art learned policies on long-horizon and semantic reasoning tasks. Finally, we turn to mobile manipulation with an agent that grounds objects and concepts from raw observations on the fly, reasons over spatial and semantic relations, and checks feasibility before acting. Every method runs on multiple real robots, from tabletop arms to mobile manipulators.Thesis Committee: Leslie Pack Kaelbling (thesis advisor), Tomás Lozano-Pérez (thesis advisor), Phillip Isola TBD August 31, 2026 Massive Parallelization of Irregular Computations: Parallel Algorithm Design and Hardware Acceleration Dayi Fan The Ohio State University 2:00 P - 3:00 P Location 32-G575",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+35:energy system",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|[Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation|2026-08-27T14:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "THESIS DEFENSE (NICHOLAS PFAFF)",
     "start": "2026-09-01T13:00:00-04:00",
     "end": "2026-09-01T14:00:00-04:00",
@@ -51,6 +24,31 @@
       "penalty:-25:exam"
     ],
     "uid_seed": "MIT CSAIL Events|THESIS DEFENSE (NICHOLAS PFAFF)|2026-09-01T13:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart",
+    "start": "2026-09-23T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Industry, Innovation Empirical Methods in the Age of AI Conference Conference",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart|2026-09-23T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -160,7 +158,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-27T00:00:00-07:00",
+    "start": "2026-10-28T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -180,7 +178,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-27T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-28T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -196,8 +194,9 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Previous Events at HAI",
+    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Marcos Santiago Rojas Pino & Thomas Caruso | Building an International AI Platform for Health Professions Education and the Learning Sciences",
     "categories": [
+      "Buildings",
       "AI"
     ],
     "score": 100,
@@ -207,6 +206,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Confronting Our AI Future: Hope, Fear, and the Choices Ahead|2026-10-28T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Mike Wooldridge | The AI 100",
+    "start": "2026-11-18T00:00:00-08:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Mike Wooldridge | The AI 100 Nov 18, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third report, released in October 2026. Foundation Models Industry, Innovation Democracy",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Mike Wooldridge | The AI 100|2026-11-18T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   }
