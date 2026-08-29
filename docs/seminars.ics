@@ -25,6 +25,13 @@ SUMMARY:[General High Impact] Dertouzos Distinguished Lecture: Prof
 UID:e49fe53112c0e0abe429c6be@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: THESIS DEFENSE (NOEL LOO): &quot\;Dataset Distillation: Fundamentals and Applications to Privacy&quot\; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: TBDAbstract: One of the central driv
+DTEND:20260904T180000Z
+DTSTART:20260904T170000Z
+SUMMARY:[AI] THESIS DEFENSE (NOEL LOO): &quot\;Dataset Distillation: Fundamentals and Applications to Privacy&quot\;
+UID:25840462ff6c28d9133dd759@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 70\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affili
 DTEND:20260901T180000Z
 DTSTART:20260901T170000Z
@@ -32,12 +39,12 @@ SUMMARY:[Physics] THESIS DEFENSE (NICHOLAS PFAFF)
 UID:624e672c5b13fd7d2ce0da9e@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261028T083000Z
-LOCATION:28
-DTSTART:20261028T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:51eca5dc99feb7c6565e0da2@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:finance\; institution_signal:+20\nExcerpt: 2026 Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications Oct 07\, 2026 12:00 PM - 1:15 PM Finance\, Business Confronting Our AI Future: Hope\, Fear\, and the Choices Ahead Conference Oct 28\, 2026
+DTEND:20261007T083000Z
+LOCATION:12:00 PM - 1:15 PM
+DTSTART:20261007T070000Z
+SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications
+UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
@@ -61,6 +68,14 @@ DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktu
 LOCATION:TUM MEP
 SUMMARY:[General High Impact] Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein
 UID:bdbde163b9bfb414c590a3fe@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261029T083000Z
+LOCATION:28
+DTSTART:20261029T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:1b209299153214977ecf3a09@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23\, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Indust

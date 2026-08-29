@@ -11,7 +11,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affiliation: MIT CSAILHost: Prof. Russ TedrakeHost Affiliation: MIT CSAILZoom Link: TBDAbstract: General-purpose robots must operate across the diversity of real homes and workplaces. Much of the recent progress toward this goal comes from learned robot policies, including vision-language-action models trained on large datasets and GPU clusters. Developing these policies increasingly follows the experimental workflow of other machine-learning fields: train a model, evaluate it, and use the result to choose the next experiment. Training throughput can grow with GPU compute. Evaluation still often requires human operators to prepare scenes, reset robots, supervise rollouts, and record outcomes, so its throughput remains limited by robot time and human supervision. Simulation could make routine evaluation another compute job, but a simulator can only test policies in the worlds it is given. Today, those worlds are often hand-authored, sparse, static, or missing the physical structure required for contact-rich interaction. Creating diverse, simulation-ready content is therefore the bottleneck addressed in this thesis. This thesis develops methods for generating simulation-ready content at increasing scale, from individual object assets to cluttered arrangements to complete indoor environments. Simulation-ready content contains separable objects, collision geometry, physical properties, feasible placements, and export paths into robot simulators. The central question is how to produce this content automatically while still approximating the diversity and physical complexity of the real world. Scalable Real2Sim turns robot interaction with real objects into simulation-ready assets, reconstructing geometry and identifying inertial properties without custom scanning hardware or manual measurement. Steerable Scene Generation learns a generative prior over cluttered SE(3) object arrangements from large-scale proxy scene data, then adapts that prior through conditioning, post-training, and inference-time search toward robot-relevant objectives. SceneSmith generates complete indoor environments from language. It uses vision-language-model agents to design, critique, and revise scenes, while an integrated pipeline handles asset generation, articulated-object retrieval, physical property estimation, and physics-based feasibility checks. SceneSmith also connects generated environments to policy rollout and automatic scoring. The systems obtain their knowledge of the real world from physical interaction with real objects, imperfect but scalable scene data, and internet-trained vision-language models. They turn that knowledge into simulation-ready worlds that can be generated as part of the same compute-driven workflow used for policy training. These worlds make it possible to run more routine evaluation as compute jobs, allowing robotics experiments to scale without proportional growth in robots and human operators.Thesis committee: Russ Tedrake (Thesis Supervisor), Phillip Isola (Thesis Reader), Tomás Lozano-Pérez (Thesis Reader) TBD September 4, 2026 CSL Seminar Series: Bringing Physical Intelligence into the Real World Chelsea Finn Stanford 9:00 A - 10:00 A Location 32-G449 Kiva",
+    "description": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and EvaluationSpeaker: Nicholas PfaffSpeaker Affiliation: MIT CSAILHost: Prof. Russ TedrakeHost Affiliation: MIT CSAILZoom Link: https://mit.zoom.us/j/97709093815Abstract: General-purpose robots must operate across the diversity of real homes and workplaces. Much of the recent progress toward this goal comes from learned robot policies, including vision-language-action models trained on large datasets and GPU clusters. Developing these policies increasingly follows the experimental workflow of other machine-learning fields: train a model, evaluate it, and use the result to choose the next experiment. Training throughput can grow with GPU compute. Evaluation still often requires human operators to prepare scenes, reset robots, supervise rollouts, and record outcomes, so its throughput remains limited by robot time and human supervision. Simulation could make routine evaluation another compute job, but a simulator can only test policies in the worlds it is given. Today, those worlds are often hand-authored, sparse, static, or missing the physical structure required for contact-rich interaction. Creating diverse, simulation-ready content is therefore the bottleneck addressed in this thesis. This thesis develops methods for generating simulation-ready content at increasing scale, from individual object assets to cluttered arrangements to complete indoor environments. Simulation-ready content contains separable objects, collision geometry, physical properties, feasible placements, and export paths into robot simulators. The central question is how to produce this content automatically while still approximating the diversity and physical complexity of the real world. Scalable Real2Sim turns robot interaction with real objects into simulation-ready assets, reconstructing geometry and identifying inertial properties without custom scanning hardware or manual measurement. Steerable Scene Generation learns a generative prior over cluttered SE(3) object arrangements from large-scale proxy scene data, then adapts that prior through conditioning, post-training, and inference-time search toward robot-relevant objectives. SceneSmith generates complete indoor environments from language. It uses vision-language-model agents to design, critique, and revise scenes, while an integrated pipeline handles asset generation, articulated-object retrieval, physical property estimation, and physics-based feasibility checks. SceneSmith also connects generated environments to policy rollout and automatic scoring. The systems obtain their knowledge of the real world from physical interaction with real objects, imperfect but scalable scene data, and internet-trained vision-language models. They turn that knowledge into simulation-ready worlds that can be generated as part of the same compute-driven workflow used for policy training. These worlds make it possible to run more routine evaluation as compute jobs, allowing robotics experiments to scale without proportional growth in robots and human operators.Thesis committee: Russ Tedrake (Thesis Supervisor), Phillip Isola (Thesis Reader), Tomás Lozano-Pérez (Thesis Reader) TBD September 4, 2026 CSL Seminar Series: Bringing Physical Intelligence into the Real World Chelsea Finn Stanford 9:00 A - 10:00 A Location 32-G449 Kiva",
     "categories": [
       "Physics",
       "Math"
@@ -24,6 +24,34 @@
       "penalty:-25:exam"
     ],
     "uid_seed": "MIT CSAIL Events|THESIS DEFENSE (NICHOLAS PFAFF)|2026-09-01T13:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot;",
+    "start": "2026-09-04T13:00:00-04:00",
+    "end": "2026-09-04T14:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: TBDAbstract: One of the central drivers of deep learning's progress has been steadily growing dataset sizes. From the early 2010s to the mid 2020s, dataset sizes have increased by over six orders of magnitude, and models trained on these datasets have consequently improved predictably. This growth brings substantial compute, storage, and privacy costs. These downsides motivate dataset distillation algorithms, which aim to compress datasets into smaller synthetic ones while retaining comparable downstream performance compared to the original dataset. This thesis develops dataset distillation along three frontiers.On the algorithmic front, we develop three algorithms for dataset distillation: RFAD, RCIG, and D3S, each specialized to a different regime of dataset and model size. Through this development, we reveal that a central theme in dataset distillation is tailoring the choice of inner-loop training surrogate to the scale of the downstream model, from an infinite-width kernel approximation at small scale, to a convexified finite-width kernel at moderate scale, to a non-kernel per-layer feature-statistic surrogate at ImageNet scale.On the theoretical front, we make two contributions. Firstly, we prove the first bounds on the sufficient distilled dataset size needed to achieve bounded risk for dataset distillation under Kernel Ridge Regression. Secondly, we provide an empirical analysis showing when the so-called lazy-training regime, which the aforementioned distillation algorithms assume, holds for real finite-width networks.Finally, we use dataset distillation both to understand privacy attacks and to construct privacy-preserving learning algorithms. On the analytic side, we show a formal equivalence between certain training-data reconstruction attacks and the kernel-inducing-point (KIP) family of dataset distillation algorithms. On the constructive side, we present a differentially private dataset distillation algorithm, SPS+, which is competitive with DP-SGD in the fine-tuning regime while offering more flexibility, including unlimited downstream reuse of a single privatized released dataset. Together, these results identify privacy as a compelling motivation for dataset distillation at scale: a single differentially private synthetic dataset can be released once and reused without additional privacy cost across many downstream models.Thesis Committee: Profs. Daniela Rus, Srini Devadas, Antonio Torralba TBD September 9, 2026 [Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL 12:00 P - 1:30 P Location 32-G449 32-G449 (Kiva Seminar Room)",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot;|2026-09-04T13:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
@@ -64,7 +92,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026 9:00 AM - 6:45 PM",
+    "description": "2026 Empirical Methods in the Age of AI Conference Oct 02, 2026 Save the Date. Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the methods they use to answer them. Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications Seminar Oct 07, 2026 12:00 PM - 1:15 PM",
     "categories": [
       "AI"
     ],
@@ -100,6 +128,33 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM MEP Termine|Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein|2026-10-03T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications",
+    "start": "2026-10-07T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications Oct 07, 2026 12:00 PM - 1:15 PM Finance, Business Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026",
+    "categories": [
+      "Finance",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:finance",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications|2026-10-07T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -157,32 +212,6 @@
     "reject_reasons": []
   },
   {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-28T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-28T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
     "start": "2026-10-28T00:00:00-07:00",
     "end": null,
@@ -206,6 +235,32 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Confronting Our AI Future: Hope, Fear, and the Choices Ahead|2026-10-28T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-29T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-29T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
