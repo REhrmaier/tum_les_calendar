@@ -18,6 +18,14 @@ SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261030T083000Z
+LOCATION:28
+DTSTART:20261030T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:59464822aa2e7d2c132d680d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday\, October 13\, 2026 TBD October 27\, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL
 DTEND:20261013T210000Z
 DTSTART:20261013T200000Z
@@ -68,14 +76,6 @@ DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktu
 LOCATION:TUM MEP
 SUMMARY:[General High Impact] Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein
 UID:bdbde163b9bfb414c590a3fe@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261029T083000Z
-LOCATION:28
-DTSTART:20261029T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:1b209299153214977ecf3a09@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23\, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Indust
