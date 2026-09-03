@@ -11,7 +11,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: https://mit.zoom.us/j/5392005602Abstract: One of the central drivers of deep learning's progress has been steadily growing dataset sizes. From the early 2010s to the mid 2020s, dataset sizes have increased by over six orders of magnitude, and models trained on these datasets have consequently improved predictably. This growth brings substantial compute, storage, and privacy costs. These downsides motivate dataset distillation algorithms, which aim to compress datasets into smaller synthetic ones while retaining comparable downstream performance compared to the original dataset. This thesis develops dataset distillation along three frontiers.On the algorithmic front, we develop three algorithms for dataset distillation: RFAD, RCIG, and D3S, each specialized to a different regime of dataset and model size. Through this development, we reveal that a central theme in dataset distillation is tailoring the choice of inner-loop training surrogate to the scale of the downstream model, from an infinite-width kernel approximation at small scale, to a convexified finite-width kernel at moderate scale, to a non-kernel per-layer feature-statistic surrogate at ImageNet scale.On the theoretical front, we make two contributions. Firstly, we prove the first bounds on the sufficient distilled dataset size needed to achieve bounded risk for dataset distillation under Kernel Ridge Regression. Secondly, we provide an empirical analysis showing when the so-called lazy-training regime, which the aforementioned distillation algorithms assume, holds for real finite-width networks.Finally, we use dataset distillation both to understand privacy attacks and to construct privacy-preserving learning algorithms. On the analytic side, we show a formal equivalence between certain training-data reconstruction attacks and the kernel-inducing-point (KIP) family of dataset distillation algorithms. On the constructive side, we present a differentially private dataset distillation algorithm, SPS+, which is competitive with DP-SGD in the fine-tuning regime while offering more flexibility, including unlimited downstream reuse of a single privatized released dataset. Together, these results identify privacy as a compelling motivation for dataset distillation at scale: a single differentially private synthetic dataset can be released once and reused without additional privacy cost across many downstream models.Thesis Committee: Profs. Daniela Rus, Srini Devadas, Antonio Torralba TBD Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist Jovana Kondic MIT 3:00 P - 4:00 P Location 45-792",
+    "description": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: https://mit.zoom.us/j/5392005602Abstract: One of the central drivers of deep learning's progress has been steadily growing dataset sizes. From the early 2010s to the mid 2020s, dataset sizes have increased by over six orders of magnitude, and models trained on these datasets have consequently improved predictably. This growth brings substantial compute, storage, and privacy costs. These downsides motivate dataset distillation algorithms, which aim to compress datasets into smaller synthetic ones while retaining comparable downstream performance compared to the original dataset. This thesis develops dataset distillation along three frontiers.On the algorithmic front, we develop three algorithms for dataset distillation: RFAD, RCIG, and D3S, each specialized to a different regime of dataset and model size. Through this development, we reveal that a central theme in dataset distillation is tailoring the choice of inner-loop training surrogate to the scale of the downstream model, from an infinite-width kernel approximation at small scale, to a convexified finite-width kernel at moderate scale, to a non-kernel per-layer feature-statistic surrogate at ImageNet scale.On the theoretical front, we make two contributions. Firstly, we prove the first bounds on the sufficient distilled dataset size needed to achieve bounded risk for dataset distillation under Kernel Ridge Regression. Secondly, we provide an empirical analysis showing when the so-called lazy-training regime, which the aforementioned distillation algorithms assume, holds for real finite-width networks.Finally, we use dataset distillation both to understand privacy attacks and to construct privacy-preserving learning algorithms. On the analytic side, we show a formal equivalence between certain training-data reconstruction attacks and the kernel-inducing-point (KIP) family of dataset distillation algorithms. On the constructive side, we present a differentially private dataset distillation algorithm, SPS+, which is competitive with DP-SGD in the fine-tuning regime while offering more flexibility, including unlimited downstream reuse of a single privatized released dataset. Together, these results identify privacy as a compelling motivation for dataset distillation at scale: a single differentially private synthetic dataset can be released once and reused without additional privacy cost across many downstream models.Thesis Committee: Profs. Daniela Rus, Srini Devadas, Antonio Torralba TBD THESIS DEFENSE: Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist Jovana Kondic MIT 3:00 P - 4:00 P Location 45-792",
     "categories": [
       "AI"
     ],
@@ -28,6 +28,32 @@
     "reject_reasons": []
   },
   {
+    "title": "Three Minutes of Science Contest & Workshop",
+    "start": "2026-09-22T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "22 September 2026 Three Minutes of Science Contest & Workshop Events | Workshops Ready to level up your science communication? Step into the spotlight at the Quantum Talents Symposium's 3-minute pitch contest. Read More 24 September 2026 Successful cooperation in diverse teams Diversity in Leadership | EDI",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MCQST Events|Three Minutes of Science Contest & Workshop|2026-09-22T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart",
     "start": "2026-09-23T00:00:00-07:00",
     "end": null,
@@ -39,7 +65,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Industry, Innovation Empirical Methods in the Age of AI Conference Conference",
+    "description": "2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Industry, Innovation Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald | The World Model and Spatial Intelligence Era: Governing AI Beyond Language Seminar",
     "categories": [
       "AI"
     ],
@@ -79,32 +105,6 @@
     "reject_reasons": []
   },
   {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-02T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-02T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein",
     "start": "2026-10-03T00:00:00+02:00",
     "end": "2026-10-04T00:00:00+02:00",
@@ -126,6 +126,32 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM MEP Termine|Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein|2026-10-03T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-03T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-03T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -194,7 +220,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Events | Collaborations Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
+    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
     "categories": [
       "Quantum"
     ],
