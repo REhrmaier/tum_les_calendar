@@ -1,29 +1,28 @@
 [
   {
-    "title": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot;",
-    "start": "2026-09-03T12:30:00-04:00",
-    "end": "2026-09-03T13:30:00-04:00",
+    "title": "Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design",
+    "start": "2026-09-08T14:00:00-04:00",
+    "end": "2026-09-08T15:00:00-04:00",
     "timezone": "America/New_York",
     "speaker": null,
     "affiliation": null,
     "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
+    "online_url": null,
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: https://mit.zoom.us/j/5392005602Abstract: One of the central drivers of deep learning's progress has been steadily growing dataset sizes. From the early 2010s to the mid 2020s, dataset sizes have increased by over six orders of magnitude, and models trained on these datasets have consequently improved predictably. This growth brings substantial compute, storage, and privacy costs. These downsides motivate dataset distillation algorithms, which aim to compress datasets into smaller synthetic ones while retaining comparable downstream performance compared to the original dataset. This thesis develops dataset distillation along three frontiers.On the algorithmic front, we develop three algorithms for dataset distillation: RFAD, RCIG, and D3S, each specialized to a different regime of dataset and model size. Through this development, we reveal that a central theme in dataset distillation is tailoring the choice of inner-loop training surrogate to the scale of the downstream model, from an infinite-width kernel approximation at small scale, to a convexified finite-width kernel at moderate scale, to a non-kernel per-layer feature-statistic surrogate at ImageNet scale.On the theoretical front, we make two contributions. Firstly, we prove the first bounds on the sufficient distilled dataset size needed to achieve bounded risk for dataset distillation under Kernel Ridge Regression. Secondly, we provide an empirical analysis showing when the so-called lazy-training regime, which the aforementioned distillation algorithms assume, holds for real finite-width networks.Finally, we use dataset distillation both to understand privacy attacks and to construct privacy-preserving learning algorithms. On the analytic side, we show a formal equivalence between certain training-data reconstruction attacks and the kernel-inducing-point (KIP) family of dataset distillation algorithms. On the constructive side, we present a differentially private dataset distillation algorithm, SPS+, which is competitive with DP-SGD in the fine-tuning regime while offering more flexibility, including unlimited downstream reuse of a single privatized released dataset. Together, these results identify privacy as a compelling motivation for dataset distillation at scale: a single differentially private synthetic dataset can be released once and reused without additional privacy cost across many downstream models.Thesis Committee: Profs. Daniela Rus, Srini Devadas, Antonio Torralba TBD THESIS DEFENSE: Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist Jovana Kondic MIT 3:00 P - 4:00 P Location 45-792",
+    "description": "Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design Abstract: Generative models can now propose candidate designs at high throughput, yet the physical world remains theultimate judge: a candidate becomes a solution only if it can be realized in the real world and satisfies the functionalrequirements of the design problem. Relying on downstream validation creates a fundamental trade-off betweenthroughput and physical realizability: Across science and engineering, generating a candidate may take seconds,while validating it through numerical simulation, fabrication, synthesis, or experiment can take hours to months andorders of magnitude more resources. Physical realizability is a scaling problem, not just a quality problem.This thesis treats physical requirements as first-class citizens of the generative system. Inspired by Marr's separationof levels of analysis, we organize generative computational design into a physical level, where artifacts arefabricated or synthesized and their behavior is measured; a computational level, where candidates are represented,simulated, and evaluated; and a generative level, where candidates are proposed. Because each level abstracts theone below, physical requirements can be weakened or lost at the interfaces between them. The central idea of thisthesis is to carry those requirements bottom-up through explicit interfaces, from the physical world through computation and into generation.We formulate computational design as constrained optimization and realize these interfaces through its three coreelements: representation, constraints, and objective evaluation. At the representation interface, procedural moleculargrammars, medial skeletons, and tetrahedral sphere primitives define candidate spaces that are valid byconstruction. At the constraint interface, differentiable projection modules enforce physical feasibility during generation, resolving steric clashes in molecules and bringing mechanical structures into static equilibrium. At the objectiveinterface, unified simulators evaluate design behavior with scientific fidelity at generative throughput, spanningphysical regimes from molecular dynamics to aerodynamics.Together, these contributions lay the foundation for universal precision design: general-purpose systems that tailorphysically realizable designs to the specific requirements of a problem, individual, or environment, at scale.Thesis Committee: Kaiming He, Bill Freeman, Wojciech Matusik (advisor). TBD September 9, 2026 [Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL 12:00 P - 1:30 P Location 32-G449 32-G449 (Kiva Seminar Room)",
     "categories": [
-      "AI"
+      "Physics"
     ],
     "score": 100,
     "score_reasons": [
       "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+35:energy system",
       "institution_signal:+20",
-      "online_bonus:+20",
-      "penalty:-25:exam"
+      "online_bonus:+20"
     ],
-    "uid_seed": "MIT CSAIL Events|THESIS DEFENSE (NOEL LOO): &quot;Dataset Distillation: Fundamentals and Applications to Privacy&quot;|2026-09-03T12:30:00-04:00",
+    "uid_seed": "MIT CSAIL Events|Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design|2026-09-08T14:00:00-04:00",
     "include": true,
     "reject_reasons": []
   },
@@ -131,7 +130,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-03T00:00:00-07:00",
+    "start": "2026-10-04T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -151,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-03T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-04T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },

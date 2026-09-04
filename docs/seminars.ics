@@ -18,6 +18,14 @@ SUMMARY:[AI] Empirical Methods in the Age of AI Conference
 UID:7b5a8d568ead588b4ef7d2bd@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261004T083000Z
+LOCATION:28
+DTSTART:20261004T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:00b1069e01b2a04bbb21c397@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights\, strengthen collaborations\, and support the mobility of early-career scientists. Read More 26 Oct
 DTEND:20261022T233000Z
 DTSTART:20261022T220000Z
@@ -40,6 +48,13 @@ SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life
 UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+35:energy system\; institution_signal:+20\; online_bonus:+20\nExcerpt: Thesis Defense\, Minghao Guo: Physics-Constrained Generative Models for Computational Design Abstract: Generative models can now propose candidate designs at high throughput\, yet the physical world remains theultimate judge: a candidate beco
+DTEND:20260908T190000Z
+DTSTART:20260908T180000Z
+SUMMARY:[Physics] Thesis Defense\, Minghao Guo: Physics-Constrained Generative Models for Computational Design
+UID:2978e0339c101496cc29f1e8@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 22 September 2026 Three Minutes of Science Contest & Workshop Events | Workshops Ready to level up your science communication? Step into the spotlight at the Quantum Talents Symposium's 3-minute pitch contest. Read More 24 September 2026 Su
 DTEND:20260921T233000Z
 DTSTART:20260921T220000Z
@@ -52,13 +67,6 @@ DTEND:20261027T003000Z
 DTSTART:20261026T230000Z
 SUMMARY:[Quantum] Quantum Talents Symposium Munich 2026
 UID:c66429dab8eb4880bc9887d4@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: THESIS DEFENSE (NOEL LOO): &quot\;Dataset Distillation: Fundamentals and Applications to Privacy&quot\; Speaker: Noel LooSpeaker Affiliation: MIT CSAILHost: Daniela RusHost Affiliation: MIT CSAILZoom Link: https://mit.zoom.us/j/5392005602Abst
-DTEND:20260903T173000Z
-DTSTART:20260903T163000Z
-SUMMARY:[AI] THESIS DEFENSE (NOEL LOO): &quot\;Dataset Distillation: Fundamentals and Applications to Privacy&quot\;
-UID:c37fde6a4b733b3fdfd0673e@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 9:00 AM - 6:45 PM\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Confronting Our AI Future: Hope\, Fear\, and the Choices Ahead Oct 28\, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions abou
@@ -75,14 +83,6 @@ DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktu
 LOCATION:TUM MEP
 SUMMARY:[General High Impact] Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein
 UID:bdbde163b9bfb414c590a3fe@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261003T083000Z
-LOCATION:28
-DTSTART:20261003T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:28f21102b4fa65b0d1fe5c7d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23\, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Indust
