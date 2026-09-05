@@ -130,7 +130,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-04T00:00:00-07:00",
+    "start": "2026-10-05T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -150,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-04T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-05T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -289,7 +289,34 @@
     "reject_reasons": []
   },
   {
-    "title": "Mike Wooldridge | The AI 100",
+    "title": ", set for release in October 2026.",
+    "start": "2026-11-05T00:00:00-08:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "18",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "AI Goes Mainstream: The Scaling Era and the Rise of Generative AI , set for release in October 2026. November 18 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18, 2026 12:00 PM - 1:15 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-05T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI",
     "start": "2026-11-18T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
@@ -300,7 +327,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Mike Wooldridge | The AI 100 Nov 18, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third report, released in October 2026. Foundation Models Industry, Innovation Democracy",
+    "description": "2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third report, AI Goes Mainstream: The Scaling Era and the Rise of Generative AI , set for release in October 2026. Foundation Models",
     "categories": [
       "AI"
     ],
@@ -309,9 +336,10 @@
       "source_weight:55",
       "topic_bonus:+30:artificial intelligence",
       "high_impact:+50",
-      "institution_signal:+20"
+      "institution_signal:+20",
+      "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Mike Wooldridge | The AI 100|2026-11-18T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI|2026-11-18T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   }
