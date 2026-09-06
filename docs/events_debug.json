@@ -130,7 +130,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-05T00:00:00-07:00",
+    "start": "2026-10-06T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -150,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-05T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-06T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -290,7 +290,7 @@
   },
   {
     "title": ", set for release in October 2026.",
-    "start": "2026-11-05T00:00:00-08:00",
+    "start": "2026-11-06T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -311,7 +311,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-05T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-06T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
