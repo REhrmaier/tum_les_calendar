@@ -1,32 +1,5 @@
 [
   {
-    "title": "Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design",
-    "start": "2026-09-08T14:00:00-04:00",
-    "end": "2026-09-08T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design Abstract: Generative models can now propose candidate designs at high throughput, yet the physical world remains theultimate judge: a candidate becomes a solution only if it can be realized in the real world and satisfies the functionalrequirements of the design problem. Relying on downstream validation creates a fundamental trade-off betweenthroughput and physical realizability: Across science and engineering, generating a candidate may take seconds,while validating it through numerical simulation, fabrication, synthesis, or experiment can take hours to months andorders of magnitude more resources. Physical realizability is a scaling problem, not just a quality problem.This thesis treats physical requirements as first-class citizens of the generative system. Inspired by Marr's separationof levels of analysis, we organize generative computational design into a physical level, where artifacts arefabricated or synthesized and their behavior is measured; a computational level, where candidates are represented,simulated, and evaluated; and a generative level, where candidates are proposed. Because each level abstracts theone below, physical requirements can be weakened or lost at the interfaces between them. The central idea of thisthesis is to carry those requirements bottom-up through explicit interfaces, from the physical world through computation and into generation.We formulate computational design as constrained optimization and realize these interfaces through its three coreelements: representation, constraints, and objective evaluation. At the representation interface, procedural moleculargrammars, medial skeletons, and tetrahedral sphere primitives define candidate spaces that are valid byconstruction. At the constraint interface, differentiable projection modules enforce physical feasibility during generation, resolving steric clashes in molecules and bringing mechanical structures into static equilibrium. At the objectiveinterface, unified simulators evaluate design behavior with scientific fidelity at generative throughput, spanningphysical regimes from molecular dynamics to aerodynamics.Together, these contributions lay the foundation for universal precision design: general-purpose systems that tailorphysically realizable designs to the specific requirements of a problem, individual, or environment, at scale.Thesis Committee: Kaiming He, Bill Freeman, Wojciech Matusik (advisor). TBD September 9, 2026 [Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL 12:00 P - 1:30 P Location 32-G449 32-G449 (Kiva Seminar Room)",
-    "categories": [
-      "Physics"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+35:energy system",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design|2026-09-08T14:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Three Minutes of Science Contest & Workshop",
     "start": "2026-09-22T00:00:00+02:00",
     "end": null,
@@ -129,32 +102,6 @@
     "reject_reasons": []
   },
   {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-06T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-06T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications",
     "start": "2026-10-07T00:00:00-07:00",
     "end": null,
@@ -182,20 +129,20 @@
     "reject_reasons": []
   },
   {
-    "title": "Dertouzos Distinguished Lecture: Prof",
-    "start": "2026-10-13T16:00:00-04:00",
-    "end": "2026-10-13T17:00:00-04:00",
-    "timezone": "America/New_York",
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-07T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
     "speaker": null,
     "affiliation": null,
-    "location": null,
+    "location": "28",
     "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026 TBD October 27, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD",
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
     "categories": [
-      "General High Impact"
+      "AI"
     ],
     "score": 100,
     "score_reasons": [
@@ -203,7 +150,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "MIT CSAIL Events|Dertouzos Distinguished Lecture: Prof|2026-10-13T16:00:00-04:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-07T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -290,7 +237,7 @@
   },
   {
     "title": ", set for release in October 2026.",
-    "start": "2026-11-06T00:00:00-08:00",
+    "start": "2026-11-07T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -311,7 +258,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-06T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-07T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
