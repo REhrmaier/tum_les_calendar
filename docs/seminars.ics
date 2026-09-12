@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 18\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: AI Goes Mainstream: The Scaling Era and the Rise of Generative AI \, set for release in October 2026. November 18 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM
-DTEND:20261111T093000Z
-LOCATION:18
-DTSTART:20261111T080000Z
-SUMMARY:[AI] \, set for release in October 2026.
-UID:61a6d727fadf1bf899ef4e70@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:finance\; institution_signal:+20\nExcerpt: 2026 Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications Oct 07\, 2026 12:00 PM - 1:15 PM Finance\, Business Marlowe | AI + Data for Science with Olivier Gevaert Seminar Oct 07\, 2026
 DTEND:20261007T083000Z
 LOCATION:12:00 PM - 1:15 PM
@@ -48,6 +40,14 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20260923T070000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Stephen Baccus
 UID:2ff221f13ac7a0f82ae58383@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261012T083000Z
+LOCATION:28
+DTSTART:20261012T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:c807615c51ce02feb3433b62@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Confronting Our A
@@ -111,14 +111,6 @@ SUMMARY:[Quantum] Quantum Talents Symposium Munich 2026
 UID:c66429dab8eb4880bc9887d4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. AI100 | AI Goes Ma
-DTEND:20261111T093000Z
-LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
-DTSTART:20261111T080000Z
-SUMMARY:[AI] Marlowe | AI + Data for Science with Mohsen Bayati
-UID:4374626c2019a310d921324d@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktuelles/termine/\nEvent URL: https://www.mep.tum.de/mep/aktuelles/termine/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: TUM MEP\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.
@@ -127,12 +119,35 @@ SUMMARY:[General High Impact] Tag der offenen Tür und Maustag am 3. Oktober 202
 UID:bdbde163b9bfb414c590a3fe@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. AI100 | AI Goes Ma
+DTEND:20261111T093000Z
+LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
+DTSTART:20261111T080000Z
+SUMMARY:[AI] Marlowe | AI + Data for Science with Mohsen Bayati
+UID:4374626c2019a310d921324d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 18\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: AI Goes Mainstream: The Scaling Era and the Rise of Generative AI \, set for release in October 2026. November 18 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM
+DTEND:20261112T093000Z
+LOCATION:18
+DTSTART:20261112T080000Z
+SUMMARY:[AI] \, set for release in October 2026.
+UID:0b4b8a6fdbda38cccdb0c850@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23\, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Indust
 DTEND:20260923T083000Z
 LOCATION:12:00 PM - 1:15 PM
 DTSTART:20260923T070000Z
 SUMMARY:[AI] Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart
 UID:0ca399f86c784e0450f1d322@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Optiver Recruiting &amp\; High Frequency Trading Tech Talk When/Where: Thursday Sept 24th in CSAIL/STATA (32 Vassar St) in the Star Seminar Room (32-D463) starting at 12pm.RSVP: https://www.gem.com/form?formID=f064f781-b192-4870-82ab-7cd5729
+DTEND:20260924T173000Z
+DTSTART:20260924T160000Z
+SUMMARY:[Finance] Optiver Recruiting &amp\; High Frequency Trading Tech Talk When/Where
+UID:d924434a251cbad80c041579@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 9:00 AM - 4:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 World Development Report 2026: The Promise of Artificial Intelligence Sep 24\, 2026 9:00 AM - 4:15 PM International Affairs\, International Security\, International Development Daniel Zhang\, Caroline Meinhardt\, Jiajun Wu\, and Russell Wald
@@ -149,14 +164,6 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261104T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Ruijiang Li
 UID:83c59c47ee52f347f4862356@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261011T083000Z
-LOCATION:28
-DTSTART:20261011T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:06dec02e78ccf1d3ef0672d5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: Dertouzos Distinguished Lecture: Prof. Sir Michael Brady Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday\, October 13\, 2026 TBD October 27\, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL

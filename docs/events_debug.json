@@ -103,6 +103,37 @@
     "reject_reasons": []
   },
   {
+    "title": "Optiver Recruiting &amp; High Frequency Trading Tech Talk When/Where",
+    "start": "2026-09-24T12:00:00-04:00",
+    "end": "2026-09-24T13:30:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Optiver Recruiting &amp; High Frequency Trading Tech Talk When/Where: Thursday Sept 24th in CSAIL/STATA (32 Vassar St) in the Star Seminar Room (32-D463) starting at 12pm.RSVP: https://www.gem.com/form?formID=f064f781-b192-4870-82ab-7cd5729b5ebc&nbsp;Abstract: When an obvious trading signal enters the market, multiple participants attempt to trade on it, and reacting correctly becomes a competition for being faster. This talk will describe the research that allows Optiver to win this race. Join Optiver for a tech talk on automated high-frequency trading.Speaker Bio:Peter Gartland is a Quantitative Researcher at Optiver in Chicago, where his work focuses on data- and machine learning-driven algorithmic trading. Before joining Optiver, Peter earned his PhD in Computer Science from the University of California, Santa Barbara, where his research focused on algorithmic and structural graph theory. Peter’s academic research has been published at leading theoretical computer science conferences, including FOCS, STOC, and SODA. At Optiver, he applies his background in mathematics, algorithms, and research to solving complex problems in quantitative trading.Key Takeaways:1.&nbsp; What is high frequency trading and what does it mean to be fast?2.&nbsp; How does HFTs leverage speed to gain an edge in trading?&nbsp;3.&nbsp; How we mitigate risk in a high-frequency trading environment TBD What Can Hardware Do for Computer Security? Srini Devadas MIT Part Of Boston IEEE/ACM 2026 -2027 7:00 P - 8:00 P Location 32-G449 hybrid",
+    "categories": [
+      "Finance",
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "MIT CSAIL Events|Optiver Recruiting &amp; High Frequency Trading Tech Talk When/Where|2026-09-24T12:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Gordon Wetzstein",
     "start": "2026-09-30T00:00:00-07:00",
     "end": null,
@@ -234,7 +265,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-11T00:00:00-07:00",
+    "start": "2026-10-12T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -254,7 +285,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-11T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-12T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -494,7 +525,7 @@
   },
   {
     "title": ", set for release in October 2026.",
-    "start": "2026-11-11T00:00:00-08:00",
+    "start": "2026-11-12T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -515,7 +546,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-11T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-12T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
