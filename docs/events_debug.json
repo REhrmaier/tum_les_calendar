@@ -186,7 +186,7 @@
     "reject_reasons": []
   },
   {
-    "title": "Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein",
+    "title": "Mit der Maus auf Forschungsreise: Das MEP öffnet seine Türen für die ganze Familie",
     "start": "2026-10-03T00:00:00+02:00",
     "end": "2026-10-04T00:00:00+02:00",
     "timezone": "Europe/Berlin",
@@ -201,12 +201,13 @@
     "categories": [
       "General High Impact"
     ],
-    "score": 75,
+    "score": 95,
     "score_reasons": [
       "source_weight:60",
+      "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM MEP Termine|Tag der offenen Tür und Maustag am 3. Oktober 2026 - Das MEP lädt Sie herzlich ein|2026-10-03T00:00:00+02:00",
+    "uid_seed": "TUM MEP Termine|Mit der Maus auf Forschungsreise: Das MEP öffnet seine Türen für die ganze Familie|2026-10-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -264,32 +265,6 @@
     "reject_reasons": []
   },
   {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-13T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-13T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Dertouzos Distinguished Lecture: Prof",
     "start": "2026-10-13T16:00:00-04:00",
     "end": "2026-10-13T17:00:00-04:00",
@@ -342,6 +317,32 @@
     "reject_reasons": []
   },
   {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-14T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-14T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Anshul Kundaje",
     "start": "2026-10-21T00:00:00-07:00",
     "end": null,
@@ -378,7 +379,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
+    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Events | Collaborations Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
     "categories": [
       "Quantum"
     ],
@@ -525,7 +526,7 @@
   },
   {
     "title": ", set for release in October 2026.",
-    "start": "2026-11-13T00:00:00-08:00",
+    "start": "2026-11-14T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -546,7 +547,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-13T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-14T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
