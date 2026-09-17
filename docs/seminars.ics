@@ -10,6 +10,22 @@ SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life
 UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261017T083000Z
+LOCATION:28
+DTSTART:20261017T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:26ddd3f9fc728d89c98f3b8d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 18\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: AI Goes Mainstream: The Scaling Era and the Rise of Generative AI \, set for release in October 2026. November 18 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM
+DTEND:20261117T093000Z
+LOCATION:18
+DTSTART:20261117T080000Z
+SUMMARY:[AI] \, set for release in October 2026.
+UID:ebd7da848a9398bc2cc511cc@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktuelles/termine/\nEvent URL: https://www.mep.tum.de/mep/aktuelles/termine/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: TUM MEP\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.
@@ -48,14 +64,6 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261118T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261016T083000Z
-LOCATION:28
-DTSTART:20261016T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:54a45bf7fd23cd9b2f89e8b5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Confronting Our A
@@ -112,19 +120,11 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Leonidas Guibas
 UID:ef766469afc070658d8c7512@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights\, strengthen collaborations\, and support the mobility of early-career scientists. Read More 26 Oct
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 23 October 2026 Paris-Munich Quantum Workshop 2026 Events | Collaborations Workshop connecting QuanTiP and MCQST researchers to share insights\, strengthen collaborations\, and support the mobility of early-career scientists. Read More 26 Oct
 DTEND:20261022T233000Z
 DTSTART:20261022T220000Z
 SUMMARY:[Quantum] Paris-Munich Quantum Workshop 2026
 UID:396e6876fa9336656f00ff13@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 18\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: AI Goes Mainstream: The Scaling Era and the Rise of Generative AI \, set for release in October 2026. November 18 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM
-DTEND:20261116T093000Z
-LOCATION:18
-DTSTART:20261116T080000Z
-SUMMARY:[AI] \, set for release in October 2026.
-UID:7b9a99e05ab079a1b772f6dc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
@@ -187,12 +187,5 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20260930T070000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Gordon Wetzstein
 UID:afe9e5eedc659f3d4dabd39f@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Avrim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration Abstract:LLM reasoning is becoming a powerful tool for mathematics\, planning\, decision support\, and agents that act on your behalf in the world. Howeve
-DTEND:20260916T210000Z
-DTSTART:20260916T193000Z
-SUMMARY:[AI] Avrim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration
-UID:543c1d2a10948b4ce941182a@tum-les-calendar
 END:VEVENT
 END:VCALENDAR

@@ -1,34 +1,5 @@
 [
   {
-    "title": "Avrim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration",
-    "start": "2026-09-16T15:30:00-04:00",
-    "end": "2026-09-16T17:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Avrim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration Abstract:LLM reasoning is becoming a powerful tool for mathematics, planning, decision support, and agents that act on your behalf in the world. However, LLMs can make mistakes, perform unsafe actions, be overconfident, and in general are not always that reliable. In this work, we consider the problem of interactively training verifiers that could interface with these generators to make them more reliable, safer, and better aligned with their user’s preferences. We consider this problem from a learning-theoretic perspective, analyzing the types of guarantees achievable for learning capable verifiers for these tasks, and highlighting the different roles of “soundness” versus “completeness” forms of errors in our analysis.This work is joint with Maria-Florina Balcan, Korinna Fragkia, Zhiyuan Li, and Dravyansh Sharma.About the speaker:Avrim Blum is Professor, Chief Academic Officer, and Interim President at the Toyota Technological Institute at Chicago (TTIC). Before TTIC, he was a faculty member in the Computer Science Department at Carnegie Mellon University for 25 years. Blum’s main research interests are in Machine Learning Theory, Algorithmic Game Theory, Approximation Algorithms, and Societal Issues in Machine Learning. He has served as Program Chair for the Conference on Learning Theory (COLT), the IEEE Symposium on Foundations of Computer Science (FOCS), and the Innovations in Theoretical Computer Science Conference (ITCS). Blum is recipient of the AI Journal Classic Paper Award, the ICML/COLT 10-Year Best Paper Award, the ACM Paris Kanellakis Award, the Sloan Fellowship, the NSF National Young Investigator Award, and the Herbert Simon Teaching Award, and he is a Fellow of the ACM. TBD Scaling Human AI Collaboration for Long-form Open-ended Tasks Shannon Shen MIT Part Of Thesis Defense 3:30 P - 5:00 P Location 45-792",
-    "categories": [
-      "AI",
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Avrim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration|2026-09-16T15:30:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Three Minutes of Science Contest & Workshop",
     "start": "2026-09-22T00:00:00+02:00",
     "end": null,
@@ -347,7 +318,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-16T00:00:00-07:00",
+    "start": "2026-10-17T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -367,7 +338,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-16T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-17T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -408,7 +379,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
+    "description": "23 October 2026 Paris-Munich Quantum Workshop 2026 Events | Collaborations Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange.",
     "categories": [
       "Quantum"
     ],
@@ -555,7 +526,7 @@
   },
   {
     "title": ", set for release in October 2026.",
-    "start": "2026-11-16T00:00:00-08:00",
+    "start": "2026-11-17T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -576,7 +547,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-16T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|, set for release in October 2026.|2026-11-17T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
