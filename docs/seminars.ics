@@ -10,12 +10,28 @@ SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life
 UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 20\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 at Stanford ChEM-H Building October 20 2026 October Bay Area Tech Economics Seminar Oct 20\, 2026 6:30 PM - 8:30 PM
+DTEND:20261019T083000Z
+LOCATION:20
+DTSTART:20261019T070000Z
+SUMMARY:[Buildings] at Stanford ChEM-H Building
+UID:4d692f2e69992f916ff6453f@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Computer Vision\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Oct 02\, 2026 Computer Vision Data Science Anastasios Angelopoulos | Measuring AI in the Real World Seminar Oct 02\, 2026
 DTEND:20261002T083000Z
 LOCATION:Computer Vision
 DTSTART:20261002T070000Z
 SUMMARY:[AI] Empirical Methods in the Age of AI
 UID:d625c3d716a83624a768ed26@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 21\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 HAI faculty offer independent critique of the AI debates of the moment. September 21 2026 Rob Reich\, Diyi Yang\, Amy Zegart | Prompt Response: Should AI Slow Down? Sep 21\, 2026 10:00 AM - 11:15 AM
+DTEND:20270919T083000Z
+LOCATION:21
+DTSTART:20270919T070000Z
+SUMMARY:[AI] HAI faculty offer independent critique of the AI debates of the moment.
+UID:8f32e6cbcc072df946b09612@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
@@ -56,6 +72,14 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261118T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261019T083000Z
+LOCATION:28
+DTSTART:20261019T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:0993828d9ad0a072cce16407@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Confronting Our A
@@ -104,12 +128,12 @@ SUMMARY:[Finance] Optiver Recruiting &amp\; High-Frequency Trading Tech Talk Whe
 UID:eadcfed2494cc68668be4650@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 20\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 at Stanford ChEM-H Building October 20 2026 October Bay Area Tech Economics Seminar Oct 20\, 2026 6:30 PM - 8:30 PM
-DTEND:20261018T083000Z
-LOCATION:20
-DTSTART:20261018T070000Z
-SUMMARY:[Buildings] at Stanford ChEM-H Building
-UID:8aed5f058eb99090c2ebdb12@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 8:30 AM - 5:00 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 2026 SC2 Student Conference Nov 06\, 2026 8:30 AM - 5:00 PM Data Science Marlowe | AI + Data for Science with Mohsen Bayati Seminar Nov 11\, 2026
+DTEND:20261106T093000Z
+LOCATION:8:30 AM - 5:00 PM
+DTSTART:20261106T080000Z
+SUMMARY:[AI] 2026 SC2 Student Conference
+UID:c89863042ad90ce1ebe0dbc4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Leonidas Guibas Dec 02\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Angèle Christin
@@ -143,14 +167,6 @@ SUMMARY:[AI] Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Ins
 UID:0ca399f86c784e0450f1d322@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261018T083000Z
-LOCATION:28
-DTSTART:20261018T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:df5e04881a9a787c9717eccb@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 9:00 AM - 4:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 World Development Report 2026: The Promise of Artificial Intelligence Sep 24\, 2026 9:00 AM - 4:15 PM International Affairs\, International Security\, International Development Daniel Zhang\, Caroline Meinhardt\, Jiajun Wu\, and Russell Wald
 DTEND:20260924T083000Z
 LOCATION:9:00 AM - 4:15 PM
@@ -159,7 +175,7 @@ SUMMARY:[AI] World Development Report 2026: The Promise of Artificial Intelligen
 UID:60ebcd73721f7de6f101a23a@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Marlowe | AI + Data
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. 2026 SC2 Student Con
 DTEND:20261104T093000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTSTART:20261104T080000Z
@@ -173,6 +189,14 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261028T070000Z
 SUMMARY:[Buildings] Marlowe | AI + Data for Science with Dan Yamins
 UID:d696cd4e981346777fabfac7@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 10:00 AM - 11:15 AM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Rob Reich\, Diyi Yang\, Amy Zegart | Prompt Response: Should AI Slow Down? Sep 21\, 2026 10:00 AM - 11:15 AM HAI faculty offer independent critique of the AI debates of the moment. Workforce\, Labor Regulation\, Policy\, Governance Alexandr
+DTEND:20260921T083000Z
+LOCATION:10:00 AM - 11:15 AM
+DTSTART:20260921T070000Z
+SUMMARY:[AI] Rob Reich\, Diyi Yang\, Amy Zegart | Prompt Response: Should AI Slow Down?
+UID:b108cab4beb4481be47e59ae@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Gordon Wetzstein Sep 30\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Empirical Metho
