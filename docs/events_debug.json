@@ -1,30 +1,5 @@
 [
   {
-    "title": "Rob Reich, Diyi Yang, Amy Zegart | Prompt Response: Should AI Slow Down?",
-    "start": "2026-09-21T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "10:00 AM - 11:15 AM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Rob Reich, Diyi Yang, Amy Zegart | Prompt Response: Should AI Slow Down? Sep 21, 2026 10:00 AM - 11:15 AM HAI faculty offer independent critique of the AI debates of the moment. Workforce, Labor Regulation, Policy, Governance Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Rob Reich, Diyi Yang, Amy Zegart | Prompt Response: Should AI Slow Down?|2026-09-21T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Three Minutes of Science Contest & Workshop",
     "start": "2026-09-22T00:00:00+02:00",
     "end": null,
@@ -36,7 +11,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "22 September 2026 Three Minutes of Science Contest & Workshop Events | Workshops Ready to level up your science communication? Step into the spotlight at the Quantum Talents Symposium's 3-minute pitch contest. Read More 24 September 2026 Successful cooperation in diverse teams Diversity in Leadership | EDI",
+    "description": "22 September 2026 Three Minutes of Science Contest & Workshop Events | Workshops Ready to level up your science communication? Step into the spotlight at the Quantum Talents Symposium's 3-minute pitch contest. Read More 24 September 2026 Communication and feedback styles in intercultural context Diversity in Leadership | EDI",
     "categories": [
       "Quantum"
     ],
@@ -341,7 +316,7 @@
   },
   {
     "title": "at Stanford ChEM-H Building",
-    "start": "2026-10-20T00:00:00-07:00",
+    "start": "2026-10-21T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -363,33 +338,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|at Stanford ChEM-H Building|2026-10-20T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-20T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-20T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|at Stanford ChEM-H Building|2026-10-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -415,6 +364,32 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Anshul Kundaje|2026-10-21T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-21T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -653,7 +628,7 @@
   },
   {
     "title": "HAI faculty offer independent critique of the AI debates of the moment.",
-    "start": "2027-09-20T00:00:00-07:00",
+    "start": "2027-09-21T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -672,7 +647,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|HAI faculty offer independent critique of the AI debates of the moment.|2027-09-20T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|HAI faculty offer independent critique of the AI debates of the moment.|2027-09-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   }
