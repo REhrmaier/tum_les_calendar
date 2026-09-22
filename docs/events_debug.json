@@ -1,31 +1,5 @@
 [
   {
-    "title": "Three Minutes of Science Contest & Workshop",
-    "start": "2026-09-22T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "22 September 2026 Three Minutes of Science Contest & Workshop Events | Workshops Ready to level up your science communication? Step into the spotlight at the Quantum Talents Symposium's 3-minute pitch contest. Read More 24 September 2026 Communication and feedback styles in intercultural context Diversity in Leadership | EDI",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Three Minutes of Science Contest & Workshop|2026-09-22T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart",
     "start": "2026-09-23T00:00:00-07:00",
     "end": null,
@@ -62,7 +36,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Stephen Baccus Sep 23, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. World Development Report 2026: The Promise of Artificial Intelligence Sep 24, 2026 9:00 AM - 4:15 PM September",
+    "description": "2026 Marlowe | AI + Data for Science with Stephen Baccus Sep 23, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science World Development Report 2026: The Promise of Artificial Intelligence Sep 24, 2026 9:00 AM - 4:15 PM",
     "categories": [
       "AI"
     ],
@@ -145,14 +119,13 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Gordon Wetzstein Sep 30, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Empirical Methods in the Age of AI Conference Oct 02, 2026 October",
+    "description": "2026 Marlowe | AI + Data for Science with Gordon Wetzstein Sep 30, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Empirical Methods in the Age of AI Conference Oct 02, 2026",
     "categories": [
       "AI"
     ],
-    "score": 100,
+    "score": 75,
     "score_reasons": [
       "source_weight:55",
-      "high_impact:+50",
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Gordon Wetzstein|2026-09-30T00:00:00-07:00",
@@ -274,14 +247,13 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Marlowe | AI + Data for Science with Curtis Langlotz Seminar Oct 14, 2026 October",
+    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marlowe | AI + Data for Science with Curtis Langlotz Seminar Oct 14, 2026",
     "categories": [
       "AI"
     ],
-    "score": 100,
+    "score": 75,
     "score_reasons": [
       "source_weight:55",
-      "high_impact:+50",
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Olivier Gevaert|2026-10-07T00:00:00-07:00",
@@ -300,7 +272,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Bay Area Tech Economics Seminar with Rehan Khan Seminar Oct 20, 2026 6:30 PM - 8:30 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Bay Area Tech Economics Seminar with Rehan Khan Seminar Oct 20, 2026",
     "categories": [
       "Finance",
       "AI"
@@ -311,34 +283,6 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Curtis Langlotz|2026-10-14T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "at Stanford ChEM-H Building",
-    "start": "2026-10-21T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "20",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 at Stanford ChEM-H Building October 20 2026 October Bay Area Tech Economics Seminar Oct 20, 2026 6:30 PM - 8:30 PM",
-    "categories": [
-      "Buildings",
-      "Finance",
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|at Stanford ChEM-H Building|2026-10-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -354,7 +298,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026 9:00 AM - 6:45 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026",
     "categories": [
       "AI"
     ],
@@ -369,7 +313,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-21T00:00:00-07:00",
+    "start": "2026-10-22T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -389,7 +333,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-21T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-22T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -458,7 +402,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Marcos Santiago Rojas Pino & Thomas Caruso | Building an International AI Platform for Health Professions Education and the Learning Sciences Seminar Nov 04, 2026 12:00 PM - 1:15 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marcos Santiago Rojas Pino & Thomas Caruso | Building an International AI Platform for Health Professions Education and the Learning Sciences Seminar Nov 04, 2026",
     "categories": [
       "Buildings",
       "AI"
@@ -484,7 +428,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. 2026 SC2 Student Conference Conference Nov 06, 2026 8:30 AM - 5:00 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science 2026 SC2 Student Conference Conference Nov 06, 2026",
     "categories": [
       "AI"
     ],
@@ -534,7 +478,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Seminar Nov 18, 2026 12:00 PM - 1:15 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Seminar Nov 18, 2026",
     "categories": [
       "AI"
     ],
@@ -588,7 +532,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Andreas Tolias Nov 18, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Marlowe | AI + Data for Science with Leonidas Guibas Seminar Dec 02, 2026 December",
+    "description": "2026 Marlowe | AI + Data for Science with Andreas Tolias Nov 18, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marlowe | AI + Data for Science with Leonidas Guibas Seminar Dec 02, 2026",
     "categories": [
       "AI"
     ],
@@ -613,7 +557,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Leonidas Guibas Dec 02, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Angèle Christin & Hannah Zeavin | Gurus, Hucksters, Entertainers: How Influencers Reshaped Social Media Seminar Dec 09, 2026 12:00 PM - 1:15 PM",
+    "description": "2026 Marlowe | AI + Data for Science with Leonidas Guibas Dec 02, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Angèle Christin & Hannah Zeavin | Gurus, Hucksters, Entertainers: How Influencers Reshaped Social Media Seminar Dec 09, 2026",
     "categories": [
       "AI"
     ],
@@ -623,31 +567,6 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Leonidas Guibas|2026-12-02T00:00:00-08:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "HAI faculty offer independent critique of the AI debates of the moment.",
-    "start": "2027-09-21T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "21",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 HAI faculty offer independent critique of the AI debates of the moment. September 21 2026 Rob Reich, Diyi Yang, Amy Zegart | Prompt Response: Should AI Slow Down? Sep 21, 2026 10:00 AM - 11:15 AM",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|HAI faculty offer independent critique of the AI debates of the moment.|2027-09-21T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   }
