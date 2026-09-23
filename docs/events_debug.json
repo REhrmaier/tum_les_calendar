@@ -1,56 +1,5 @@
 [
   {
-    "title": "Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart",
-    "start": "2026-09-23T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart Sep 23, 2026 12:00 PM - 1:15 PM This seminar pairs a case study of AI diffusion with an organizational approach to technological changes in the workplace. Industry, Innovation Marlowe | AI + Data for Science with Stephen Baccus Seminar",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Alexandr Lenk & Arvind Karunakaran | Industry Conversation with Instacart|2026-09-23T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Marlowe | AI + Data for Science with Stephen Baccus",
-    "start": "2026-09-23T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Stephen Baccus Sep 23, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science World Development Report 2026: The Promise of Artificial Intelligence Sep 24, 2026 9:00 AM - 4:15 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Stephen Baccus|2026-09-23T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "World Development Report 2026: The Promise of Artificial Intelligence",
     "start": "2026-09-24T00:00:00-07:00",
     "end": null,
@@ -62,7 +11,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 World Development Report 2026: The Promise of Artificial Intelligence Sep 24, 2026 9:00 AM - 4:15 PM International Affairs, International Security, International Development Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald | The World Model and Spatial Intelligence Era: Governing AI Beyond Language Seminar Sep 30, 2026 Also seen in: Stanford HAI Events Main",
+    "description": "Data Science World Development Report 2026: The Promise of Artificial Intelligence Sep 24, 2026 9:00 AM - 4:15 PM September 24 2026 September",
     "categories": [
       "AI"
     ],
@@ -242,13 +191,14 @@
     "timezone": "America/Los_Angeles",
     "speaker": null,
     "affiliation": null,
-    "location": "Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers.",
+    "location": "For 9/23 and 10/7 only, sessions are at the",
     "online_url": null,
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marlowe | AI + Data for Science with Curtis Langlotz Seminar Oct 14, 2026",
+    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 For 9/23 and 10/7 only, sessions are at the David Packard Electrical Engineering Building, Room 101 . Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marlowe | AI + Data for Science with Curtis Langlotz",
     "categories": [
+      "Buildings",
       "AI"
     ],
     "score": 75,
@@ -313,7 +263,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-22T00:00:00-07:00",
+    "start": "2026-10-23T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -333,7 +283,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-22T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-23T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
