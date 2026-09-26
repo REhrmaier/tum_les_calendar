@@ -139,15 +139,14 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Location: Zoom TBD TBA Larry Guth Mathematics Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-141 Refreshments at 4:00 PM",
+    "description": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Location: Register for Zoom TBD HCI Seminar - J.D. Zamfirescu-Pereira - Understanding and Overcoming Alignment Challenges in Designing with Generative AI J.D. Zamfirescu-Pereira UCLA Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
     "categories": [
       "Buildings",
-      "Math"
+      "AI"
     ],
-    "score": 100,
+    "score": 95,
     "score_reasons": [
       "source_weight:55",
-      "topic_bonus:+30:quantum",
       "institution_signal:+20",
       "online_bonus:+20"
     ],
@@ -288,7 +287,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-25T00:00:00-07:00",
+    "start": "2026-10-26T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -308,7 +307,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-25T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-26T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -547,7 +546,7 @@
   },
   {
     "title": "Law Enforcement and Justice",
-    "start": "2027-01-25T00:00:00-08:00",
+    "start": "2027-01-26T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -557,7 +556,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "Privacy, Safety, Security Law Enforcement and Justice 1 2 3 4 ... Upcoming Events | Stanford HAI",
+    "description": "Privacy, Safety, Security Law Enforcement and Justice 1 2 3 4 ...",
     "categories": [
       "AI"
     ],
@@ -566,7 +565,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-25T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-26T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   }

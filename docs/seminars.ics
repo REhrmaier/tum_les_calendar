@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20261026T083000Z
+LOCATION:28
+DTSTART:20261026T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:d1d844e46fdbd5621665dca1@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:finance\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications Oct 07\, 2026 12:00 PM - 1:15 PM Finance\, Business NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler Oct 07\, 2026 October
 DTEND:20261007T083000Z
 LOCATION:12:00 PM - 1:15 PM
@@ -50,7 +58,7 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:quantum\; institution_signal:+20\; online_bonus:+20\nExcerpt: CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technic
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technic
 DTEND:20261006T170000Z
 DTSTART:20261006T160000Z
 SUMMARY:[Buildings] CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software Development
@@ -63,14 +71,6 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261021T070000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Anshul Kundaje
 UID:a3d7cf4bf4122e1488526794@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: Privacy\, Safety\, Security Law Enforcement and Justice 1 2 3 4 ... Upcoming Events | Stanford HAI
-DTEND:20270125T093000Z
-LOCATION:2
-DTSTART:20270125T080000Z
-SUMMARY:[AI] Law Enforcement and Justice
-UID:ecee9918750b2daf15d84bc0@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 1:00 PM - 2:15 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Anastasios Angelopoulos | Measuring AI in the Real World Oct 02\, 2026 1:00 PM - 2:15 PM This seminar co-hosted with the AI Measurement Science Center (AIMS) invites speakers to discuss academic work in AI evaluation and measurement sci
@@ -128,14 +128,6 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Mohsen Bayati
 UID:4374626c2019a310d921324d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261025T083000Z
-LOCATION:28
-DTSTART:20261025T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:be81c1dd84f0fb9914ae6e23@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science 2026 SC
 DTEND:20261104T093000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
@@ -173,5 +165,13 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20260930T070000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Gordon Wetzstein
 UID:afe9e5eedc659f3d4dabd39f@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: Privacy\, Safety\, Security Law Enforcement and Justice 1 2 3 4 ...
+DTEND:20270126T093000Z
+LOCATION:2
+DTSTART:20270126T080000Z
+SUMMARY:[AI] Law Enforcement and Justice
+UID:dffd0cf3289b7daffb459e20@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
