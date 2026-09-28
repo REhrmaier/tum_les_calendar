@@ -128,6 +128,31 @@
     "reject_reasons": []
   },
   {
+    "title": "Take the Load Off: Effort and Technology as Determinants of Electricity Demand Response",
+    "start": "2026-10-05T11:30:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "David Brown",
+    "affiliation": "University of Alberta",
+    "location": "ifo Institute, Ludwig Erhard Saal",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: David Brown. Affiliation: University of Alberta. ifo Institute, Ludwig Erhard Saal",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Take the Load Off: Effort and Technology as Determinants of Electricity Demand Response|2026-10-05T11:30:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software Development",
     "start": "2026-10-06T12:00:00-04:00",
     "end": "2026-10-06T13:00:00-04:00",
@@ -314,7 +339,7 @@
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-27T00:00:00-07:00",
+    "start": "2026-10-28T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -334,7 +359,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-27T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-28T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -546,7 +571,7 @@
   },
   {
     "title": "Law Enforcement and Justice",
-    "start": "2027-01-27T00:00:00-08:00",
+    "start": "2027-01-28T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -565,7 +590,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-27T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-28T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   }
