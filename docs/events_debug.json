@@ -25,6 +25,35 @@
     "reject_reasons": []
   },
   {
+    "title": "[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;",
+    "start": "2026-10-01T15:00:00-04:00",
+    "end": "2026-10-01T16:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": "https://www.csail.mit.edu/events",
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;Speaker: Alok Puranik &nbsp;Topic: Sequence Weighting at Scale.&nbsp;Date: Thursday, Oct 1Time: 3 PM (EST) &nbsp;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale) &nbsp;&nbsp;&nbsp;Abstract: &nbsp;One of the most important questions when training large language models is what data to use. This motivates the study of data mixing: how to allocate a model’s capacity and compute across different data sources. These decisions can be surprisingly thorny because the best training data for a small model may not be the best training data for a large one. Since training large models is often prohibitively expensive, most choices about which data to train on (and it what proportions) must be decided by smaller-scale experiments. Typically, scaling laws help guide such decisions by predicting how model performance will scale with with size and compute; however, extrapolation only works when performance stays stable or changes predictably. In this talk, we’ll examine experiments from our own work and frontier labs, where data mix-related questions break these assumptions, discuss why small-scale results can be misleading, and explore ways to make better decisions about training data.&nbsp;Bio: &nbsp;Alok is a machine learning researcher at Jane Street, where he currently works on scaling laws for sequence models used in trading. Previously he studied math and computer science at MIT.&nbsp;About Scale ML: &nbsp;Scale ML is a cross-lab graduate student collective focusing on Algorithms That Learn and Scale. It is funded by generous donations from Pulkit Agrawal, Yoon Kim and BVP. &nbsp; TBD October 6, 2026 CSAIL Forum Daniel Jackson CSAIL MIT Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;|2026-10-01T15:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Empirical Methods in the Age of AI",
     "start": "2026-10-02T00:00:00-07:00",
     "end": null,
@@ -338,32 +367,6 @@
     "reject_reasons": []
   },
   {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-28T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-28T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
     "start": "2026-10-28T00:00:00-07:00",
     "end": null,
@@ -412,6 +415,32 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Dan Yamins|2026-10-28T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
+    "start": "2026-10-29T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "28",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-29T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -571,7 +600,7 @@
   },
   {
     "title": "Law Enforcement and Justice",
-    "start": "2027-01-28T00:00:00-08:00",
+    "start": "2027-01-29T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -590,7 +619,7 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-28T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-29T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   }
