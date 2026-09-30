@@ -1,30 +1,5 @@
 [
   {
-    "title": "Marlowe | AI + Data for Science with Gordon Wetzstein",
-    "start": "2026-09-30T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Gordon Wetzstein Sep 30, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Empirical Methods in the Age of AI Conference Oct 02, 2026",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Gordon Wetzstein|2026-09-30T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;",
     "start": "2026-10-01T15:00:00-04:00",
     "end": "2026-10-01T16:00:00-04:00",
@@ -36,7 +11,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;Speaker: Alok Puranik &nbsp;Topic: Sequence Weighting at Scale.&nbsp;Date: Thursday, Oct 1Time: 3 PM (EST) &nbsp;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale) &nbsp;&nbsp;&nbsp;Abstract: &nbsp;One of the most important questions when training large language models is what data to use. This motivates the study of data mixing: how to allocate a model’s capacity and compute across different data sources. These decisions can be surprisingly thorny because the best training data for a small model may not be the best training data for a large one. Since training large models is often prohibitively expensive, most choices about which data to train on (and it what proportions) must be decided by smaller-scale experiments. Typically, scaling laws help guide such decisions by predicting how model performance will scale with with size and compute; however, extrapolation only works when performance stays stable or changes predictably. In this talk, we’ll examine experiments from our own work and frontier labs, where data mix-related questions break these assumptions, discuss why small-scale results can be misleading, and explore ways to make better decisions about training data.&nbsp;Bio: &nbsp;Alok is a machine learning researcher at Jane Street, where he currently works on scaling laws for sequence models used in trading. Previously he studied math and computer science at MIT.&nbsp;About Scale ML: &nbsp;Scale ML is a cross-lab graduate student collective focusing on Algorithms That Learn and Scale. It is funded by generous donations from Pulkit Agrawal, Yoon Kim and BVP. &nbsp; TBD October 6, 2026 CSAIL Forum Daniel Jackson CSAIL MIT Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD",
+    "description": "[Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp;&nbsp;Speaker: Alok Puranik &nbsp;Topic: Sequence Weighting at Scale.&nbsp;Date: Thursday, Oct 1Time: 3 PM (EST) &nbsp;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale) &nbsp;&nbsp;&nbsp;Abstract: &nbsp;One of the most important questions when training large language models is what data to use. This motivates the study of data mixing: how to allocate a model’s capacity and compute across different data sources. These decisions can be surprisingly thorny because the best training data for a small model may not be the best training data for a large one. Since training large models is often prohibitively expensive, most choices about which data to train on (and it what proportions) must be decided by smaller-scale experiments. Typically, scaling laws help guide such decisions by predicting how model performance will scale with with size and compute; however, extrapolation only works when performance stays stable or changes predictably. In this talk, we’ll examine experiments from our own work and frontier labs, where data mix-related questions break these assumptions, discuss why small-scale results can be misleading, and explore ways to make better decisions about training data.&nbsp;Bio: &nbsp;Alok is a machine learning researcher at Jane Street, where he currently works on scaling laws for sequence models used in trading. Previously he studied math and computer science at MIT.&nbsp;About Scale ML: &nbsp;Scale ML is a cross-lab graduate student collective focusing on Algorithms That Learn and Scale. It is funded by generous donations from Pulkit Agrawal, Yoon Kim and BVP. &nbsp; TBD October 6, 2026 CSAIL FORUM with Daniel Jackson Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD Zoom",
     "categories": [
       "AI"
     ],
@@ -141,7 +116,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 3 October 2026 Quantentechnologien spielerisch lernen: Qookies geht live! Public Events | Events Es istsoweit: Wi feiern den Launch von Qookies â unserem neuen Lernspiel voller kniffliger RÃ¤tsel rund um Quantentechnologien! Sei dabei!",
+    "description": "3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 3 October 2026 Quantentechnologien spielerisch lernen: Qookies geht live! Events | Public Events Es istsoweit: Wi feiern den Launch von Qookies â unserem neuen Lernspiel voller kniffliger RÃ¤tsel rund um Quantentechnologien! Sei dabei!",
     "categories": [
       "Quantum"
     ],
@@ -274,7 +249,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 For 9/23 and 10/7 only, sessions are at the David Packard Electrical Engineering Building, Room 101 . Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Marlowe | AI + Data for Science with Curtis Langlotz",
+    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 For 9/23 and 10/7 only, sessions are at the David Packard Electrical Engineering Building, Room 101 . Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
     "categories": [
       "Buildings",
       "AI"
@@ -285,6 +260,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Olivier Gevaert|2026-10-07T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
+    "start": "2026-10-12T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work Oct 12, 2026 12:00 PM - 1:00 PM AI is advancing rapidly at the cognitive tasks that make up knowledge work, raising fears among firms, policymakers, and, not least, workers of a “China shock” for white-collar jobs. Neil Thompson will present new research on whether those fears are warranted. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "Finance",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work|2026-10-12T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -315,6 +317,34 @@
     "reject_reasons": []
   },
   {
+    "title": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks",
+    "start": "2026-10-16T14:00:00-04:00",
+    "end": "2026-10-16T15:00:00-04:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for image models, jailbreaks and prompt injections for large language models (LLMs), and undesired backdoor behaviors purposefully inserted into the weights of models.&nbsp; &nbsp; &nbsp;Our exploration of latent failure modes is based on a series of 5 case studies spanning the domains of game-playing, language modeling, and vision. Through these case studies we develop a number of important insights about latent failure modes, including that (a) even very capable AI systems can harbor serious naturally-ocurring latent failure modes; (b) across multiple domains, a promising strategy for finding latent failure modes is to train other AI systems to help find them; (c) a lack of high-quality, easy-to-use benchmarks is holding back progress in discovering and defending against latent failure modes in LLMs; and (d) the version of adversarial robustness most relevant to real-world systems (and the general problem of latent failure modes) is unrestricted adversarial robustness, which, despite receiving relatively little attention, may be more tractable than previously thought.&nbsp; &nbsp; &nbsp; Taken together, our case studies advance the following conclusion: Although latent failure modes are a pervasive feature of modern AI systems that have resisted a decade of research into removing them, several neglected approaches to discovering and removing them could, with greater investment, substantially improve our ability to build reliable AI systems.&nbsp; TBD October 27, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks|2026-10-16T14:00:00-04:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Anshul Kundaje",
     "start": "2026-10-21T00:00:00-07:00",
     "end": null,
@@ -326,7 +356,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Confronting Our AI Future: Hope, Fear, and the Choices Ahead Conference Oct 28, 2026",
+    "description": "2026 Marlowe | AI + Data for Science with Anshul Kundaje Oct 21, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science Oct 26, 2026 12:00 PM - 1:00 PM",
     "categories": [
       "AI"
     ],
@@ -336,6 +366,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Anshul Kundaje|2026-10-21T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science",
+    "start": "2026-10-26T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science Oct 26, 2026 12:00 PM - 1:00 PM Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models across disciplines, and a survey of over 600 scientists. Machine Learning Economy, Markets Industry, Innovation Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "Finance",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science|2026-10-26T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -363,6 +420,31 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|Quantum Talents Symposium Munich 2026|2026-10-27T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Playing with fire: Carbon prices and the waste management trade-off",
+    "start": "2026-10-27T11:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Eline Schoonjans",
+    "affiliation": "ZEW Mannheim",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Eline Schoonjans. Affiliation: ZEW Mannheim. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Playing with fire: Carbon prices and the waste management trade-off|2026-10-27T11:30:00+01:00",
     "include": true,
     "reject_reasons": []
   },
@@ -419,8 +501,34 @@
     "reject_reasons": []
   },
   {
+    "title": "Scientific progress is a key driver of economic growth and prosperity",
+    "start": "2026-10-30T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "26",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models across disciplines, and a survey of over 600 scientists. October 26 2026 Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science Oct 26, 2026 12:00 PM - 1:00 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2026-10-30T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2026-10-29T00:00:00-07:00",
+    "start": "2026-10-30T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -440,7 +548,7 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-29T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2026-10-30T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -600,7 +708,7 @@
   },
   {
     "title": "Law Enforcement and Justice",
-    "start": "2027-01-29T00:00:00-08:00",
+    "start": "2027-01-30T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -619,7 +727,59 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-29T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|Law Enforcement and Justice|2027-01-30T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "ZEW Mannheim",
+    "start": "2544-09-30T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "October 27, 2026, 11:30",
+    "affiliation": "Eline Schoonjans",
+    "location": "Playing with fire: Carbon prices and the waste management trade-off",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: October 27, 2026, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-09-30T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "ETH Zurich",
+    "start": "2544-09-30T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "January 19, 2027, 11:30",
+    "affiliation": "Luis Sarmiento",
+    "location": "TBA",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: January 19, 2027, 11:30. Affiliation: Luis Sarmiento. TBA",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 95,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-09-30T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
