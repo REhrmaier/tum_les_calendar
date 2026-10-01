@@ -2,7 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: [Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp\;&nbsp\;Speaker: Alok Puranik &nbsp\;Topic: Sequence Weighting at Scale.&nbsp\;Date: Thursday\, Oct 1Time: 3 PM (EST) &nbsp\;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale)
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
+DTEND:25440930T233000Z
+LOCATION:TBA
+DTSTART:25440930T220000Z
+SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
+UID:0b2e28c144c456b64294151b@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25440930T233000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25440930T220000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:190c2168471c9ec637f7a5c6@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\; penalty:-25:exam\nExcerpt: [Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp\;&nbsp\;Speaker: Alok Puranik &nbsp\;Topic: Sequence Weighting at Scale.&nbsp\;Date: Thursday\, Oct 1Time: 3 PM (EST) &nbsp\;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale)
 DTEND:20261001T200000Z
 DTSTART:20261001T190000Z
 SUMMARY:[AI] [Scale ML] Alok Puranik: Sequence Weighting at Scale &nbsp\;&nbsp\;
@@ -17,20 +33,20 @@ SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life
 UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 26\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science\, but so far little data. We provide early insights on this from three data sources:
+DTEND:20271001T083000Z
+LOCATION:26
+DTSTART:20271001T070000Z
+SUMMARY:[AI] Scientific progress is a key driver of economic growth and prosperity
+UID:3bfc38095ab06ff98495bce6@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Computer Vision\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Empirical Methods in the Age of AI Oct 02\, 2026 Computer Vision Data Science Anastasios Angelopoulos | Measuring AI in the Real World Seminar Oct 02\, 2026
 DTEND:20261002T083000Z
 LOCATION:Computer Vision
 DTSTART:20261002T070000Z
 SUMMARY:[AI] Empirical Methods in the Age of AI
 UID:d625c3d716a83624a768ed26@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 2\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: Privacy\, Safety\, Security Law Enforcement and Justice 1 2 3 4 ...
-DTEND:20270130T093000Z
-LOCATION:2
-DTSTART:20270130T080000Z
-SUMMARY:[AI] Law Enforcement and Justice
-UID:08c611abd067b91429e22dc5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
@@ -66,11 +82,11 @@ UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20261030T083000Z
+DTEND:20271001T083000Z
 LOCATION:28
-DTSTART:20261030T070000Z
+DTSTART:20271001T070000Z
 SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:59464822aa2e7d2c132d680d@tum-les-calendar
+UID:61dbeb1b93dd802265950f5f@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technic
@@ -174,14 +190,6 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Mohsen Bayati
 UID:4374626c2019a310d921324d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 26\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science\, but so far little data. We provide early insights on this from three data sources:
-DTEND:20261030T083000Z
-LOCATION:26
-DTSTART:20261030T070000Z
-SUMMARY:[AI] Scientific progress is a key driver of economic growth and prosperity
-UID:4c024cf3797b3df143865704@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science 2026 SC
 DTEND:20261104T093000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
@@ -206,34 +214,11 @@ SUMMARY:[AI] NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler
 UID:b39b0cf6fe4f20e4e9886af4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 3 Octob
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
-UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science Marcos S
 DTEND:20261028T083000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTSTART:20261028T070000Z
 SUMMARY:[Buildings] Marlowe | AI + Data for Science with Dan Yamins
 UID:d696cd4e981346777fabfac7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
-DTEND:25440929T233000Z
-LOCATION:TBA
-DTSTART:25440929T220000Z
-SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
-UID:ed37c70a7ab4e31f8674d324@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25440929T233000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25440929T220000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:36e32d9614bf8585c69575ae@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
