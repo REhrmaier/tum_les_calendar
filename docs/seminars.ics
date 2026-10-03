@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 14\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Sponsored by Stanford HAI December 14 2026 YoungJu Jo | Data-driven discovery and control of neural computations Dec 14\, 2026 4:00 PM - 5:30 PM
-DTEND:20261202T093000Z
-LOCATION:14
-DTSTART:20261202T080000Z
-SUMMARY:[AI] Sponsored by Stanford HAI
-UID:7261b4643cfc04abfb083533@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:finance\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications Oct 07\, 2026 12:00 PM - 1:15 PM Finance\, Business NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler Oct 07\, 2026 October
 DTEND:20261007T083000Z
 LOCATION:12:00 PM - 1:15 PM
@@ -18,7 +10,7 @@ SUMMARY:[Finance] Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life
 UID:70ab3ddb9eb1677d244dd937@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven discovery and control of neural computations Dec 14\, 2026 4:00 PM - 5:30 PM Sponsored by Stanford HAI Featured Videos Hear from speakers and attendees at recent Stanford HAI events across research\, policy\, and
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven discovery and control of neural computations Dec 14\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Featured Videos Hear from speakers and attendees at recent Stanford HAI events across
 DTEND:20261214T093000Z
 LOCATION:4:00 PM - 5:30 PM
 DTSTART:20261214T080000Z
@@ -26,12 +18,12 @@ SUMMARY:[AI] YoungJu Jo | Data-driven discovery and control of neural computatio
 UID:97bfc9107212777b3eccbe86@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktuelles/termine/\nEvent URL: https://www.mep.tum.de/mep/aktuelles/termine/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: TUM MEP\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.
-LOCATION:TUM MEP
-SUMMARY:[General High Impact] Mit der Maus auf Forschungsreise: Das MEP öffnet seine Türen für die ganze Familie
-UID:69adeaff4aa36bd931ea74aa@tum-les-calendar
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
+DTEND:25441002T233000Z
+LOCATION:TBA
+DTSTART:25441002T220000Z
+SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
+UID:b7e3c9e59025ea1bfa6daff1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science Nic
@@ -56,14 +48,6 @@ LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session 
 DTSTART:20261118T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 26\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science\, but so far little data. We provide early insights on this from three data sources:
-DTEND:20271002T083000Z
-LOCATION:26
-DTSTART:20271002T070000Z
-SUMMARY:[AI] Scientific progress is a key driver of economic growth and prosperity
-UID:d15d17aa1c64e6de4048fd77@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technic
@@ -96,7 +80,7 @@ SUMMARY:[General High Impact] Take the Load Off: Effort and Technology as Determ
 UID:a16b6150c46ad810ccfef6ec@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning Oct 05\, 2026 4:00 PM - 5:30 PM Sponsored by Stanford HAI Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implications Seminar Oct 07\, 202
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning Oct 05\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Tim de Silva | AI Financial Advice: Supply\, Demand\, and Life Cycle Implicatio
 DTEND:20261005T083000Z
 LOCATION:4:00 PM - 5:30 PM
 DTSTART:20261005T070000Z
@@ -119,7 +103,7 @@ SUMMARY:[Buildings] Marlowe | AI + Data for Science with Olivier Gevaert
 UID:a2f203dc46409ecda290c918@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:00 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Oct 19\, 2026 4:00 PM - 5:00 PM Sponsored by Stanford HAI Bay Area Tech Economics Seminar with Rehan Khan Seminar Oct 20\, 2026
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:00 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Oct 19\, 2026 4:00 PM - 5:00 PM A Center for Neural Data Science Seminar Series Bay Area Tech Economics Seminar with Rehan Khan Seminar Oct 20\, 2026
 DTEND:20261019T083000Z
 LOCATION:4:00 PM - 5:00 PM
 DTSTART:20261019T070000Z
@@ -159,27 +143,35 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Leonidas Guibas
 UID:ef766469afc070658d8c7512@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 3 October 2026 Quantentechnologien spielerisch lernen: Qookies geht live! Public Events | Events Es istsoweit: Wi feiern den Launch von Qookies â unserem neuen Lernspiel voller kniffliger RÃ¤tsel rund um Quantentechnologien! Sei dabei! Re
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Quantentechnologien spielerisch lernen: Qookies geht live!
-UID:2e80d702c7d7592545acb893@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441001T233000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441001T220000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:f5f4a0631278573448c197de@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science Oct 26\, 2026 12:00 PM - 1:00 PM Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the imp
 DTEND:20261026T083000Z
 LOCATION:12:00 PM - 1:00 PM
 DTSTART:20261026T070000Z
 SUMMARY:[Finance] Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science
 UID:d703a85ce0b0edebc8fa515e@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 9 December 2026 Workshop: "Scientific writing in the age of AI" Workshops In an age of AI\, Justin Mullins and Mark Buchanan teach the skills to produce scientific papers of the highest quality suitable for the worldâs top journals. Read M
+DTEND:20261209T003000Z
+DTSTART:20261208T230000Z
+SUMMARY:[Quantum] Workshop: "Scientific writing in the age of AI"
+UID:cb4b8ad2989f2b673d56aba9@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 26\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science\, but so far little data. We provide early insights on this from three data sources:
+DTEND:20271003T083000Z
+LOCATION:26
+DTSTART:20271003T070000Z
+SUMMARY:[AI] Scientific progress is a key driver of economic growth and prosperity
+UID:bcd1ef9b20837602064ee0b3@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441002T233000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441002T220000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:36413b08d71442618b6fdae5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\nExcerpt: 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Rea
@@ -189,28 +181,20 @@ SUMMARY:[Quantum] Quantum Talents Symposium Munich 2026
 UID:c66429dab8eb4880bc9887d4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 05\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Sponsored by Stanford HAI October 05 2026 Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning Oct 05\, 2026 4:00 PM - 5:30 PM
-DTEND:20271002T083000Z
-LOCATION:05
-DTSTART:20271002T070000Z
-SUMMARY:[AI] Sponsored by Stanford HAI
-UID:597eb0844ab4098267b66b9c@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Sponsored by Stanford HAI November 09 2026 CNDS Seminar - Daniel Wurgaft Nov 09\, 2026 4:00 PM - 5:30 PM
-DTEND:20261102T093000Z
-LOCATION:09
-DTSTART:20261102T080000Z
-SUMMARY:[AI] Sponsored by Stanford HAI
-UID:27e198556d60f43e18f6c630@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science AI100
 DTEND:20261111T093000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTSTART:20261111T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Mohsen Bayati
 UID:4374626c2019a310d921324d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
+DTEND:20271003T083000Z
+LOCATION:28
+DTSTART:20271003T070000Z
+SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
+UID:980ac13fdaf5e49dbbb7c777@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science 2026 SC
@@ -244,34 +228,11 @@ SUMMARY:[AI] NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler
 UID:b39b0cf6fe4f20e4e9886af4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\nExcerpt: 3 October 2026 Tag der Offenen TÃ¼r Garching 2026 Public Events Kommt vorbei und besucht uns an unserem gemeinsamen Stand mit den anderen MÃ¼nchner Exzellenzclustern! Ob groÃ oder klein â hier ist fÃ¼r alle etwas dabei. Read More 3 Octob
-DTEND:20261002T233000Z
-DTSTART:20261002T220000Z
-SUMMARY:[Quantum] Tag der Offenen TÃ¼r Garching 2026
-UID:b19a98bbf05817c11ddc05a6@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science Marcos S
 DTEND:20261028T083000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTSTART:20261028T070000Z
 SUMMARY:[Buildings] Marlowe | AI + Data for Science with Dan Yamins
 UID:d696cd4e981346777fabfac7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
-DTEND:25441001T233000Z
-LOCATION:TBA
-DTSTART:25441001T220000Z
-SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
-UID:dd441a950d959272f35ea90b@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20271002T083000Z
-LOCATION:28
-DTSTART:20271002T070000Z
-SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:dbfa9417b82dc170849fddd8@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
