@@ -1,56 +1,5 @@
 [
   {
-    "title": "Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning",
-    "start": "2026-10-05T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "4:00 PM - 5:30 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning Oct 05, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications Seminar Oct 07, 2026",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Andrew Shen | Unlocking LLM Creativity in Science through Analogical Reasoning|2026-10-05T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Take the Load Off: Effort and Technology as Determinants of Electricity Demand Response",
-    "start": "2026-10-05T11:30:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": "David Brown",
-    "affiliation": "University of Alberta",
-    "location": "ifo Institute, Ludwig Erhard Saal",
-    "online_url": null,
-    "source_name": "TUM SEEM",
-    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "description": "Speaker: David Brown. Affiliation: University of Alberta. ifo Institute, Ludwig Erhard Saal",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:60",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM SEEM|Take the Load Off: Effort and Technology as Determinants of Electricity Demand Response|2026-10-05T11:30:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software Development",
     "start": "2026-10-06T12:00:00-04:00",
     "end": "2026-10-06T13:00:00-04:00",
@@ -338,6 +287,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Anshul Kundaje|2026-10-21T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond",
+    "start": "2026-10-21T13:00:00+02:00",
+    "end": "2026-10-21T14:00:00+02:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "TUM-IAS Fellow Dr. Jieshan Chen",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Dr. Jieshan Chen on “When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|21.10.2026|When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond|TUM-IAS Fellow Dr. Jieshan Chen",
     "include": true,
     "reject_reasons": []
   },
@@ -678,7 +654,7 @@
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-04T00:00:00-07:00",
+    "start": "2027-10-05T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -698,13 +674,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-04T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-05T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-04T00:00:00-07:00",
+    "start": "2027-10-05T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -724,13 +700,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-04T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-05T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-04T00:00:00+01:00",
+    "start": "2544-10-05T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -750,13 +726,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-04T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-05T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-04T00:00:00+01:00",
+    "start": "2544-10-05T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -776,7 +752,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-04T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-05T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
