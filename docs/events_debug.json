@@ -1,32 +1,5 @@
 [
   {
-    "title": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software Development",
-    "start": "2026-10-06T12:00:00-04:00",
-    "end": "2026-10-06T13:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Location: Register for Zoom TBD HCI Seminar - J.D. Zamfirescu-Pereira - Understanding and Overcoming Alignment Challenges in Designing with Generative AI J.D. Zamfirescu-Pereira UCLA Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 95,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|CSAIL FORUM with Daniel Jackson Title: The Key to Agentic Software Development|2026-10-06T12:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "IMPRS & MCQST Industry Visit",
     "start": "2026-10-07T00:00:00+02:00",
     "end": null,
@@ -187,6 +160,31 @@
     "reject_reasons": []
   },
   {
+    "title": "The Real Effects of Disclosing Polarizing Information",
+    "start": "2026-10-13T11:30:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Michael Price",
+    "affiliation": "The University of Alabama",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Michael Price. Affiliation: The University of Alabama. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|The Real Effects of Disclosing Polarizing Information|2026-10-13T11:30:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Curtis Langlotz",
     "start": "2026-10-14T00:00:00-07:00",
     "end": null,
@@ -223,7 +221,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for image models, jailbreaks and prompt injections for large language models (LLMs), and undesired backdoor behaviors purposefully inserted into the weights of models.&nbsp; &nbsp; &nbsp;Our exploration of latent failure modes is based on a series of 5 case studies spanning the domains of game-playing, language modeling, and vision. Through these case studies we develop a number of important insights about latent failure modes, including that (a) even very capable AI systems can harbor serious naturally-ocurring latent failure modes; (b) across multiple domains, a promising strategy for finding latent failure modes is to train other AI systems to help find them; (c) a lack of high-quality, easy-to-use benchmarks is holding back progress in discovering and defending against latent failure modes in LLMs; and (d) the version of adversarial robustness most relevant to real-world systems (and the general problem of latent failure modes) is unrestricted adversarial robustness, which, despite receiving relatively little attention, may be more tractable than previously thought.&nbsp; &nbsp; &nbsp; Taken together, our case studies advance the following conclusion: Although latent failure modes are a pervasive feature of modern AI systems that have resisted a decade of research into removing them, several neglected approaches to discovering and removing them could, with greater investment, substantially improve our ability to build reliable AI systems.&nbsp; TBD October 27, 2026 CSAIL Forum Jacob Andreas CSAIL MIT Part Of CSAIL Forum 12:00 P - 1:00 P Location TBD",
+    "description": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for image models, jailbreaks and prompt injections for large language models (LLMs), and undesired backdoor behaviors purposefully inserted into the weights of models.&nbsp; &nbsp; &nbsp;Our exploration of latent failure modes is based on a series of 5 case studies spanning the domains of game-playing, language modeling, and vision. Through these case studies we develop a number of important insights about latent failure modes, including that (a) even very capable AI systems can harbor serious naturally-ocurring latent failure modes; (b) across multiple domains, a promising strategy for finding latent failure modes is to train other AI systems to help find them; (c) a lack of high-quality, easy-to-use benchmarks is holding back progress in discovering and defending against latent failure modes in LLMs; and (d) the version of adversarial robustness most relevant to real-world systems (and the general problem of latent failure modes) is unrestricted adversarial robustness, which, despite receiving relatively little attention, may be more tractable than previously thought.&nbsp; &nbsp; &nbsp; Taken together, our case studies advance the following conclusion: Although latent failure modes are a pervasive feature of modern AI systems that have resisted a decade of research into removing them, several neglected approaches to discovering and removing them could, with greater investment, substantially improve our ability to build reliable AI systems.&nbsp; TBD October 21, 2026 Private Event Research Alliance on AI Labor Implications Convening 9:00 A - 5:00 P Location 32-G882 This event is located on the 8th floor. Turn left when you get off the elevators. The room is located at the end of the hallway.",
     "categories": [
       "AI"
     ],
@@ -654,7 +652,7 @@
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-05T00:00:00-07:00",
+    "start": "2027-10-06T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -674,13 +672,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-05T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-06T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-05T00:00:00-07:00",
+    "start": "2027-10-06T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -700,13 +698,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-05T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-06T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-05T00:00:00+01:00",
+    "start": "2544-10-06T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -726,13 +724,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-05T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-06T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-05T00:00:00+01:00",
+    "start": "2544-10-06T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -752,7 +750,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-05T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-06T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
