@@ -1,111 +1,5 @@
 [
   {
-    "title": "IMPRS & MCQST Industry Visit",
-    "start": "2026-10-07T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "7 October 2026 IMPRS & MCQST Industry Visit Events Company Visit at Infineon: Infineon Technologies AG is a major German semiconductor manufacturer that designs and produces chips for automotive, industrial, and security applications. Read More 8 October 2026 ENTER NEW SPACES: Musik trifft Wissenschaft Ein Konzertabend der MÃ¼nchner Symphoniker und Kooperation mit dem Science Communication Lab des Deutschen Museums und MCQST Read More 8 October 2026",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MCQST Events|IMPRS & MCQST Industry Visit|2026-10-07T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications",
-    "start": "2026-10-07T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications Oct 07, 2026 12:00 PM - 1:15 PM Finance, Business NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler Oct 07, 2026 October",
-    "categories": [
-      "Finance",
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:finance",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications|2026-10-07T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler",
-    "start": "2026-10-07T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "This session covers the foundational knowledge of GPUs, including their architecture, functionality, and applications in computing. It provides an introduction to GPU computing through the lens of the Marlowe SuperPod and prepares learners for advanced topics such as GPU-accelerated data science and machine learning.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler Oct 07, 2026 This session covers the foundational knowledge of GPUs, including their architecture, functionality, and applications in computing. It provides an introduction to GPU computing through the lens of the Marlowe SuperPod and prepares learners for advanced topics such as GPU-accelerated data science and machine learning. Location: CoDa W401 Marlowe | AI + Data for Science with Olivier Gevaert Seminar Oct 07, 2026 Also seen in: Stanford HAI Events Main",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|NVIDIA & Marlowe | GPU Computing Foundations - Amanda Butler|2026-10-07T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Marlowe | AI + Data for Science with Olivier Gevaert",
-    "start": "2026-10-07T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "For 9/23 and 10/7 only, sessions are at the",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Olivier Gevaert Oct 07, 2026 For 9/23 and 10/7 only, sessions are at the David Packard Electrical Engineering Building, Room 101 . Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Olivier Gevaert|2026-10-07T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Thesis Defense: Systems to Automate Data-to-Insight Pipelines",
     "start": "2026-10-09T13:00:00-04:00",
     "end": "2026-10-09T15:00:00-04:00",
@@ -117,9 +11,9 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Systems to Automate Data-to-Insight Pipelines Abstract:Data-driven decision-making is central to modern science and industry, yet transforming raw, heterogeneous data into reliable insights remains difficult to automate. A data-to-insight pipeline must discover relevant data, transform and integrate it, select appropriate analyses, and produce results that users can interpret and act upon. These stages are tightly coupled, and optimizing only for the accuracy of the final output can lead to incoherent, uninterpretable, or poorly grounded pipelines.&nbsp;This thesis develops principles and systems for automating data-to-insight pipelines while making their quality requirements explicit. We argue that reliable automation must account for dependencies between pipeline decisions, expose trade-offs between competing objectives such as utility and interpretability, and evaluate not only the final answer but also the process that produces it. Together, these ideas support automation that preserves both answer quality and pipeline quality. Finally, we examine how recent advances in large language models change the design space for data systems. More flexible models can broaden candidate generation and adaptation, but they do not remove the need for execution, semantic checks, and grounding in the underlying data. The thesis therefore points toward data-to-insight systems that are increasingly autonomous while remaining coherent, interpretable, and verifiable. TBD October 13, 2026 Sir Michael Brady: Applications of Image Analysis & AI in the Understanding of Cancer and Metabolic Syndrome Prof. Sir Michael Brady University of Oxford Part Of Dertouzos Distinguished Lecture 4:00 P - 5:00 P Location 32-G449 Kiva Seminar Room",
+    "description": "Thesis Defense: Systems to Automate Data-to-Insight Pipelines Abstract:Data-driven decision-making is central to modern science and industry, yet transforming raw, heterogeneous data into reliable insights remains difficult to automate. A data-to-insight pipeline must discover relevant data, transform and integrate it, select appropriate analyses, and produce results that users can interpret and act upon. These stages are tightly coupled, and optimizing only for the accuracy of the final output can lead to incoherent, uninterpretable, or poorly grounded pipelines.&nbsp;This thesis develops principles and systems for automating data-to-insight pipelines while making their quality requirements explicit. We argue that reliable automation must account for dependencies between pipeline decisions, expose trade-offs between competing objectives such as utility and interpretability, and evaluate not only the final answer but also the process that produces it. Together, these ideas support automation that preserves both answer quality and pipeline quality. Finally, we examine how recent advances in large language models change the design space for data systems. More flexible models can broaden candidate generation and adaptation, but they do not remove the need for execution, semantic checks, and grounding in the underlying data. The thesis therefore points toward data-to-insight systems that are increasingly autonomous while remaining coherent, interpretable, and verifiable. TBD October 13, 2026 Similarity and Linear Properties of Learned Representations: An Identifiability Perspective Luigi Gresele Technical University of Denmark (DTU) 3:00 P - 4:00 P Location 45-792",
     "categories": [
-      "AI"
+      "General High Impact"
     ],
     "score": 100,
     "score_reasons": [
@@ -221,7 +115,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for image models, jailbreaks and prompt injections for large language models (LLMs), and undesired backdoor behaviors purposefully inserted into the weights of models.&nbsp; &nbsp; &nbsp;Our exploration of latent failure modes is based on a series of 5 case studies spanning the domains of game-playing, language modeling, and vision. Through these case studies we develop a number of important insights about latent failure modes, including that (a) even very capable AI systems can harbor serious naturally-ocurring latent failure modes; (b) across multiple domains, a promising strategy for finding latent failure modes is to train other AI systems to help find them; (c) a lack of high-quality, easy-to-use benchmarks is holding back progress in discovering and defending against latent failure modes in LLMs; and (d) the version of adversarial robustness most relevant to real-world systems (and the general problem of latent failure modes) is unrestricted adversarial robustness, which, despite receiving relatively little attention, may be more tractable than previously thought.&nbsp; &nbsp; &nbsp; Taken together, our case studies advance the following conclusion: Although latent failure modes are a pervasive feature of modern AI systems that have resisted a decade of research into removing them, several neglected approaches to discovering and removing them could, with greater investment, substantially improve our ability to build reliable AI systems.&nbsp; TBD October 21, 2026 Private Event Research Alliance on AI Labor Implications Convening 9:00 A - 5:00 P Location 32-G882 This event is located on the 8th floor. Turn left when you get off the elevators. The room is located at the end of the hallway.",
+    "description": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for image models, jailbreaks and prompt injections for large language models (LLMs), and undesired backdoor behaviors purposefully inserted into the weights of models.&nbsp; &nbsp; &nbsp;Our exploration of latent failure modes is based on a series of 5 case studies spanning the domains of game-playing, language modeling, and vision. Through these case studies we develop a number of important insights about latent failure modes, including that (a) even very capable AI systems can harbor serious naturally-ocurring latent failure modes; (b) across multiple domains, a promising strategy for finding latent failure modes is to train other AI systems to help find them; (c) a lack of high-quality, easy-to-use benchmarks is holding back progress in discovering and defending against latent failure modes in LLMs; and (d) the version of adversarial robustness most relevant to real-world systems (and the general problem of latent failure modes) is unrestricted adversarial robustness, which, despite receiving relatively little attention, may be more tractable than previously thought.&nbsp; &nbsp; &nbsp; Taken together, our case studies advance the following conclusion: Although latent failure modes are a pervasive feature of modern AI systems that have resisted a decade of research into removing them, several neglected approaches to discovering and removing them could, with greater investment, substantially improve our ability to build reliable AI systems.&nbsp; TBD October 20, 2026 HCI Seminar - Natasha Singer - How Big Tech Captured the Classroom and What We Can Do About It Natasha Singer New York Times Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
     "categories": [
       "AI"
     ],
@@ -652,7 +546,7 @@
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-06T00:00:00-07:00",
+    "start": "2027-10-07T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -672,13 +566,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-06T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-07T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-06T00:00:00-07:00",
+    "start": "2027-10-07T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -698,13 +592,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-06T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-07T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-06T00:00:00+01:00",
+    "start": "2544-10-07T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -724,13 +618,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-06T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-07T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-06T00:00:00+01:00",
+    "start": "2544-10-07T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -750,7 +644,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-06T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-07T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
