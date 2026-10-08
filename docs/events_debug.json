@@ -90,7 +90,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Seminar Oct 19, 2026",
+    "description": "2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Seminar Oct 16, 2026",
     "categories": [
       "AI"
     ],
@@ -100,6 +100,31 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Curtis Langlotz|2026-10-14T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation",
+    "start": "2026-10-16T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "1:00 PM - 2:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Oct 16, 2026 1:00 PM - 2:15 PM Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Seminar Oct 19, 2026 4:00 PM - 5:00 PM",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation|2026-10-16T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
@@ -341,6 +366,33 @@
     "reject_reasons": []
   },
   {
+    "title": "Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification",
+    "start": "2026-10-28T13:00:00+01:00",
+    "end": "2026-10-28T14:00:00+01:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty on “Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification”",
+    "categories": [
+      "Neuroscience"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|28.10.2026|Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification|TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Ruijiang Li",
     "start": "2026-11-04T00:00:00-08:00",
     "end": null,
@@ -546,7 +598,7 @@
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-07T00:00:00-07:00",
+    "start": "2027-10-08T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -566,13 +618,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-07T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-08T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-07T00:00:00-07:00",
+    "start": "2027-10-08T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -592,13 +644,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-07T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-08T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-07T00:00:00+01:00",
+    "start": "2544-10-08T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -618,13 +670,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-07T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-08T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-07T00:00:00+01:00",
+    "start": "2544-10-08T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -644,7 +696,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-07T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-08T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
