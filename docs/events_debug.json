@@ -1,32 +1,5 @@
 [
   {
-    "title": "Thesis Defense: Systems to Automate Data-to-Insight Pipelines",
-    "start": "2026-10-09T13:00:00-04:00",
-    "end": "2026-10-09T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Thesis Defense: Systems to Automate Data-to-Insight Pipelines Abstract:Data-driven decision-making is central to modern science and industry, yet transforming raw, heterogeneous data into reliable insights remains difficult to automate. A data-to-insight pipeline must discover relevant data, transform and integrate it, select appropriate analyses, and produce results that users can interpret and act upon. These stages are tightly coupled, and optimizing only for the accuracy of the final output can lead to incoherent, uninterpretable, or poorly grounded pipelines.&nbsp;This thesis develops principles and systems for automating data-to-insight pipelines while making their quality requirements explicit. We argue that reliable automation must account for dependencies between pipeline decisions, expose trade-offs between competing objectives such as utility and interpretability, and evaluate not only the final answer but also the process that produces it. Together, these ideas support automation that preserves both answer quality and pipeline quality. Finally, we examine how recent advances in large language models change the design space for data systems. More flexible models can broaden candidate generation and adaptation, but they do not remove the need for execution, semantic checks, and grounding in the underlying data. The thesis therefore points toward data-to-insight systems that are increasingly autonomous while remaining coherent, interpretable, and verifiable. TBD October 13, 2026 Similarity and Linear Properties of Learned Representations: An Identifiability Perspective Luigi Gresele Technical University of Denmark (DTU) 3:00 P - 4:00 P Location 45-792",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Thesis Defense: Systems to Automate Data-to-Insight Pipelines|2026-10-09T13:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
     "start": "2026-10-12T00:00:00-07:00",
     "end": null,
@@ -469,6 +442,32 @@
     "reject_reasons": []
   },
   {
+    "title": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development",
+    "start": "2026-11-17T12:00:00-05:00",
+    "end": "2026-11-17T13:00:00-05:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD December 8, 2026 TBA Aayush Jain Carnegie Mellon Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "categories": [
+      "Buildings"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development|2026-11-17T12:00:00-05:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI",
     "start": "2026-11-18T00:00:00-08:00",
     "end": null,
@@ -598,7 +597,7 @@
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-09T00:00:00-07:00",
+    "start": "2027-10-10T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -618,13 +617,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-09T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-10T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-09T00:00:00-07:00",
+    "start": "2027-10-10T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -644,13 +643,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-09T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-10T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-09T00:00:00+01:00",
+    "start": "2544-10-10T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -670,13 +669,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-09T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-10T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-09T00:00:00+01:00",
+    "start": "2544-10-10T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -696,7 +695,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-09T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-10T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
