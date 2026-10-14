@@ -1,30 +1,5 @@
 [
   {
-    "title": "Marlowe | AI + Data for Science with Curtis Langlotz",
-    "start": "2026-10-14T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Curtis Langlotz Oct 14, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Seminar Oct 16, 2026",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Curtis Langlotz|2026-10-14T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation",
     "start": "2026-10-16T00:00:00-07:00",
     "end": null,
@@ -36,13 +11,14 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Oct 16, 2026 1:00 PM - 2:15 PM Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Seminar Oct 19, 2026 4:00 PM - 5:00 PM",
+    "description": "2026 Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Oct 16, 2026 1:00 PM - 2:15 PM Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software Oct 19, 2026 12:00 PM - 1:00 PM October",
     "categories": [
       "AI"
     ],
-    "score": 75,
+    "score": 100,
     "score_reasons": [
       "source_weight:55",
+      "high_impact:+50",
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation|2026-10-16T00:00:00-07:00",
@@ -78,6 +54,58 @@
     "reject_reasons": []
   },
   {
+    "title": "MCQST bei der Langen Nacht der Museen im Deutschen Museum",
+    "start": "2026-10-17T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "17 October 2026 MCQST bei der Langen Nacht der Museen im Deutschen Museum Events | Public Events Quantenphysik zum Anfassen: MCQST bei der Langen Nacht der Museen MÃ¼nchen Read More 20 October 2026 MCQST Colloquium: Prof. Kenji Ohmori (postponed) MCQST Colloquium | Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50"
+    ],
+    "uid_seed": "MCQST Events|MCQST bei der Langen Nacht der Museen im Deutschen Museum|2026-10-17T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software",
+    "start": "2026-10-19T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software Oct 19, 2026 12:00 PM - 1:00 PM A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct. Drawing on her work at Axiom, Carina will discuss the transition from solving mathematical benchmarks to contributing to research, and from proving individual theorems to formalizing mathematical theories in Lean. Machine Learning Industry, Innovation Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software|2026-10-19T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates",
     "start": "2026-10-19T00:00:00-07:00",
     "end": null,
@@ -89,7 +117,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Oct 19, 2026 4:00 PM - 5:00 PM A Center for Neural Data Science Seminar Series Bay Area Tech Economics Seminar with Rehan Khan Seminar Oct 20, 2026",
+    "description": "2026 Nicholas Branigan | Non-ergodicity and Simpson’s paradox in neural correlates Oct 19, 2026 4:00 PM - 5:00 PM A Center for Neural Data Science Seminar Series Bay Area Tech Economics Seminar with Rehan Khan, Snowflake Seminar Oct 20, 2026",
     "categories": [
       "Finance",
       "AI"
@@ -112,10 +140,10 @@
     "affiliation": null,
     "location": null,
     "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "21 October 2026 Wissenschaft fÃ¼r jedermann: Maschinelles Lernen Events | Public Events Maschinelles Lernen fÃ¼r das âBig-Dataâ-Problem der Quantenwelt â Wenn viele kleinste Bausteine der Materie â die sogenannten Quantenteilchen â zusammen kommen, kÃ¶nnen neue, oft unerwartete PhÃ¤nomene entstehen. Read More 22 October - 23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Also seen in: Munich Quantum Center Events",
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "21 October 2026 Wissenschaft fÃ¼r jedermann: Maschinelles Lernen Events | Public Events Maschinelles Lernen fÃ¼r das âBig-Dataâ-Problem der Quantenwelt â Wenn viele kleinste Bausteine der Materie â die sogenannten Quantenteilchen â zusammen kommen, kÃ¶nnen neue, oft unerwartete PhÃ¤nomene entstehen. Read More 22 October - 23 October 2026 Paris-Munich Quantum Workshop 2026 Events | Also seen in: MCQST Events",
     "categories": [
       "Quantum"
     ],
@@ -126,7 +154,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Wissenschaft fÃ¼r jedermann: Maschinelles Lernen|2026-10-21T00:00:00+02:00",
+    "uid_seed": "Munich Quantum Center Events|Wissenschaft fÃ¼r jedermann: Maschinelles Lernen|2026-10-21T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -571,8 +599,35 @@
     "reject_reasons": []
   },
   {
+    "title": "A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct",
+    "start": "2027-10-14T00:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "19",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct. Drawing on her work at Axiom, Carina will discuss the transition from solving mathematical benchmarks to contributing to research, and from proving individual theorems to formalizing mathematical theories in Lean. October 19 2026 Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software Oct 19, 2026 12:00 PM - 1:00 PM",
+    "categories": [
+      "AI",
+      "Math"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct|2027-10-14T00:00:00-07:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-13T00:00:00-07:00",
+    "start": "2027-10-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -592,13 +647,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-14T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-13T00:00:00-07:00",
+    "start": "2027-10-14T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -618,13 +673,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-13T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-14T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-13T00:00:00+01:00",
+    "start": "2544-10-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -644,13 +699,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-13T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-14T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-13T00:00:00+01:00",
+    "start": "2544-10-14T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -670,7 +725,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-13T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-14T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
