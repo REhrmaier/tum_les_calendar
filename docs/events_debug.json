@@ -524,6 +524,31 @@
     "reject_reasons": []
   },
   {
+    "title": "Water availability for electrolysis: A case study for Germany in 2045",
+    "start": "2026-11-24T11:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Franziska Holz",
+    "affiliation": "DIW Berlin & NTNU",
+    "location": "TUM School of Management, Room",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management, Room",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Water availability for electrolysis: A case study for Germany in 2045|2026-11-24T11:30:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Marlowe | AI + Data for Science with Leonidas Guibas",
     "start": "2026-12-02T00:00:00-08:00",
     "end": null,
@@ -600,7 +625,7 @@
   },
   {
     "title": "A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct",
-    "start": "2027-10-14T00:00:00-07:00",
+    "start": "2027-10-15T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -621,13 +646,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct|2027-10-14T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct|2027-10-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-14T00:00:00-07:00",
+    "start": "2027-10-15T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -647,13 +672,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-14T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-14T00:00:00-07:00",
+    "start": "2027-10-15T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -673,13 +698,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-14T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-15T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-14T00:00:00+01:00",
+    "start": "2544-10-15T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -699,13 +724,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-14T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-15T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-14T00:00:00+01:00",
+    "start": "2544-10-15T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -725,7 +750,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-14T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-15T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
