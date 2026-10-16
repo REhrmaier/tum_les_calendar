@@ -1,31 +1,5 @@
 [
   {
-    "title": "Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation",
-    "start": "2026-10-16T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "1:00 PM - 2:15 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation Oct 16, 2026 1:00 PM - 2:15 PM Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software Oct 19, 2026 12:00 PM - 1:00 PM October",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Serena Wang: From Metric Selection to Metric Discovery in AI Evaluation|2026-10-16T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks",
     "start": "2026-10-16T14:00:00-04:00",
     "end": "2026-10-16T15:00:00-04:00",
@@ -405,7 +379,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 2026 SC2 Student Conference Nov 06, 2026 8:30 AM - 5:00 PM Data Science CNDS Seminar - Daniel Wurgaft Seminar Nov 09, 2026",
+    "description": "2026 2026 SC2 Student Conference Nov 06, 2026 8:30 AM - 5:00 PM Data Science Center for Decoding the Universe Fall Forum Nov 09, 2026 12:00 PM - 6:00 PM",
     "categories": [
       "AI"
     ],
@@ -415,6 +389,58 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|2026 SC2 Student Conference|2026-11-06T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Center for Decoding the Universe Fall Forum",
+    "start": "2026-11-09T00:00:00-08:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 6:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Center for Decoding the Universe Fall Forum Nov 09, 2026 12:00 PM - 6:00 PM CNDS Seminar - Daniel Wurgaft Seminar Nov 09, 2026 4:00 PM - 5:30 PM Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "AI"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:55",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Center for Decoding the Universe Fall Forum|2026-11-09T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Malcolm Levitt (U Southampton, UK): \"Double-quantum excitation in solution NMR using weird quantum properties\"",
+    "start": "2026-11-10T09:30:00+01:00",
+    "end": "2026-11-10T10:15:00+01:00",
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "TUM Natural Sciences Events",
+    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
+    "event_url": "https://www.bnmrz.org/",
+    "description": "as part of Lecture Series: Bayerisches NMR Zentrum (BNMRZ) TUM-IAS Auditorium",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 85,
+    "score_reasons": [
+      "source_weight:20",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM Natural Sciences Events|https://www.bnmrz.org/|Malcolm Levitt (U Southampton, UK): \"Double-quantum excitation in solution NMR using weird quantum properties\"|2026-11-10T09:30:00+01:00",
     "include": true,
     "reject_reasons": []
   },
@@ -482,7 +508,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third AI100 report, AI Goes Mainstream: The Scaling Era and the Rise of Generative AI, set for release in October 2026. The report was commissioned by the AI100 standing committee and led by study panel chair Michael Wooldridge. Foundation Models Industry, Innovation Democracy",
+    "description": "2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third AI100 report, AI Goes Mainstream: The Scaling Era and the Rise of Generative AI, set for release in November 2026. The report was commissioned by the AI100 standing committee and led by study panel chair Michael Wooldridge. Foundation Models Industry, Innovation Democracy",
     "categories": [
       "AI"
     ],
@@ -490,7 +516,6 @@
     "score_reasons": [
       "source_weight:55",
       "topic_bonus:+30:artificial intelligence",
-      "high_impact:+50",
       "institution_signal:+20",
       "online_bonus:+20"
     ],
@@ -625,7 +650,7 @@
   },
   {
     "title": "A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct",
-    "start": "2027-10-15T00:00:00-07:00",
+    "start": "2027-10-16T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -646,13 +671,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct|2027-10-15T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|A eureka moment is a two-step process: discovering something new and surprising, and establishing that it is correct|2027-10-16T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-15T00:00:00-07:00",
+    "start": "2027-10-16T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -672,13 +697,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-15T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-16T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-15T00:00:00-07:00",
+    "start": "2027-10-16T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -698,13 +723,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-15T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-16T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-15T00:00:00+01:00",
+    "start": "2544-10-16T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -724,13 +749,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-15T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-16T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-15T00:00:00+01:00",
+    "start": "2544-10-16T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -750,7 +775,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-15T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-16T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
