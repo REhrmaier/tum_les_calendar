@@ -1,62 +1,5 @@
 [
   {
-    "title": "When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond",
-    "start": "2026-10-21T13:00:00+02:00",
-    "end": "2026-10-21T14:00:00+02:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "TUM-IAS Fellow Dr. Jieshan Chen",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Dr. Jieshan Chen on “When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|21.10.2026|When User Interfaces Work Against Users: Detecting Dark Patterns from Screens to Interactions and Beyond|TUM-IAS Fellow Dr. Jieshan Chen",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "The Artificial-Empathy Paradox: Why Human Empathy Still Matters",
-    "start": "2026-10-21T15:00:00-04:00",
-    "end": "2026-10-21T16:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "The Artificial-Empathy Paradox: Why Human Empathy Still Matters Abstract: AI-generated empathy is convincing and well received until recipients realize it is artificial; a phenomenon I term the 'artificial-empathy paradox'. We test this phenomenon across nine experiments, in which identical empathic responses to participants’ emotional situations are labeled as either human- or AI-generated. Human attributed responses were rated as more empathic and supportive, and elicited more positive and fewer negative emotions, compared to AI-attributed ones. Moreover, participants own uninstructed belief that AI aided human-attributed responses, reduced perceived empathy and support. These effects replicated across varying response lengths, delays, iterations and LLMs, being primarily driven by responses emphasizing emotional sharing and care. Additionally, people consistently chose human interaction over AI when seeking emotional engagement. Building on these findings, I introduce a theoretical framework - empathy as a predictive social signal - which proposes that, from the recipient’s perspective, empathy functions not only to regulate emotion but also as a social signal of care and future relational commitment. When empathy is perceived as cheap, automated, or outsourced, its predictive value collapses. I will conclude by describing ongoing work in the lab and discussing the implications of increasingly AI-mediated empathy for relationships and society, including how these developments relate directly to questions of AI safety and alignment.&nbsp;Short bio: Anat Perry is an associate professor of psychology at the Hebrew University of Jerusalem, where she directs the Social Cognitive Neuroscience Lab. She is a 2026–2027 fellow at Harvard’s Berkman Klein Center for Internet &amp; Society and was the 2025–2026 Helen Putnam Fellow at the Harvard Radcliffe Institute for Advanced Study. Her research examines empathy and social processes through the lenses of psychology and neuroscience, with a growing focus on human–AI interactions and what they reveal about human empathy and social relationships. Perry combines theoretical insight with behavioral experiments, eye-tracking, EEG, and field studies to explore how we understand, feel with, and relate to others. TBD [NLP Seminar] Inverse Mechanistic Interpretability Zico Kolter Carnegie Mellon University 4:00 P - 5:00 P Location 45-792",
-    "categories": [
-      "Buildings",
-      "AI",
-      "Neuroscience"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+25:medicine",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|The Artificial-Empathy Paradox: Why Human Empathy Still Matters|2026-10-21T15:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science",
     "start": "2026-10-26T00:00:00-07:00",
     "end": null,
@@ -147,7 +90,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "From Perception to Programs: Learning to Reconstruct the Visual World Abstract: Modern AI systems have demonstrated remarkable abilities to recognize and generate visual patterns. Yet many problems, from scientific discovery to engineering design, require more than modeling observations: they require inferring the processes that generate them. Can machines discover the reusable operations and abstractions needed to reconstruct the world from limited evidence?I will explore this question through origami, a domain where complex structures emerge from sequences of simple folds. I will present OrigamiBench, which reveals limitations in the ability of vision-language models to reason about geometric transformations and compose them into executable folding programs. These findings motivate the development of representations and abstractions that support compositional reasoning.I will discuss my work on reliable self-supervised representation learning, showing how principled inductive biases can prevent representational collapse, and on neuro-symbolic learning, showing how neural representations can be integrated with symbolic knowledge to improve generalization from limited data. Building on these foundations, I will introduce unsupervised neural induction, a research direction aimed at jointly learning neural representations and a richer language of reusable abstractions from visual observations, moving beyond programs expressed in a predefined language. The long-term goal is to enable machines to develop interpretable, executable models of the visual world that can be tested, composed, and refined through experience.&nbsp;Bio: Emanuele Sansone is a Marie Skłodowska-Curie Global Postdoctoral Fellow at KU Leuven and a former researcher at MIT CSAIL. His research lies at the intersection of unsupervised learning, neuro-symbolic AI, and program synthesis. He received his PhD from the University of Trento and has led international research collaborations supported by European and US research programs. He doesn't know how to fold origami, and he hopes that one day AI will teach him how.https://mit.zoom.us/j/97281017057 TBD November 3, 2026 HCI Seminar - Amy Zhang - What can CSCW Teach us About How to Work with Agents? Amy Zhang University of Washington Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
+    "description": "From Perception to Programs: Learning to Reconstruct the Visual World Abstract: Modern AI systems have demonstrated remarkable abilities to recognize and generate visual patterns. Yet many problems, from scientific discovery to engineering design, require more than modeling observations: they require inferring the processes that generate them. Can machines discover the reusable operations and abstractions needed to reconstruct the world from limited evidence?I will explore this question through origami, a domain where complex structures emerge from sequences of simple folds. I will present OrigamiBench, which reveals limitations in the ability of vision-language models to reason about geometric transformations and compose them into executable folding programs. These findings motivate the development of representations and abstractions that support compositional reasoning.I will discuss my work on reliable self-supervised representation learning, showing how principled inductive biases can prevent representational collapse, and on neuro-symbolic learning, showing how neural representations can be integrated with symbolic knowledge to improve generalization from limited data. Building on these foundations, I will introduce unsupervised neural induction, a research direction aimed at jointly learning neural representations and a richer language of reusable abstractions from visual observations, moving beyond programs expressed in a predefined language. The long-term goal is to enable machines to develop interpretable, executable models of the visual world that can be tested, composed, and refined through experience.&nbsp;Bio: Emanuele Sansone is a Marie Skłodowska-Curie Global Postdoctoral Fellow at KU Leuven and a former researcher at MIT CSAIL. His research lies at the intersection of unsupervised learning, neuro-symbolic AI, and program synthesis. He received his PhD from the University of Trento and has led international research collaborations supported by European and US research programs. He doesn't know how to fold origami, and he hopes that one day AI will teach him how.https://mit.zoom.us/j/97281017057 TBD HCI Seminar - Kaitlyn Zhou - Interaction-Informed Design of LLMs Kaitlyn Zhou Cornell University Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
     "categories": [
       "Buildings",
       "AI",
@@ -156,6 +99,7 @@
     "score": 100,
     "score_reasons": [
       "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
       "high_impact:+50",
       "institution_signal:+20",
       "online_bonus:+20"
@@ -372,6 +316,33 @@
     "reject_reasons": []
   },
   {
+    "title": "Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging",
+    "start": "2026-11-11T13:00:00+01:00",
+    "end": "2026-11-11T14:00:00+01:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Anna Dowbaj",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Anna Dowbaj on “Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging”",
+    "categories": [
+      "Buildings"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|11.11.2026|Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging|Prof. Dr. Anna Dowbaj",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development",
     "start": "2026-11-17T12:00:00-05:00",
     "end": "2026-11-17T13:00:00-05:00",
@@ -553,8 +524,36 @@
     "reject_reasons": []
   },
   {
+    "title": "22 October -",
+    "start": "2027-05-22T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "5 22 October - 23 October 2026 Paris-Munich Quantum Workshop 2026 Collaborations | Events Workshop connecting QuanTiP and MCQST researchers to share insights, strengthen collaborations, and support the mobility of early-career scientists. Read More 23 October 2026 Quantum After Dark: A Halloween Party",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15",
+      "penalty:-15:weak_title_no_speaker"
+    ],
+    "uid_seed": "MCQST Events|22 October -|2027-05-22T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Scientific progress is a key driver of economic growth and prosperity",
-    "start": "2027-10-21T00:00:00-07:00",
+    "start": "2027-10-22T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -574,13 +573,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-21T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Scientific progress is a key driver of economic growth and prosperity|2027-10-22T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-21T00:00:00-07:00",
+    "start": "2027-10-22T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -600,13 +599,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-21T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-22T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-21T00:00:00+01:00",
+    "start": "2544-10-22T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -626,13 +625,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-21T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-22T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-21T00:00:00+01:00",
+    "start": "2544-10-22T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -652,7 +651,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-21T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-22T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
