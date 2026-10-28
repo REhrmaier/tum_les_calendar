@@ -1,86 +1,5 @@
 [
   {
-    "title": "From Perception to Programs: Learning to Reconstruct the Visual World",
-    "start": "2026-10-27T14:00:00-04:00",
-    "end": "2026-10-27T15:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "From Perception to Programs: Learning to Reconstruct the Visual World Abstract: Modern AI systems have demonstrated remarkable abilities to recognize and generate visual patterns. Yet many problems, from scientific discovery to engineering design, require more than modeling observations: they require inferring the processes that generate them. Can machines discover the reusable operations and abstractions needed to reconstruct the world from limited evidence?I will explore this question through origami, a domain where complex structures emerge from sequences of simple folds. I will present OrigamiBench, which reveals limitations in the ability of vision-language models to reason about geometric transformations and compose them into executable folding programs. These findings motivate the development of representations and abstractions that support compositional reasoning.I will discuss my work on reliable self-supervised representation learning, showing how principled inductive biases can prevent representational collapse, and on neuro-symbolic learning, showing how neural representations can be integrated with symbolic knowledge to improve generalization from limited data. Building on these foundations, I will introduce unsupervised neural induction, a research direction aimed at jointly learning neural representations and a richer language of reusable abstractions from visual observations, moving beyond programs expressed in a predefined language. The long-term goal is to enable machines to develop interpretable, executable models of the visual world that can be tested, composed, and refined through experience.&nbsp;Bio: Emanuele Sansone is a Marie Skłodowska-Curie Global Postdoctoral Fellow at KU Leuven and a former researcher at MIT CSAIL. His research lies at the intersection of unsupervised learning, neuro-symbolic AI, and program synthesis. He received his PhD from the University of Trento and has led international research collaborations supported by European and US research programs. He doesn't know how to fold origami, and he hopes that one day AI will teach him how.https://mit.zoom.us/j/97281017057 TBD HCI Seminar - Kaitlyn Zhou - Interaction-Informed Design of LLMs Kaitlyn Zhou Cornell University Part Of HCI Seminar 2026-2027 4:00 P - 5:00 P Location 32-D463",
-    "categories": [
-      "Buildings",
-      "AI",
-      "Neuroscience"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|From Perception to Programs: Learning to Reconstruct the Visual World|2026-10-27T14:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
-    "start": "2026-10-28T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "9:00 AM - 6:45 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. Workforce, Labor Sciences (Social, Health, Biological, Physical) Marlowe | AI + Data for Science with Dan Yamins",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Confronting Our AI Future: Hope, Fear, and the Choices Ahead|2026-10-28T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Marlowe | AI + Data for Science with Dan Yamins",
-    "start": "2026-10-28T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers.",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Olawale (Wale) Salaudeen | On Construct Validity in AI: The Scientific Work We Have Yet to Do Seminar Oct 30, 2026",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Dan Yamins|2026-10-28T00:00:00-07:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification",
     "start": "2026-10-28T13:00:00+01:00",
     "end": "2026-10-28T14:00:00+01:00",
@@ -525,7 +444,7 @@
   },
   {
     "title": "26 October -",
-    "start": "2027-05-27T00:00:00+02:00",
+    "start": "2027-05-28T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -547,13 +466,41 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "MCQST Events|26 October -|2027-05-27T00:00:00+02:00",
+    "uid_seed": "MCQST Events|26 October -|2027-05-28T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "26 October -",
+    "start": "2027-10-28T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "10 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 4 November 2026 MCQST Colloquium: Norman Yao MCQST Colloquium | Events",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "high_impact:+50",
+      "local_bonus:+15",
+      "penalty:-15:weak_title_no_speaker"
+    ],
+    "uid_seed": "Munich Quantum Center Events|26 October -|2027-10-28T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-27T00:00:00-07:00",
+    "start": "2027-10-28T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -573,13 +520,13 @@
       "high_impact:+50",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-27T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-28T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-27T00:00:00+01:00",
+    "start": "2544-10-28T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -599,13 +546,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-27T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-28T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-27T00:00:00+01:00",
+    "start": "2544-10-28T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -625,7 +572,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-27T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-28T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }

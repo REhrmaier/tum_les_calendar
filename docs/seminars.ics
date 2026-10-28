@@ -10,14 +10,6 @@ SUMMARY:[AI] YoungJu Jo | Data-driven discovery and control of neural computatio
 UID:97bfc9107212777b3eccbe86@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
-DTEND:25441027T003000Z
-LOCATION:TBA
-DTSTART:25441026T230000Z
-SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
-UID:bb3428b46092cae5a38c6844@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://www.bnmrz.org/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 85\nScore reasons: source_weight:20\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\nExcerpt: as part of Lecture Series: Bayerisches NMR Zentrum (BNMRZ) TUM-IAS Auditorium
 DTEND:20261110T091500Z
 DTSTART:20261110T083000Z
@@ -49,6 +41,14 @@ SUMMARY:[Neuroscience] Deep Brain Stimulation: Opportunities in Cyber-Physical S
 UID:bae3f73795cc43e2f6035215@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441028T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441027T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:342b2463565222cd3221a651@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0\nOnline URL: \nSpeaker: Prof. Frédéric Laquai\nAffiliation: \nLocation: CH 26411\nScore: 85\nScore reasons: source_weight:20\; high_impact:+50\; local_bonus:+15\nExcerpt: as part of GDCh Colloquium Speaker: Prof. Frédéric Laquai
 DTEND:20261201T180000Z
 LOCATION:CH 26411
@@ -70,21 +70,6 @@ DTEND:20261117T180000Z
 DTSTART:20261117T170000Z
 SUMMARY:[Buildings] CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development
 UID:b3ffd24af977e986ad4b98cf@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: From Perception to Programs: Learning to Reconstruct the Visual World Abstract: Modern AI systems have demonstrated remarkable abilities to recognize and generate visual patterns. Yet many problems\, from scientific discovery to engineering
-DTEND:20261027T190000Z
-DTSTART:20261027T180000Z
-SUMMARY:[Buildings] From Perception to Programs: Learning to Reconstruct the Visual World
-UID:e678f247e4cade1dde72d47c@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 9:00 AM - 6:45 PM\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 Confronting Our AI Future: Hope\, Fear\, and the Choices Ahead Oct 28\, 2026 9:00 AM - 6:45 PM The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions abou
-DTEND:20261028T083000Z
-LOCATION:9:00 AM - 6:45 PM
-DTSTART:20261028T070000Z
-SUMMARY:[AI] Confronting Our AI Future: Hope\, Fear\, and the Choices Ahead
-UID:d4bc8bcb1c2e4819da2a57cc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: Designing Camera-Based Tactile Sensing for Robot Fingers Thesis Defense: Designing Camera-Based Tactile Sensing for Robot FingersSpeaker: Yuxiang MaSpeaker Affiliation: MITHost: Edward H. AdelsonHost Affiliation: MITDate: Wednesday\, October
@@ -111,18 +96,11 @@ UID:ef766469afc070658d8c7512@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 28\nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: 2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society\, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future
-DTEND:20271027T083000Z
+DTEND:20271028T083000Z
 LOCATION:28
-DTSTART:20271027T070000Z
+DTSTART:20271028T070000Z
 SUMMARY:[AI] The rapid acceleration of AI comes with a profound wave of anxiety
-UID:37db995033388be7405d9a87@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 5 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadershi
-DTEND:20270526T233000Z
-DTSTART:20270526T220000Z
-SUMMARY:[Quantum] 26 October -
-UID:fb2298c73efad0f42cfea2b2@tum-les-calendar
+UID:d3a8ebfca5eb40b172bda93a@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Dr. Anna Dowbaj\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Anna Dowbaj on “Building the Liver Ecosystem to Study Regeneration\, Fibrosis and Aging”
@@ -149,6 +127,14 @@ SUMMARY:[General High Impact] Water availability for electrolysis: A case study 
 UID:194bb153a7e17eac7aac8cc1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
+DTEND:25441028T003000Z
+LOCATION:TBA
+DTSTART:25441027T230000Z
+SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
+UID:e5b864e2a3877f5ab5da8741@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science 2026 SC
 DTEND:20261104T093000Z
 LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
@@ -165,14 +151,6 @@ SUMMARY:[Buildings] Olawale (Wale) Salaudeen | On Construct Validity in AI: The 
 UID:16a5800dd2791988c2511b42@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Dan Yamins Oct 28\, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Data Science Olawale
-DTEND:20261028T083000Z
-LOCATION:Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
-DTSTART:20261028T070000Z
-SUMMARY:[AI] Marlowe | AI + Data for Science with Dan Yamins
-UID:d696cd4e981346777fabfac7@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics\, using classical and quantum simulation to push beyond cl
 DTEND:20270325T003000Z
 DTSTART:20270324T230000Z
@@ -180,11 +158,17 @@ SUMMARY:[Quantum] SimQuDyn 2026 Conference
 UID:92ff555fe03701871eb6a9bc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441027T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441026T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:d88b09e3abfc248f7f1b127d@tum-les-calendar
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 10 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 4 November 2026 MCQST Colloquium: Norman Yao MCQST Colloquium | Events
+DTEND:20271027T233000Z
+DTSTART:20271027T220000Z
+SUMMARY:[Quantum] 26 October -
+UID:003a94af74bb0bfda37211a6@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 5 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadershi
+DTEND:20270527T233000Z
+DTSTART:20270527T220000Z
+SUMMARY:[Quantum] 26 October -
+UID:f84f5d00dac37b707685858c@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
