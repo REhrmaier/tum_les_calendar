@@ -1,59 +1,5 @@
 [
   {
-    "title": "Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification",
-    "start": "2026-10-28T13:00:00+01:00",
-    "end": "2026-10-28T14:00:00+01:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty on “Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification”",
-    "categories": [
-      "Neuroscience"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|28.10.2026|Deep Brain Stimulation: Opportunities in Cyber-Physical Systems Design & Verification|TUM-IAS Fellow Prof. Dr. Samarjit Chakraborty",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Designing Camera-Based Tactile Sensing for Robot Fingers Thesis Defense: Designing Camera-Based Tactile Sensing for Robot Fingers",
-    "start": "2026-10-28T11:00:00-04:00",
-    "end": "2026-10-28T12:00:00-04:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Designing Camera-Based Tactile Sensing for Robot Fingers Thesis Defense: Designing Camera-Based Tactile Sensing for Robot FingersSpeaker: Yuxiang MaSpeaker Affiliation: MITHost: Edward H. AdelsonHost Affiliation: MITDate: Wednesday, October 28, 2026Time: 11:00 AM – 12:00 PMLocation: 32-G882Virtual Event: https://mit.zoom.us/j/91492269237Abstract:Robots grasp and manipulate through contact, but external cameras often cannot observe what happens inside a grasp. Tactile sensing provides this missing information, revealing where contact occurs and how strongly objects are being pressed. Camera-based tactile sensors such as GelSight offer high-resolution touch at low cost, but integrating them into robot fingers is difficult: cameras, illumination, optical paths, and compliant sensing surfaces must all fit within structures that also need to articulate, deform, and grasp.This thesis explores three approaches to this integration problem. First, GelLink is a three-phalanx underactuated finger that uses one motor and one camera; its linkage and mirror geometry are co-designed in simulation, enabling both high-resolution tactile sensing and joint-angle proprioception. Second, a simulation-guided GelSight Fin Ray design framework combines mechanical simulation with tactile image rendering, allowing finger size, stiffness, sensing-surface geometry, and illumination to be explored before fabrication. Finally, GlowTact simplifies the sensing mechanism itself by encoding local pressure as image darkening using single-color, non-directional illumination. It detects contacts from objects weighing as little as 1 g and supports geometric reconstruction and shear tracking.Together, these works move camera-based tactile sensing from standalone sensors toward compact, articulated, and compliant robot fingers.Contact:Yuxiang Mayxma20@mit.edu TBD ML Tea: Recursive Successor Models Part Of ML Tea 2:00 P - 3:00 P Location 32-G449",
-    "categories": [
-      "Math"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|Designing Camera-Based Tactile Sensing for Robot Fingers Thesis Defense: Designing Camera-Based Tactile Sensing for Robot Fingers|2026-10-28T11:00:00-04:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Olawale (Wale) Salaudeen | On Construct Validity in AI: The Scientific Work We Have Yet to Do",
     "start": "2026-10-30T00:00:00-07:00",
     "end": null,
@@ -182,7 +128,7 @@
     "reject_reasons": []
   },
   {
-    "title": "Marlowe | AI + Data for Science with Mohsen Bayati",
+    "title": "Marlowe | AI + Data for Science with Alex Pentland",
     "start": "2026-11-11T00:00:00-08:00",
     "end": null,
     "timezone": "America/Los_Angeles",
@@ -193,7 +139,7 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Mohsen Bayati Nov 11, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Seminar Nov 18, 2026",
+    "description": "2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11, 2026 Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Seminar Nov 18, 2026",
     "categories": [
       "AI"
     ],
@@ -203,7 +149,7 @@
       "institution_signal:+20",
       "online_bonus:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Mohsen Bayati|2026-11-11T00:00:00-08:00",
+    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Alex Pentland|2026-11-11T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
@@ -246,7 +192,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD December 8, 2026 TBA Aayush Jain Carnegie Mellon Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD December 1, 2026 TBA Virginia Vassilevska Williams EECS Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
     "categories": [
       "Buildings"
     ],
@@ -444,7 +390,7 @@
   },
   {
     "title": "26 October -",
-    "start": "2027-05-28T00:00:00+02:00",
+    "start": "2027-05-29T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -466,13 +412,13 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "MCQST Events|26 October -|2027-05-28T00:00:00+02:00",
+    "uid_seed": "MCQST Events|26 October -|2027-05-29T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "26 October -",
-    "start": "2027-10-28T00:00:00+02:00",
+    "start": "2027-10-29T00:00:00+02:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": null,
@@ -494,39 +440,13 @@
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "Munich Quantum Center Events|26 October -|2027-10-28T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "The rapid acceleration of AI comes with a profound wave of anxiety",
-    "start": "2027-10-28T00:00:00-07:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "28",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 The rapid acceleration of AI comes with a profound wave of anxiety. Across every sector of society, people are facing unsettling questions about their worth and their place in a shifting world. October 28 2026 Confronting Our AI Future: Hope, Fear, and the Choices Ahead Oct 28, 2026 9:00 AM - 6:45 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|The rapid acceleration of AI comes with a profound wave of anxiety|2027-10-28T00:00:00-07:00",
+    "uid_seed": "Munich Quantum Center Events|26 October -|2027-10-29T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-10-28T00:00:00+01:00",
+    "start": "2544-10-29T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -546,13 +466,13 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-28T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-10-29T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ETH Zurich",
-    "start": "2544-10-28T00:00:00+01:00",
+    "start": "2544-10-29T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "January 19, 2027, 11:30",
@@ -572,7 +492,7 @@
       "institution_signal:+20",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-28T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ETH Zurich|2544-10-29T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
