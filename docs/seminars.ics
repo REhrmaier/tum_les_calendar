@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441031T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441030T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:5906e172995b4e0dcf0fdea1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
-DTEND:25441031T003000Z
-LOCATION:TBA
-DTSTART:25441030T230000Z
-SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
-UID:3caf62c3b086ce53e1c795fd@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
+DTEND:20271101T083000Z
+LOCATION:09
+DTSTART:20271101T070000Z
+SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
+UID:8f7b38fd65726f8a629994a3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
@@ -49,6 +41,14 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441101T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441031T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:8881e1909a52a73907b29d02@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich Nov 09\, 2026 4:30 PM - 5:30 PM This in-person event is open to current Stanford faculty\, students\, and staff . ID will be required at check in. Other guests are invi
 DTEND:20261109T093000Z
 LOCATION:4:30 PM - 5:30 PM
@@ -71,6 +71,14 @@ LOCATION:CH 26411
 DTSTART:20261201T161500Z
 SUMMARY:[Energy] Materials for Energy Conversion: Organic Semiconductors for Photovoltaic and Photocatalytic Applications — Prof. Frédéric Laquai
 UID:9d86adba60dd4d8bfd47700e@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: January 19\, 2027\, 11:30\nAffiliation: Luis Sarmiento\nLocation: TBA\nScore: 95\nScore reasons: source_weight:60\; institution_signal:+20\; local_bonus:+15\nExcerpt: Speaker: January 19\, 2027\, 11:30. Affiliation: Luis Sarmiento. TBA
+DTEND:25441101T003000Z
+LOCATION:TBA
+DTSTART:25441031T230000Z
+SUMMARY:[General High Impact] ETH Zurich — January 19\, 2027\, 11:30
+UID:825e8907c212ab828009a6ef@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 6:00 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM Please note that this event is open to Stanford affiliates only. Data Science Daniel Wurgaft | A Resource Rational Analysis of Representations: Geometry\, Infer
@@ -120,6 +128,13 @@ SUMMARY:[Buildings] Building the Liver Ecosystem to Study Regeneration\, Fibrosi
 UID:e8a8e620acf58dd39db907e1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 5 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadershi
+DTEND:20270430T233000Z
+DTSTART:20270430T220000Z
+SUMMARY:[Quantum] 26 October -
+UID:0528fd2c7366cf1dda0c815d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
 DTEND:20261124T120000Z
 LOCATION:TUM School of Management\, Room
@@ -136,19 +151,11 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Ruijiang Li
 UID:83c59c47ee52f347f4862356@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
-DTEND:20261130T093000Z
-LOCATION:09
-DTSTART:20261130T080000Z
-SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
-UID:60e428087e35c0ca17b135d3@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 5 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadershi
-DTEND:20270530T233000Z
-DTSTART:20270530T220000Z
+DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 10 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 4 November 2026 MCQST Colloquium: Norman Yao MCQST Colloquium | Events
+DTEND:20270930T233000Z
+DTSTART:20270930T220000Z
 SUMMARY:[Quantum] 26 October -
-UID:73b9eaf76cfca324a9bdc668@tum-les-calendar
+UID:ae4c2869d9affb1ef7fe9ea8@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics\, using classical and quantum simulation to push beyond cl
@@ -163,12 +170,5 @@ DTEND:20261103T220000Z
 DTSTART:20261103T210000Z
 SUMMARY:[Math] How Dogs Work With Us: Understanding Attention and Collaboration Across Species
 UID:f1d1f6af289e63a10eb4ff37@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 10 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 4 November 2026 MCQST Colloquium: Norman Yao MCQST Colloquium | Events
-DTEND:20271030T233000Z
-DTSTART:20271030T220000Z
-SUMMARY:[Quantum] 26 October -
-UID:a2bd8304a14d09efc319ef80@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
