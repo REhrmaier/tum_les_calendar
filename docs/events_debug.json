@@ -236,6 +236,32 @@
     "reject_reasons": []
   },
   {
+    "title": "15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle",
+    "start": "2026-11-12T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "Munich Quantum Center Events",
+    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
+    "description": "12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Physik und Quantentechnologien zu begeistern. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "topic_bonus:+30:quantum",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "Munich Quantum Center Events|15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle|2026-11-12T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development",
     "start": "2026-11-17T12:00:00-05:00",
     "end": "2026-11-17T13:00:00-05:00",
@@ -444,64 +470,8 @@
     "reject_reasons": []
   },
   {
-    "title": "26 October -",
-    "start": "2027-05-01T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "5 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 29 October 2026 Leadership in the Context of Diversity Diversity in Leadership | EDI",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "local_bonus:+15",
-      "penalty:-15:weak_title_no_speaker"
-    ],
-    "uid_seed": "MCQST Events|26 October -|2027-05-01T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "26 October -",
-    "start": "2027-10-01T00:00:00+02:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "10 26 October - 27 October 2026 Quantum Talents Symposium Munich 2026 Symposium for showcasing groundbreaking research and fostering scientific exchange. Read More 4 November 2026 MCQST Colloquium: Norman Yao MCQST Colloquium | Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "local_bonus:+15",
-      "penalty:-15:weak_title_no_speaker"
-    ],
-    "uid_seed": "Munich Quantum Center Events|26 October -|2027-10-01T00:00:00+02:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Please note that this event is open to Stanford affiliates only.",
-    "start": "2027-11-01T00:00:00-07:00",
+    "start": "2027-11-02T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -520,13 +490,13 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-01T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-02T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-01T00:00:00+01:00",
+    "start": "2544-11-02T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -546,33 +516,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-01T00:00:00+01:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "ETH Zurich",
-    "start": "2544-11-01T00:00:00+01:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": "January 19, 2027, 11:30",
-    "affiliation": "Luis Sarmiento",
-    "location": "TBA",
-    "online_url": null,
-    "source_name": "TUM SEEM",
-    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
-    "description": "Speaker: January 19, 2027, 11:30. Affiliation: Luis Sarmiento. TBA",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 95,
-    "score_reasons": [
-      "source_weight:60",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM SEEM|ETH Zurich|2544-11-01T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-02T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
