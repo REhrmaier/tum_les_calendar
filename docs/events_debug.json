@@ -194,15 +194,15 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Seminar",
+    "description": "2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges Seminar",
     "categories": [
       "AI"
     ],
-    "score": 95,
+    "score": 100,
     "score_reasons": [
       "source_weight:55",
-      "institution_signal:+20",
-      "online_bonus:+20"
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Alex Pentland|2026-11-11T00:00:00-08:00",
     "include": true,
@@ -247,7 +247,7 @@
     "source_name": "Munich Quantum Center Events",
     "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
     "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Physik und Quantentechnologien zu begeistern. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More",
+    "description": "12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Physik und Quantentechnologien zu begeistern. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More Also seen in: MCQST Events",
     "categories": [
       "Quantum"
     ],
@@ -258,6 +258,59 @@
       "local_bonus:+15"
     ],
     "uid_seed": "Munich Quantum Center Events|15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle|2026-11-12T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges",
+    "start": "2026-11-13T00:00:00-08:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "1:00 PM - 2:15 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges Nov 13, 2026 1:00 PM - 2:15 PM An AI Measurement Science (AIMS) Seminar Series Data Science Special Seminar and Fireside Chat: Understanding Work Using AI Nov 13, 2026",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges|2026-11-13T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Christopher Ong | Research Acceleration: The View Inside OpenAI",
+    "start": "2026-11-16T00:00:00-08:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "speaker": null,
+    "affiliation": null,
+    "location": "12:00 PM - 1:00 PM",
+    "online_url": null,
+    "source_name": "Stanford HAI Events Main",
+    "source_url": "https://hai.stanford.edu/events",
+    "event_url": "https://hai.stanford.edu/events",
+    "description": "2026 Christopher Ong | Research Acceleration: The View Inside OpenAI Nov 16, 2026 12:00 PM - 1:00 PM In the last year, AI models have rapidly improved on public benchmarks measuring their ability to carry out research tasks autonomously. Such performance suggests that models may be capable of automating parts of the AI R&D process itself, thereby accelerating the pace of AI progress. Machine Learning Industry, Innovation AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Also seen in: Stanford HAI Events Main",
+    "categories": [
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "institution_signal:+20",
+      "online_bonus:+20"
+    ],
+    "uid_seed": "Stanford HAI Events Main|Christopher Ong | Research Acceleration: The View Inside OpenAI|2026-11-16T00:00:00-08:00",
     "include": true,
     "reject_reasons": []
   },
@@ -471,7 +524,7 @@
   },
   {
     "title": "Please note that this event is open to Stanford affiliates only.",
-    "start": "2027-11-02T00:00:00-07:00",
+    "start": "2027-11-03T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -490,13 +543,13 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-02T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-03T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-02T00:00:00+01:00",
+    "start": "2544-11-03T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -516,7 +569,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-02T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-03T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }

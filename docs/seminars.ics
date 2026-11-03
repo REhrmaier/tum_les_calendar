@@ -2,7 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
+DTEND:20271103T083000Z
+LOCATION:09
+DTSTART:20271103T070000Z
+SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
+UID:057c8c3aefa3d7c53a81e9f1@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTEND:20261111T093000Z
 LOCATION:4:30 PM - 5:30 PM
 DTSTART:20261111T080000Z
@@ -15,14 +23,6 @@ DTEND:20261110T091500Z
 DTSTART:20261110T083000Z
 SUMMARY:[Quantum] Malcolm Levitt (U Southampton\, UK): "Double-quantum excitation in solution NMR using weird quantum properties"
 UID:3b210d2da6be575e4a109edf@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441102T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441101T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:012d25ab755156e575d1b91b@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third AI100 report\, AI Goes Mainstream: The Scaling Era and the Rise of Generative AI\,
@@ -47,6 +47,14 @@ LOCATION:4:30 PM - 5:30 PM
 DTSTART:20261109T080000Z
 SUMMARY:[AI] HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich
 UID:cc125a2f06ccc981a23d9bfa@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 1:00 PM - 2:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges Nov 13\, 2026 1:00 PM - 2:15 PM An AI Measurement Science (AIMS) Seminar Series Data Science Special Seminar and Fireside Chat: Understanding Work Using AI Nov 13\, 2026
+DTEND:20261113T093000Z
+LOCATION:1:00 PM - 2:15 PM
+DTSTART:20261113T080000Z
+SUMMARY:[AI] Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges
+UID:9a22e9708ec3652e960bf726@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Daniel Wurgaft | A Resource Rational Analysis of Representations: Geometry\, Inference\, Capacity Nov 09\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science HAI & AI Governance Lab | A Conversation with J
@@ -112,6 +120,14 @@ SUMMARY:[Buildings] Building the Liver Ecosystem to Study Regeneration\, Fibrosi
 UID:e8a8e620acf58dd39db907e1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441103T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441102T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:096ccfdd890642bc617b15df@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
 DTEND:20261124T120000Z
 LOCATION:TUM School of Management\, Room
@@ -142,12 +158,12 @@ SUMMARY:[Quantum] SimQuDyn 2026 Conference
 UID:92ff555fe03701871eb6a9bc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
-DTEND:20271102T083000Z
-LOCATION:09
-DTSTART:20271102T070000Z
-SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
-UID:6441e27db8ce90586cca8ee6@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Christopher Ong | Research Acceleration: The View Inside OpenAI Nov 16\, 2026 12:00 PM - 1:00 PM In the last year\, AI models have rapidly improved on public benchmarks measuring their ability to carry out research tasks autonomously. Su
+DTEND:20261116T093000Z
+LOCATION:12:00 PM - 1:00 PM
+DTSTART:20261116T080000Z
+SUMMARY:[AI] Christopher Ong | Research Acceleration: The View Inside OpenAI
+UID:ee88024c5e867a27d87658e7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; penalty:-25:exam\nExcerpt: How Dogs Work With Us: Understanding Attention and Collaboration Across Species Abstract:&nbsp\;Dogs are familiar companions and working partners\, but how do they understand our collaborative interactions? Which features of joint attention a
