@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
-DTEND:20271103T083000Z
-LOCATION:09
-DTSTART:20271103T070000Z
-SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
-UID:057c8c3aefa3d7c53a81e9f1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
 DTEND:20261111T093000Z
 LOCATION:4:30 PM - 5:30 PM
@@ -39,6 +31,14 @@ LOCATION:4:30 PM - 5:30 PM
 DTSTART:20261118T080000Z
 SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
 UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2027 2027 Conference on Physics and AI (PhyStat 2027) May 24\, 2027 The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data
+DTEND:20270524T083000Z
+LOCATION:The
+DTSTART:20270524T070000Z
+SUMMARY:[AI] 2027 Conference on Physics and AI (PhyStat 2027)
+UID:651a6d02b1cd1148ade842b3@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 95\nScore reasons: source_weight:55\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich Nov 09\, 2026 4:30 PM - 5:30 PM This in-person event is open to current Stanford faculty\, students\, and staff . ID will be required at check in. Other guests are invi
@@ -88,6 +88,14 @@ SUMMARY:[Buildings] CSAIL FORUM with Daniel Jackson: The Key to Agentic Software
 UID:b3ffd24af977e986ad4b98cf@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
+DTEND:20271104T083000Z
+LOCATION:09
+DTSTART:20271104T070000Z
+SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
+UID:46e4718d6288b15205c48864@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 8:30 AM - 5:00 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 2026 SC2 Student Conference Nov 06\, 2026 8:30 AM - 5:00 PM Please note that this event is open to Stanford affiliates only or by invitation. Data Science Center for Decoding the Universe Fall Forum Nov 09\, 2026
 DTEND:20261106T093000Z
 LOCATION:8:30 AM - 5:00 PM
@@ -104,7 +112,7 @@ SUMMARY:[AI] Marlowe | AI + Data for Science with Leonidas Guibas
 UID:ef766469afc070658d8c7512@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science Featured Videos Hear from speakers and attendees at recent Stanford HAI e
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science 2027 Conference on Physics and AI (PhyStat 2027) Conference
 DTEND:20261214T093000Z
 LOCATION:4:00 PM - 5:30 PM
 DTSTART:20261214T080000Z
@@ -120,28 +128,12 @@ SUMMARY:[Buildings] Building the Liver Ecosystem to Study Regeneration\, Fibrosi
 UID:e8a8e620acf58dd39db907e1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441103T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441102T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:096ccfdd890642bc617b15df@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
 DTEND:20261124T120000Z
 LOCATION:TUM School of Management\, Room
 DTSTART:20261124T103000Z
 SUMMARY:[General High Impact] Water availability for electrolysis: A case study for Germany in 2045 — Franziska Holz
 UID:194bb153a7e17eac7aac8cc1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Ruijiang Li Nov 04\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers. Da
-DTEND:20261104T093000Z
-LOCATION:4:30 PM - 5:30 PM
-DTSTART:20261104T080000Z
-SUMMARY:[AI] Marlowe | AI + Data for Science with Ruijiang Li
-UID:83c59c47ee52f347f4862356@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Ph
@@ -166,10 +158,11 @@ SUMMARY:[AI] Christopher Ong | Research Acceleration: The View Inside OpenAI
 UID:ee88024c5e867a27d87658e7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; penalty:-25:exam\nExcerpt: How Dogs Work With Us: Understanding Attention and Collaboration Across Species Abstract:&nbsp\;Dogs are familiar companions and working partners\, but how do they understand our collaborative interactions? Which features of joint attention a
-DTEND:20261103T220000Z
-DTSTART:20261103T210000Z
-SUMMARY:[Math] How Dogs Work With Us: Understanding Attention and Collaboration Across Species
-UID:f1d1f6af289e63a10eb4ff37@tum-les-calendar
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441104T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441103T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:3367ece92b4105ad80da357d@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
