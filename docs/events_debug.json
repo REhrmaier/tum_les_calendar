@@ -273,7 +273,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD TBA William Hoza University of Chicago Part Of Theory of Computation (ToC) 2025 - 2026 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD TBA William Hoza University of Chicago Part Of Theory of Computation (ToC) 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
     "categories": [
       "Buildings"
     ],
@@ -498,7 +498,7 @@
   },
   {
     "title": "Please note that this event is open to Stanford affiliates only.",
-    "start": "2027-11-04T00:00:00-07:00",
+    "start": "2027-11-05T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -517,13 +517,13 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-04T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-05T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-04T00:00:00+01:00",
+    "start": "2544-11-05T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -543,7 +543,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-04T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-05T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
