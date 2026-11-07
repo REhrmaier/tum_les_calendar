@@ -112,20 +112,28 @@ SUMMARY:[Buildings] Building the Liver Ecosystem to Study Regeneration\, Fibrosi
 UID:e8a8e620acf58dd39db907e1@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
+DTEND:20271107T083000Z
+LOCATION:09
+DTSTART:20271107T070000Z
+SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
+UID:c2cfd35e1584fa752e9b5035@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441107T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441106T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:d57c2d1ecf5829e38a0df025@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
 DTEND:20261124T120000Z
 LOCATION:TUM School of Management\, Room
 DTSTART:20261124T103000Z
 SUMMARY:[General High Impact] Water availability for electrolysis: A case study for Germany in 2045 — Franziska Holz
 UID:194bb153a7e17eac7aac8cc1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Christopher Ong | Research Acceleration: The View Inside OpenAI Nov 16\, 2026 12:00 PM - 1:00 PM In the last year\, AI models have rapidly improved on public benchmarks measuring their ability to carry out research tasks autonomously. Su
-DTEND:20261116T093000Z
-LOCATION:12:00 PM - 1:00 PM
-DTSTART:20261116T080000Z
-SUMMARY:[AI] Christopher Ong | Research Acceleration: The View Inside OpenAI
-UID:ee88024c5e867a27d87658e7@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Ph
@@ -142,19 +150,11 @@ SUMMARY:[Quantum] SimQuDyn 2026 Conference
 UID:92ff555fe03701871eb6a9bc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 09\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09\, 2026 12:00 PM - 6:00 PM
-DTEND:20271106T083000Z
-LOCATION:09
-DTSTART:20271106T070000Z
-SUMMARY:[AI] Please note that this event is open to Stanford affiliates only.
-UID:d0a4746db9acea8ebb55ff5b@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441106T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441105T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:1b92986a81cf7e9fd814638c@tum-les-calendar
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:00 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 Christopher Ong | Research Acceleration: The View Inside OpenAI Nov 16\, 2026 12:00 PM - 1:00 PM In the last year\, AI models have rapidly improved on public benchmarks measuring their ability to carry out research tasks autonomously. Su
+DTEND:20261116T093000Z
+LOCATION:12:00 PM - 1:00 PM
+DTSTART:20261116T080000Z
+SUMMARY:[AI] Christopher Ong | Research Acceleration: The View Inside OpenAI
+UID:ee88024c5e867a27d87658e7@tum-les-calendar
 END:VEVENT
 END:VCALENDAR

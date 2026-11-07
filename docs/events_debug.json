@@ -473,7 +473,7 @@
   },
   {
     "title": "Please note that this event is open to Stanford affiliates only.",
-    "start": "2027-11-06T00:00:00-07:00",
+    "start": "2027-11-07T00:00:00-07:00",
     "end": null,
     "timezone": "America/Los_Angeles",
     "speaker": null,
@@ -492,13 +492,13 @@
       "source_weight:55",
       "institution_signal:+20"
     ],
-    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-06T00:00:00-07:00",
+    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-07T00:00:00-07:00",
     "include": true,
     "reject_reasons": []
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-06T00:00:00+01:00",
+    "start": "2544-11-07T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -518,7 +518,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-06T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-07T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
