@@ -1,32 +1,5 @@
 [
   {
-    "title": "Malcolm Levitt (U Southampton, UK): \"Double-quantum excitation in solution NMR using weird quantum properties\"",
-    "start": "2026-11-10T09:30:00+01:00",
-    "end": "2026-11-10T10:15:00+01:00",
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "TUM Natural Sciences Events",
-    "source_url": "https://www.nat.tum.de/en/nat/latest/events/",
-    "event_url": "https://www.bnmrz.org/",
-    "description": "as part of Lecture Series: Bayerisches NMR Zentrum (BNMRZ) TUM-IAS Auditorium",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 85,
-    "score_reasons": [
-      "source_weight:20",
-      "topic_bonus:+30:quantum",
-      "institution_signal:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM Natural Sciences Events|https://www.bnmrz.org/|Malcolm Levitt (U Southampton, UK): \"Double-quantum excitation in solution NMR using weird quantum properties\"|2026-11-10T09:30:00+01:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Marlowe | AI + Data for Science with Alex Pentland",
     "start": "2026-11-11T00:00:00-08:00",
     "end": null,
@@ -170,7 +143,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD TBA William Hoza University of Chicago Part Of Theory of Computation (ToC) 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD HCI Seminar - Max Kreminski - Six Fingers on the Author’s Hand Max Kreminski Cornell Tech Part Of HCI Seminar 4:00 P - 5:00 P Location 32-D463",
     "categories": [
       "Buildings"
     ],
@@ -233,6 +206,34 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Andreas Tolias|2026-11-18T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "GPU-Native Data Management: Memory, Scheduling, and Beyond",
+    "start": "2026-11-18T13:00:00-05:00",
+    "end": "2026-11-18T14:00:00-05:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "GPU-Native Data Management: Memory, Scheduling, and Beyond Abstract:GPUs excel at massively parallel computation, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unpredictable output sizes, such as string processing, graph kernels, joins, and group-bys, often need extra passes or conservative pre-allocation, and this CPU control path becomes a bottleneck as GPUs get faster and workloads become more dynamic.This talk presents two systems that move these responsibilities onto the GPU. Gallatin is a GPU-native memory manager that lets thousands of threads allocate and free variable-sized objects directly from within kernels. Andes builds on Gallatin to provide a GPU-resident task runtime that schedules and executes fine-grained tasks without returning to the CPU, running over 4× faster on average than hand-tuned GPU implementations. We also develop Andes-DB, running TPC-H and SSB SQL queries using Andes runtime on GPU. I will also briefly discuss how the same ideas carry over to Jasper for dynamic GPU-native vector search, Directional Beam Search for vector indexes larger than GPU memory, and InferScale for faster personalized LLM serving.&nbsp;Together, these systems explore a shift from using GPUs primarily as compute accelerators toward making them responsible for managing their own memory, work, and data.Bio:Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on building scalable data systems with strong theoretical foundations, spanning data structure design, high-performance and GPU systems, and applications in vector search, LLM serving, and computational biology. His work has received a Best of SIGMOD 2026 paper award, an ALENEX 2026 Best Artifact Award, and FAST 2016 Best Paper Award. He is a recipient of the NSF Elements Award 2025, NSF CAREER Award 2024, and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing 2023. Before joining Northeastern, he was a research scientist at VMware Research and a postdoctoral researcher at UC Berkeley and Carnegie Mellon University. TBD December 1, 2026 TBA Virginia Vassilevska Williams EECS Part Of Theory of Computation (ToC) 4:15 P - 5:15 P Location 32-G449 Refreshments at 4:00 PM",
+    "categories": [
+      "Buildings",
+      "AI"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:artificial intelligence",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MIT CSAIL Events|GPU-Native Data Management: Memory, Scheduling, and Beyond|2026-11-18T13:00:00-05:00",
     "include": true,
     "reject_reasons": []
   },
@@ -340,7 +341,7 @@
     "reject_reasons": []
   },
   {
-    "title": "Mentoring Program 2027 Kick-Off Workshop",
+    "title": "Mentoring Program 2027: Kick-Off Workshop",
     "start": "2027-02-11T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
@@ -351,7 +352,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "11 February 2027 Mentoring Program 2027 Kick-Off Workshop EDI Read More 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Read More 22 March - 25 March 2027",
+    "description": "11 February 2027 Mentoring Program 2027: Kick-Off Workshop EDI Read More 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Read More 22 March - 25 March 2027",
     "categories": [
       "Quantum"
     ],
@@ -361,7 +362,7 @@
       "topic_bonus:+30:quantum",
       "local_bonus:+15"
     ],
-    "uid_seed": "MCQST Events|Mentoring Program 2027 Kick-Off Workshop|2027-02-11T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Mentoring Program 2027: Kick-Off Workshop|2027-02-11T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
@@ -447,33 +448,8 @@
     "reject_reasons": []
   },
   {
-    "title": "Please note that this event is open to Stanford affiliates only.",
-    "start": "2027-11-09T00:00:00-08:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "09",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Please note that this event is open to Stanford affiliates only. November 09 2026 Center for Decoding the Universe Fall Forum Nov 09, 2026 12:00 PM - 6:00 PM",
-    "categories": [
-      "AI"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:55",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Please note that this event is open to Stanford affiliates only.|2027-11-09T00:00:00-08:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "ZEW Mannheim",
-    "start": "2544-11-09T00:00:00+01:00",
+    "start": "2544-11-10T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -493,7 +469,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-09T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-10T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
