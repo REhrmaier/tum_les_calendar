@@ -1,31 +1,5 @@
 [
   {
-    "title": "Marlowe | AI + Data for Science with Alex Pentland",
-    "start": "2026-11-11T00:00:00-08:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "4:30 PM - 5:30 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Marlowe | AI + Data for Science with Alex Pentland Nov 11, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker; talk titles are announced by the organizers. Data Science Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges Seminar",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Alex Pentland|2026-11-11T00:00:00-08:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging",
     "start": "2026-11-11T13:00:00+01:00",
     "end": "2026-11-11T14:00:00+01:00",
@@ -352,7 +326,32 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "11 February 2027 Mentoring Program 2027: Kick-Off Workshop EDI Read More 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Read More 22 March - 25 March 2027",
+    "description": "11 February 2027 Mentoring Program 2027: Kick-Off Workshop EDI Workshop for the Mentoring Program 2027 cohort. Read More 15 February 2027 Inclusive Leadership EDI In this interactive workshop, participants will explore how unconscious bias, privilege, and structural inequalities influence everyday experiences in academia. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Mentoring Program 2027: Kick-Off Workshop|2027-02-11T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Inclusive Leadership",
+    "start": "2027-02-15T00:00:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "15 February 2027 Inclusive Leadership EDI In this interactive workshop, participants will explore how unconscious bias, privilege, and structural inequalities influence everyday experiences in academia. Read More 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Workshop for the Mentoring Program 2027 cohort Read More",
     "categories": [
       "Quantum"
     ],
@@ -360,9 +359,11 @@
     "score_reasons": [
       "source_weight:60",
       "topic_bonus:+30:quantum",
-      "local_bonus:+15"
+      "institution_signal:+20",
+      "local_bonus:+15",
+      "penalty:-15:weak_title_no_speaker"
     ],
-    "uid_seed": "MCQST Events|Mentoring Program 2027: Kick-Off Workshop|2027-02-11T00:00:00+01:00",
+    "uid_seed": "MCQST Events|Inclusive Leadership|2027-02-15T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   },
@@ -378,7 +379,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Read More 22 March - 25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics, using classical and quantum simulation to push beyond classical simulability.",
+    "description": "8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Workshop for the Mentoring Program 2027 cohort Read More 22 March - 25 March 2027 SimQuDyn 2026 Conference Events | Conferences",
     "categories": [
       "Quantum"
     ],
@@ -386,7 +387,6 @@
     "score_reasons": [
       "source_weight:60",
       "topic_bonus:+30:quantum",
-      "institution_signal:+20",
       "local_bonus:+15"
     ],
     "uid_seed": "MCQST Events|Mentoring Program 2027: You Belong in Quantum|2027-03-08T00:00:00+01:00",
@@ -405,7 +405,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics, using classical and quantum simulation to push beyond classical simulability. Read More Load More Past Events Browse all past events organized by MCQST or its partner institutions. Events Archive",
+    "description": "25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics, using classical and quantum simulation to push beyond classical simulability. Read More 7 April 2027 Conflict Regulation and Leading Difficult Conversations in Academia EDI This interactive workshop equips doctoral researchers and postdocs with practical tools to approach challenging conversations constructively and confidently.",
     "categories": [
       "Quantum"
     ],
@@ -413,11 +413,62 @@
     "score_reasons": [
       "source_weight:60",
       "topic_bonus:+30:quantum",
+      "high_impact:+50",
       "institution_signal:+20",
       "local_bonus:+15",
       "penalty:-15:weak_title_no_speaker"
     ],
     "uid_seed": "MCQST Events|SimQuDyn 2026 Conference|2027-03-25T00:00:00+01:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Conflict Regulation and Leading Difficult Conversations in Academia",
+    "start": "2027-04-07T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "7 April 2027 Conflict Regulation and Leading Difficult Conversations in Academia EDI This interactive workshop equips doctoral researchers and postdocs with practical tools to approach challenging conversations constructively and confidently. Read More 3 May 2027 Gender and Science: Why and How Does Their Interplay Matter? EDI Prof. Dr. Paula Irene Villa Braslavskys research explores gender, science and technology, the body, biopolitics, care, and social inequality, with a particular interest in the intersections of sex, gender, and scientific knowledge. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50"
+    ],
+    "uid_seed": "MCQST Events|Conflict Regulation and Leading Difficult Conversations in Academia|2027-04-07T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Gender and Science: Why and How Does Their Interplay Matter?",
+    "start": "2027-05-03T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "3 May 2027 Gender and Science: Why and How Does Their Interplay Matter? EDI Prof. Dr. Paula Irene Villa Braslavskys research explores gender, science and technology, the body, biopolitics, care, and social inequality, with a particular interest in the intersections of sex, gender, and scientific knowledge. Read More 10 June 2027 Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills EDI In this workshop, you will become familiar with the concept, structure and roles of peer group supervision and put the method into practice through interactive exercises and a demonstration session. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Gender and Science: Why and How Does Their Interplay Matter?|2027-05-03T00:00:00+02:00",
     "include": true,
     "reject_reasons": []
   },
@@ -448,8 +499,85 @@
     "reject_reasons": []
   },
   {
+    "title": "Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills",
+    "start": "2027-06-10T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "10 June 2027 Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills EDI In this workshop, you will become familiar with the concept, structure and roles of peer group supervision and put the method into practice through interactive exercises and a demonstration session. Read More 20 July 2027 Wellbeing: Supporting Ourselves and Others EDI This interactive workshop helps PhD researchers and postdocs build practical tools for managing their own mental and emotional wellbeing while supporting students, peers, and colleagues. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:60",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills|2027-06-10T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Wellbeing: Supporting Ourselves and Others",
+    "start": "2027-07-20T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "20 July 2027 Wellbeing: Supporting Ourselves and Others EDI This interactive workshop helps PhD researchers and postdocs build practical tools for managing their own mental and emotional wellbeing while supporting students, peers, and colleagues. Read More 21 October 2027 Peer Group Supervision Follow-Up EDI In this follow-up workshop, you will reflect on your experiences with peer group supervision since the initial workshop, share challenges and good practices, and explore additional consultation methods and questioning techniques. Read More",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Wellbeing: Supporting Ourselves and Others|2027-07-20T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Peer Group Supervision Follow-Up",
+    "start": "2027-10-21T00:00:00+02:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MCQST Events",
+    "source_url": "https://www.mcqst.de/news-and-events/events/",
+    "event_url": "https://www.mcqst.de/news-and-events/events/",
+    "description": "21 October 2027 Peer Group Supervision Follow-Up EDI In this follow-up workshop, you will reflect on your experiences with peer group supervision since the initial workshop, share challenges and good practices, and explore additional consultation methods and questioning techniques. Read More Load More Past Events Browse all past events organized by MCQST or its partner institutions. Events Archive Scroll to top",
+    "categories": [
+      "Quantum"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:60",
+      "high_impact:+50",
+      "institution_signal:+20"
+    ],
+    "uid_seed": "MCQST Events|Peer Group Supervision Follow-Up|2027-10-21T00:00:00+02:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "ZEW Mannheim",
-    "start": "2544-11-10T00:00:00+01:00",
+    "start": "2544-11-11T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -469,7 +597,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-10T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-11T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
