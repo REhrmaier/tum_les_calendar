@@ -100,22 +100,6 @@ SUMMARY:[Quantum] Peer Group Supervision â Developing Solutions Together an
 UID:4eb53ee8b3e991ecfa468f65@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: Prof. Dr. Anna Dowbaj\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Anna Dowbaj on “Building the Liver Ecosystem to Study Regeneration\, Fibrosis and Aging”
-DTEND:20261111T130000Z
-LOCATION:Online
-DTSTART:20261111T120000Z
-SUMMARY:[Buildings] Building the Liver Ecosystem to Study Regeneration\, Fibrosis and Aging — Prof. Dr. Anna Dowbaj
-UID:e8a8e620acf58dd39db907e1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441111T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441110T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:e93694aafb7222e4e5755485@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
 DTEND:20261124T120000Z
 LOCATION:TUM School of Management\, Room
@@ -138,11 +122,12 @@ SUMMARY:[Quantum] Conflict Regulation and Leading Difficult Conversations in Aca
 UID:3934cd89dbb6d8bf70088fbb@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Munich Quantum Center Events\nSource URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nEvent URL: https://www.munich-quantum-center.de/news-and-events/events/index.html\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Ph
-DTEND:20261112T003000Z
-DTSTART:20261111T230000Z
-SUMMARY:[Quantum] 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle
-UID:15eba529029dd13e58f05170@tum-les-calendar
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441112T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441111T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:62389518f4e6dd25fdf6545d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 20 July 2027 Wellbeing: Supporting Ourselves and Others EDI This interactive workshop helps PhD researchers and postdocs build practical tools for managing their own mental and emotional wellbeing while supporting students\, peers\, and colle
@@ -157,6 +142,14 @@ DTEND:20270325T003000Z
 DTSTART:20270324T230000Z
 SUMMARY:[Quantum] SimQuDyn 2026 Conference
 UID:92ff555fe03701871eb6a9bc@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM IAS Wednesday Coffee Talks\nSource URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nEvent URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nOnline URL: https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/\nSpeaker: TUM-IAS Fellow Prof. Dr. Cornelius Senf\nAffiliation: \nLocation: Online\nScore: 100\nScore reasons: source_weight:65\; institution_signal:+20\; online_bonus:+20\; local_bonus:+15\nExcerpt: Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Cornelius Senf on “Understanding Europe’s declining Forest Carbon Sink from Space”
+DTEND:20261202T130000Z
+LOCATION:Online
+DTSTART:20261202T120000Z
+SUMMARY:[General High Impact] Understanding Europe’s declining Forest Carbon Sink from Space — TUM-IAS Fellow Prof. Dr. Cornelius Senf
+UID:e99b88699b64a5fea4abd5c0@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 15 February 2027 Inclusive Leadership EDI In this interactive workshop\, participants will explore how unconscious bias\, privilege\, and structural inequalities influence everyday experiences in academia. Read More 8 March 2027 Mentoring Prog

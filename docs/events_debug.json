@@ -1,58 +1,5 @@
 [
   {
-    "title": "Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging",
-    "start": "2026-11-11T13:00:00+01:00",
-    "end": "2026-11-11T14:00:00+01:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "Prof. Dr. Anna Dowbaj",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Anna Dowbaj on “Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging”",
-    "categories": [
-      "Buildings"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|11.11.2026|Building the Liver Ecosystem to Study Regeneration, Fibrosis and Aging|Prof. Dr. Anna Dowbaj",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle",
-    "start": "2026-11-12T00:00:00+01:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "Munich Quantum Center Events",
-    "source_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "event_url": "https://www.munich-quantum-center.de/news-and-events/events/index.html",
-    "description": "12 November 2026 15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle Public Events 27.000 SchÃ¼lerinnen und SchÃ¼ler. Mehr als 650 fortgebildete LehrkrÃ¤fte. Rund 30 Experimente â und seit 15 Jahren ein gemeinsames Ziel: Junge Menschen fÃ¼r Physik und Quantentechnologien zu begeistern. Read More 12 November 2026 PhD CafÃ© PhD Events A space for open conversations for PhD candidates. Read More Also seen in: MCQST Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:60",
-      "topic_bonus:+30:quantum",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "Munich Quantum Center Events|15 Jahre PhotonLab - JubilÃ¤umsfeier fÃ¼r Alle|2026-11-12T00:00:00+01:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Khaoula Chehbouni | Best Practices for the Use of LLMs as Judges",
     "start": "2026-11-13T00:00:00-08:00",
     "end": null,
@@ -285,6 +232,33 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Leonidas Guibas|2026-12-02T00:00:00-08:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Understanding Europe’s declining Forest Carbon Sink from Space",
+    "start": "2026-12-02T13:00:00+01:00",
+    "end": "2026-12-02T14:00:00+01:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "TUM-IAS Fellow Prof. Dr. Cornelius Senf",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Cornelius Senf on “Understanding Europe’s declining Forest Carbon Sink from Space”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|02.12.2026|Understanding Europe’s declining Forest Carbon Sink from Space|TUM-IAS Fellow Prof. Dr. Cornelius Senf",
     "include": true,
     "reject_reasons": []
   },
@@ -577,7 +551,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-11T00:00:00+01:00",
+    "start": "2544-11-12T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -597,7 +571,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-11T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-12T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
