@@ -1,32 +1,5 @@
 [
   {
-    "title": "Christopher Ong | Research Acceleration: The View Inside OpenAI",
-    "start": "2026-11-16T00:00:00-08:00",
-    "end": null,
-    "timezone": "America/Los_Angeles",
-    "speaker": null,
-    "affiliation": null,
-    "location": "12:00 PM - 1:00 PM",
-    "online_url": null,
-    "source_name": "Stanford HAI Events Main",
-    "source_url": "https://hai.stanford.edu/events",
-    "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 Christopher Ong | Research Acceleration: The View Inside OpenAI Nov 16, 2026 12:00 PM - 1:00 PM In the last year, AI models have rapidly improved on public benchmarks measuring their ability to carry out research tasks autonomously. Such performance suggests that models may be capable of automating parts of the AI R&D process itself, thereby accelerating the pace of AI progress. Machine Learning Industry, Innovation AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Also seen in: Stanford HAI Events Main",
-    "categories": [
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "Stanford HAI Events Main|Christopher Ong | Research Acceleration: The View Inside OpenAI|2026-11-16T00:00:00-08:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development",
     "start": "2026-11-17T12:00:00-05:00",
     "end": "2026-11-17T13:00:00-05:00",
@@ -116,7 +89,7 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "GPU-Native Data Management: Memory, Scheduling, and Beyond Abstract:GPUs excel at massively parallel computation, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unpredictable output sizes, such as string processing, graph kernels, joins, and group-bys, often need extra passes or conservative pre-allocation, and this CPU control path becomes a bottleneck as GPUs get faster and workloads become more dynamic.This talk presents two systems that move these responsibilities onto the GPU. Gallatin is a GPU-native memory manager that lets thousands of threads allocate and free variable-sized objects directly from within kernels. Andes builds on Gallatin to provide a GPU-resident task runtime that schedules and executes fine-grained tasks without returning to the CPU, running over 4× faster on average than hand-tuned GPU implementations. We also develop Andes-DB, running TPC-H and SSB SQL queries using Andes runtime on GPU. I will also briefly discuss how the same ideas carry over to Jasper for dynamic GPU-native vector search, Directional Beam Search for vector indexes larger than GPU memory, and InferScale for faster personalized LLM serving.&nbsp;Together, these systems explore a shift from using GPUs primarily as compute accelerators toward making them responsible for managing their own memory, work, and data.Bio:Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on building scalable data systems with strong theoretical foundations, spanning data structure design, high-performance and GPU systems, and applications in vector search, LLM serving, and computational biology. His work has received a Best of SIGMOD 2026 paper award, an ALENEX 2026 Best Artifact Award, and FAST 2016 Best Paper Award. He is a recipient of the NSF Elements Award 2025, NSF CAREER Award 2024, and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing 2023. Before joining Northeastern, he was a research scientist at VMware Research and a postdoctoral researcher at UC Berkeley and Carnegie Mellon University. TBD November 19, 2026 Synergies Between Proof Complexity and Cryptography Mandar Juvekar Boston University Part Of Algorithms and Complexity (A&C) 4:00 P - 5:00 P Location 32-G575",
+    "description": "GPU-Native Data Management: Memory, Scheduling, and Beyond Abstract:GPUs excel at massively parallel computation, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unpredictable output sizes, such as string processing, graph kernels, joins, and group-bys, often need extra passes or conservative pre-allocation, and this CPU control path becomes a bottleneck as GPUs get faster and workloads become more dynamic.This talk presents two systems that move these responsibilities onto the GPU. Gallatin is a GPU-native memory manager that lets thousands of threads allocate and free variable-sized objects directly from within kernels. Andes builds on Gallatin to provide a GPU-resident task runtime that schedules and executes fine-grained tasks without returning to the CPU, running over 4× faster on average than hand-tuned GPU implementations. We also develop Andes-DB, running TPC-H and SSB SQL queries using Andes runtime on GPU. I will also briefly discuss how the same ideas carry over to Jasper for dynamic GPU-native vector search, Directional Beam Search for vector indexes larger than GPU memory, and InferScale for faster personalized LLM serving.&nbsp;Together, these systems explore a shift from using GPUs primarily as compute accelerators toward making them responsible for managing their own memory, work, and data.Bio:Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on building scalable data systems with strong theoretical foundations, spanning data structure design, high-performance and GPU systems, and applications in vector search, LLM serving, and computational biology. His work has received a Best of SIGMOD 2026 paper award, an ALENEX 2026 Best Artifact Award, and FAST 2016 Best Paper Award. He is a recipient of the NSF Elements Award 2025, NSF CAREER Award 2024, and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing 2023. Before joining Northeastern, he was a research scientist at VMware Research and a postdoctoral researcher at UC Berkeley and Carnegie Mellon University. TBD November 19, 2026 Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) 12:00 P - 1:00 P Location 32-D463",
     "categories": [
       "Buildings",
       "AI"
@@ -125,11 +98,37 @@
     "score_reasons": [
       "source_weight:55",
       "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
       "high_impact:+50",
       "institution_signal:+20"
     ],
     "uid_seed": "MIT CSAIL Events|GPU-Native Data Management: Memory, Scheduling, and Beyond|2026-11-18T13:00:00-05:00",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)",
+    "start": "2026-11-19T12:00:00-05:00",
+    "end": "2026-11-19T13:00:00-05:00",
+    "timezone": "America/New_York",
+    "speaker": null,
+    "affiliation": null,
+    "location": null,
+    "online_url": null,
+    "source_name": "MIT CSAIL Events",
+    "source_url": "https://www.csail.mit.edu/events",
+    "event_url": "https://www.csail.mit.edu/events",
+    "description": "Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) Abstract: &nbsp;We develop a rigorous framework for choosing Gaussian mixture sources for diffusion and flow matching. A Gaussian mixture centered on the observations can be sampled directly near the data, leaving only finer denoising to learn. We characterize this source as the minimum of an entropy-regularized transport objective and relate it to the final part of a Gaussian-to-data Brownian entropic bridge. To retain fewer mixture components, we select a sparse source that preserves the resulting EOT training joint. For mixtures on the original centers with matched variance, a data-derived quadratic controls this joint KL globally at fixed noise and bounded center geometry. Positive moment matching selects a weighted subset of the n observations as mixture centers, with support O((\\log n/ \\log \\log n) d ) and joint KL o(n^{-1}).&nbsp;Speaker: &nbsp;Alex Kokot https://amkokot.github.io/alex_kokot/ TBD Synergies Between Proof Complexity and Cryptography Mandar Juvekar Boston University Part Of Algorithms and Complexity (A&C) 4:00 P - 5:00 P Location 32-G575",
+    "categories": [
+      "Math"
+    ],
+    "score": 80,
+    "score_reasons": [
+      "source_weight:55",
+      "topic_bonus:+30:quantum",
+      "institution_signal:+20",
+      "penalty:-25:exam"
+    ],
+    "uid_seed": "MIT CSAIL Events|Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)|2026-11-19T12:00:00-05:00",
     "include": true,
     "reject_reasons": []
   },
@@ -580,7 +579,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-15T00:00:00+01:00",
+    "start": "2544-11-16T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -600,7 +599,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-15T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-16T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
