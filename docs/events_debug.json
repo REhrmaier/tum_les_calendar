@@ -11,9 +11,10 @@
     "source_name": "MIT CSAIL Events",
     "source_url": "https://www.csail.mit.edu/events",
     "event_url": "https://www.csail.mit.edu/events",
-    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD HCI Seminar - Max Kreminski - Six Fingers on the Author’s Hand Max Kreminski Cornell Tech Part Of HCI Seminar 4:00 P - 5:00 P Location 32-D463",
+    "description": "CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable software? This talk, directed both at those who build software and those who are accountable for it, will explain how.Bio:Daniel Jackson is professor of computer science at MIT, and associate director of CSAIL. For his research in software, he won the ACM SIGSOFT Impact Award, the ACM SIGSOFT Outstanding Research Award and was made an ACM Fellow.He is the lead designer of the Alloy modeling language, and author of Software Abstractions. He chaired a National Academies study on software dependability, and has collaborated on software projects with NASA on air-traffic control, with Massachusetts General Hospital on proton therapy, and with Toyota on autonomous cars.His most recent book, Essence of Software, offers a fresh approach to software design, and shows how thinking about software in terms of concepts and their relationships can lead to more usable and effective software. TBD Visual Computing Seminar: Iskra: A System for Inverse Geometry Processing 12:00 P - 1:00 P Location TBD 32-D463",
     "categories": [
-      "Buildings"
+      "Buildings",
+      "Math"
     ],
     "score": 100,
     "score_reasons": [
@@ -169,7 +170,7 @@
     "source_name": "MCQST Events",
     "source_url": "https://www.mcqst.de/news-and-events/events/",
     "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "25 November 2026 Research Data Management at MCQST: Kick-Off Events A Kick-off Seminar from MCQST's new Data Steward to learn more about how good data management practices can support your research! Read More 8 December 2026 MCQST Colloquium: X-mas edition with Yuhan Liu and Roberto Rizzato MCQST Colloquium | Events MCQST Colloquium | X-mas edition with Yuhan Liu (MPQ) & Roberto Rizzato (TUM)",
+    "description": "25 November 2026 Research Data Management at MCQST: Kick-Off Events A Kick-off Seminar from MCQST's new Data Steward to learn more about how good data management practices can support your research! Read More 8 December 2026 MCQST Colloquium: X-mas edition with Yuhan Liu and Roberto Rizzato MCQST Colloquium | Events MCQST Colloquium | X-mas edition with Yuhan Liu (MPQ) & Roberto Rizzato (TUM) Also seen in: Munich Quantum Center Events",
     "categories": [
       "Quantum"
     ],
@@ -287,6 +288,31 @@
       "local_bonus:+15"
     ],
     "uid_seed": "TUM IAS Wednesday Coffee Talks|02.12.2026|Understanding Europe’s declining Forest Carbon Sink from Space|TUM-IAS Fellow Prof. Dr. Cornelius Senf",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
+    "title": "Gross external damages of water pollution in the United States",
+    "start": "2026-12-09T11:30:00+01:00",
+    "end": null,
+    "timezone": "Europe/Berlin",
+    "speaker": "Daniel Phaneuf",
+    "affiliation": "University of Wisconsin–Madison",
+    "location": "ifo Institute, Think Tank",
+    "online_url": null,
+    "source_name": "TUM SEEM",
+    "source_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "event_url": "https://www.ep.mgt.tum.de/cem/seem-seminar/",
+    "description": "Speaker: Daniel Phaneuf. Affiliation: University of Wisconsin–Madison. ifo Institute, Think Tank",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 75,
+    "score_reasons": [
+      "source_weight:60",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM SEEM|Gross external damages of water pollution in the United States|2026-12-09T11:30:00+01:00",
     "include": true,
     "reject_reasons": []
   },
@@ -579,7 +605,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-16T00:00:00+01:00",
+    "start": "2544-11-17T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -599,7 +625,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-16T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-17T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
