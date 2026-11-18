@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: More Is Different in Alignment: Sociology and Ecology of AI Agents Abstract: In physics\, "more is different" expresses the idea that interactions among many components can give rise to collective behaviors that cannot be understood by study
+DTEND:20261118T210000Z
+DTSTART:20261118T200000Z
+SUMMARY:[AI] More Is Different in Alignment: Sociology and Ecology of AI Agents
+UID:b5a455250bb2f5809c662b4f@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cuEquivariance and the Proteína family of models\, including the latest RFdiffusion4 (RFD4)–Proteína developments. We will discuss how accelerated geometric deep learning and generative AI are enabling scalable\, high-performance protein modeling and the design of novel proteins with tailored structures and functions.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe | Accelerating Biological Discovery with AI — Youssef Nashed Dec 02\, 2026 This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cu
 DTEND:20261202T093000Z
 LOCATION:This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cuEquivariance and the Proteína family of models\, including the latest RFdiffusion4 (RFD4)–Proteína developments. We will discuss how accelerated geometric deep learning and generative AI are enabling scalable\, high-performance protein modeling and the design of novel proteins with tailored structures and functions.
@@ -17,20 +24,12 @@ SUMMARY:[Quantum] Gender and Science: Why and How Does Their Interplay Matter?
 UID:f02b43fa106a0939cb7664f5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Andreas Tolias Nov 18\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers.
-DTEND:20261118T093000Z
-LOCATION:4:30 PM - 5:30 PM
-DTSTART:20261118T080000Z
-SUMMARY:[AI] Marlowe | AI + Data for Science with Andreas Tolias
-UID:b5f78feddf806bc6125dd7ab@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 12:00 PM - 1:15 PM\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; online_bonus:+20\nExcerpt: 2026 AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI Nov 18\, 2026 12:00 PM - 1:15 PM This talk will cover key insights from the third AI100 report\, AI Goes Mainstream: The Scaling Era and the Rise of Generative AI\,
-DTEND:20261118T093000Z
-LOCATION:12:00 PM - 1:15 PM
-DTSTART:20261118T080000Z
-SUMMARY:[AI] AI100 | AI Goes Mainstream: The Scaling Era and the Rise of Generative AI
-UID:a813cef56a6af105bebd4d26@tum-les-calendar
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441118T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441117T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:bacde8b939f8a889fc151444@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 21 October 2027 Peer Group Supervision Follow-Up EDI In this follow-up workshop\, you will reflect on your experiences with peer group supervision since the initial workshop\, share challenges and good practices\, and explore additional consul
@@ -55,14 +54,6 @@ SUMMARY:[Quantum] Research Data Management at MCQST: Kick-Off
 UID:cffd5f395f44d077d90df19d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441117T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441116T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:bbd085306cd1532806cc62e9@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0\nOnline URL: \nSpeaker: Prof. Frédéric Laquai\nAffiliation: \nLocation: CH 26411\nScore: 85\nScore reasons: source_weight:20\; high_impact:+50\; local_bonus:+15\nExcerpt: as part of GDCh Colloquium Speaker: Prof. Frédéric Laquai
 DTEND:20261201T180000Z
 LOCATION:CH 26411
@@ -76,13 +67,6 @@ DTEND:20270211T003000Z
 DTSTART:20270210T230000Z
 SUMMARY:[Quantum] Mentoring Program 2027: Kick-Off Workshop
 UID:438bf6640cfb38aa6b7a34eb@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; high_impact:+50\; institution_signal:+20\nExcerpt: CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development Abstract:&nbsp\;AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technic
-DTEND:20261117T180000Z
-DTSTART:20261117T170000Z
-SUMMARY:[Buildings] CSAIL FORUM with Daniel Jackson: The Key to Agentic Software Development
-UID:b3ffd24af977e986ad4b98cf@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; high_impact:+50\; institution_signal:+20\nExcerpt: GPU-Native Data Management: Memory\, Scheduling\, and Beyond Abstract:GPUs excel at massively parallel computation\, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unp
@@ -145,10 +129,10 @@ SUMMARY:[Quantum] Conflict Regulation and Leading Difficult Conversations in Aca
 UID:3934cd89dbb6d8bf70088fbb@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:quantum\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) Abstract: &nbsp\;We develop a rigorous framework for choosing Gaussian mixture sources for diffusion and flow matching. A Gaussian mixture centered on the observations can
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; institution_signal:+20\; penalty:-25:exam\nExcerpt: Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) Abstract: &nbsp\;We develop a rigorous framework for choosing Gaussian mixture sources for diffusion and flow matching. A Gaussian mixture centered on the observations can
 DTEND:20261119T180000Z
 DTSTART:20261119T170000Z
-SUMMARY:[Math] Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)
+SUMMARY:[AI] Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)
 UID:7cb8f1a3c96dddda0c8b7296@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -179,5 +163,12 @@ DTEND:20270215T003000Z
 DTSTART:20270214T230000Z
 SUMMARY:[Quantum] Inclusive Leadership
 UID:9ae86331ea3b5460e7711c29@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MIT CSAIL Events\nSource URL: https://www.csail.mit.edu/events\nEvent URL: https://www.csail.mit.edu/events\nOnline URL: https://www.csail.mit.edu/events\nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; online_bonus:+20\nExcerpt: [ScaleML] Andy Barry (Generalist): Foundation Models in Robotics Speaker: Andy Barry &nbsp\;Topic: Foundation Models in Robotics &nbsp\;&nbsp\;Date: Thursday\, Nov 19 &nbsp\;Time: 1 PM (ET) &nbsp\;&nbsp\;Zoom: https://mit.zoom.us/j/91697262920 (pa
+DTEND:20261119T190000Z
+DTSTART:20261119T180000Z
+SUMMARY:[Buildings] [ScaleML] Andy Barry (Generalist): Foundation Models in Robotics
+UID:72d2bca0fb4029f72c03c782@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
