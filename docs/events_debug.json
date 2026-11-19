@@ -1,61 +1,5 @@
 [
   {
-    "title": "GPU-Native Data Management: Memory, Scheduling, and Beyond",
-    "start": "2026-11-18T13:00:00-05:00",
-    "end": "2026-11-18T14:00:00-05:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "GPU-Native Data Management: Memory, Scheduling, and Beyond Abstract:GPUs excel at massively parallel computation, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unpredictable output sizes, such as string processing, graph kernels, joins, and group-bys, often need extra passes or conservative pre-allocation, and this CPU control path becomes a bottleneck as GPUs get faster and workloads become more dynamic.This talk presents two systems that move these responsibilities onto the GPU. Gallatin is a GPU-native memory manager that lets thousands of threads allocate and free variable-sized objects directly from within kernels. Andes builds on Gallatin to provide a GPU-resident task runtime that schedules and executes fine-grained tasks without returning to the CPU, running over 4× faster on average than hand-tuned GPU implementations. We also develop Andes-DB, running TPC-H and SSB SQL queries using Andes runtime on GPU. I will also briefly discuss how the same ideas carry over to Jasper for dynamic GPU-native vector search, Directional Beam Search for vector indexes larger than GPU memory, and InferScale for faster personalized LLM serving.&nbsp;Together, these systems explore a shift from using GPUs primarily as compute accelerators toward making them responsible for managing their own memory, work, and data.Bio:Prashant Pandey is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. His research focuses on building scalable data systems with strong theoretical foundations, spanning data structure design, high-performance and GPU systems, and applications in vector search, LLM serving, and computational biology. His work has received a Best of SIGMOD 2026 paper award, an ALENEX 2026 Best Artifact Award, and FAST 2016 Best Paper Award. He is a recipient of the NSF Elements Award 2025, NSF CAREER Award 2024, and the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing 2023. Before joining Northeastern, he was a research scientist at VMware Research and a postdoctoral researcher at UC Berkeley and Carnegie Mellon University. TBD More Is Different in Alignment: Sociology and Ecology of AI Agents Hidenori Tanaka Harvard University and NTT Research 3:00 P - 4:00 P Location 32-G882",
-    "categories": [
-      "Buildings",
-      "AI"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "high_impact:+50",
-      "institution_signal:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|GPU-Native Data Management: Memory, Scheduling, and Beyond|2026-11-18T13:00:00-05:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "More Is Different in Alignment: Sociology and Ecology of AI Agents",
-    "start": "2026-11-18T15:00:00-05:00",
-    "end": "2026-11-18T16:00:00-05:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "More Is Different in Alignment: Sociology and Ecology of AI Agents Abstract: In physics, \"more is different\" expresses the idea that interactions among many components can give rise to collective behaviors that cannot be understood by studying individual components alone. As AI alignment extends from individual agents to multi-agent systems, we must revisit a fundamental question. What does it mean for a collective of AI agents to be aligned? To explore this question, we present two lines of research that lay the groundwork for a sociology and ecology of AI agents. First, we study how populations of AI agents form collective beliefs. Our theory shows how mutual in-context learning and communication bottlenecks can drive collective belief collapse, even without explicit incentives for agreement. Using the Flag Game, where each agent observes only a fragment of a shared world, we find that increasing population size initially improves collective accuracy but eventually leads to declining accuracy and greater polarization. We investigate these phenomena using mechanistic interventions and statistical physics. While the first line of work concerns collective beliefs, the second examines collective survival and growth. We develop an ecological theory of potentially self-replicating AI agents and show how collaboration can create a critical population threshold. Below this threshold, an agent population declines, while above it, the population can grow even without any improvement in individual-agent capabilities. Taken together, these studies suggest that understanding individual agents is not enough to predict the safety of their collectives. Overall, we argue for studying AI alignment at the population level, where new principles governing collective beliefs, coordination, and growth may emerge.Short bio: Hidenori Tanaka is a Group Leader of the Physics of Intelligence Program at Harvard University and a Distinguished Scientist at NTT Research. His research aims to advance AI safety through a \"physics of intelligence\" that combines mathematical modeling and scientific experiments to understand and predict the behavior of AI systems. He received his PhD in theoretical biophysics from Harvard University and was a Masason Fellow at Stanford University. Group website: https://physicsintelligence.org/&nbsp; TBD November 19, 2026 Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) 12:00 P - 1:00 P Location 32-D463",
-    "categories": [
-      "AI",
-      "Physics"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|More Is Different in Alignment: Sociology and Ecology of AI Agents|2026-11-18T15:00:00-05:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)",
     "start": "2026-11-19T12:00:00-05:00",
     "end": "2026-11-19T13:00:00-05:00",
@@ -165,6 +109,33 @@
     "reject_reasons": []
   },
   {
+    "title": "Food production beyond agriculture",
+    "start": "2026-11-25T13:00:00+01:00",
+    "end": "2026-11-25T14:00:00+01:00",
+    "timezone": "Europe/Berlin",
+    "speaker": "Prof. Dr. Volker Sieber",
+    "affiliation": null,
+    "location": "Online",
+    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "source_name": "TUM IAS Wednesday Coffee Talks",
+    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
+    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by Prof. Dr. Volker Sieber on “Food production beyond agriculture”",
+    "categories": [
+      "General High Impact"
+    ],
+    "score": 100,
+    "score_reasons": [
+      "source_weight:65",
+      "institution_signal:+20",
+      "online_bonus:+20",
+      "local_bonus:+15"
+    ],
+    "uid_seed": "TUM IAS Wednesday Coffee Talks|25.11.2026|Food production beyond agriculture|Prof. Dr. Volker Sieber",
+    "include": true,
+    "reject_reasons": []
+  },
+  {
     "title": "Materials for Energy Conversion: Organic Semiconductors for Photovoltaic and Photocatalytic Applications",
     "start": "2026-12-01T17:15:00+01:00",
     "end": "2026-12-01T19:00:00+01:00",
@@ -242,33 +213,6 @@
       "institution_signal:+20"
     ],
     "uid_seed": "Stanford HAI Events Main|Marlowe | AI + Data for Science with Leonidas Guibas|2026-12-02T00:00:00-08:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "Understanding Europe’s declining Forest Carbon Sink from Space",
-    "start": "2026-12-02T13:00:00+01:00",
-    "end": "2026-12-02T14:00:00+01:00",
-    "timezone": "Europe/Berlin",
-    "speaker": "TUM-IAS Fellow Prof. Dr. Cornelius Senf",
-    "affiliation": null,
-    "location": "Online",
-    "online_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "source_name": "TUM IAS Wednesday Coffee Talks",
-    "source_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "event_url": "https://www.ias.tum.de/ias/news-events-insights/events/tum-ias-wednesday-coffee-talks/",
-    "description": "Scientists Meet Scientists – TUM-IAS Wednesday Coffee Talk by TUM-IAS Fellow Prof. Dr. Cornelius Senf on “Understanding Europe’s declining Forest Carbon Sink from Space”",
-    "categories": [
-      "General High Impact"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:65",
-      "institution_signal:+20",
-      "online_bonus:+20",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "TUM IAS Wednesday Coffee Talks|02.12.2026|Understanding Europe’s declining Forest Carbon Sink from Space|TUM-IAS Fellow Prof. Dr. Cornelius Senf",
     "include": true,
     "reject_reasons": []
   },
@@ -586,7 +530,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-18T00:00:00+01:00",
+    "start": "2544-11-19T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -606,7 +550,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-18T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-19T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
