@@ -1,64 +1,5 @@
 [
   {
-    "title": "Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)",
-    "start": "2026-11-19T12:00:00-05:00",
-    "end": "2026-11-19T13:00:00-05:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot) Abstract: &nbsp;We develop a rigorous framework for choosing Gaussian mixture sources for diffusion and flow matching. A Gaussian mixture centered on the observations can be sampled directly near the data, leaving only finer denoising to learn. We characterize this source as the minimum of an entropy-regularized transport objective and relate it to the final part of a Gaussian-to-data Brownian entropic bridge. To retain fewer mixture components, we select a sparse source that preserves the resulting EOT training joint. For mixtures on the original centers with matched variance, a data-derived quadratic controls this joint KL globally at fixed noise and bounded center geometry. Positive moment matching selects a weighted subset of the n observations as mixture centers, with support O((\\log n/ \\log \\log n) d ) and joint KL o(n^{-1}).&nbsp;Speaker: &nbsp;Alex Kokot https://amkokot.github.io/alex_kokot/ TBD [ScaleML] Andy Barry (Generalist): Foundation Models in Robotics Andy Barry Generalist 1:00 P - 2:00 P Location TBD 45-792",
-    "categories": [
-      "AI",
-      "Math"
-    ],
-    "score": 80,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "institution_signal:+20",
-      "penalty:-25:exam"
-    ],
-    "uid_seed": "MIT CSAIL Events|Gaussian Source Coresets for Diffusion and Flow Matching (Alex Kokot)|2026-11-19T12:00:00-05:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
-    "title": "[ScaleML] Andy Barry (Generalist): Foundation Models in Robotics",
-    "start": "2026-11-19T13:00:00-05:00",
-    "end": "2026-11-19T14:00:00-05:00",
-    "timezone": "America/New_York",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": "https://www.csail.mit.edu/events",
-    "source_name": "MIT CSAIL Events",
-    "source_url": "https://www.csail.mit.edu/events",
-    "event_url": "https://www.csail.mit.edu/events",
-    "description": "[ScaleML] Andy Barry (Generalist): Foundation Models in Robotics Speaker: Andy Barry &nbsp;Topic: Foundation Models in Robotics &nbsp;&nbsp;Date: Thursday, Nov 19 &nbsp;Time: 1 PM (ET) &nbsp;&nbsp;Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale) &nbsp;&nbsp;&nbsp;Abstract: &nbsp;Andy Barry, CTO and co-founder of Generalist, discusses the current state of the art in physical AI and robotics. Making the same graphs as in the language model field, we draw comparisons between the fields' arcs and predict what's next for robotics, physical in-context learning, and generally useful general purpose machines. The talk discusses robotics scaling laws (performance that improves predictably with more data and compute), mastery of tasks showing high performance over long periods and many environments, and improvisational intelligence. Our latest results demonstrate a robotics foundation model that can work the way language models do with in-context prompting: show the robot a task once and it does the task on its own. &nbsp;&nbsp;Bio: &nbsp;Andy Barry is the co-founder and CTO of Generalist, a company building general intelligence for the physical world. Before founding Generalist, Andy was a roboticist at Boston Dynamics where he worked on the robot dog Spot and a staff scientist at the Broad Institute where he worked on protein engineering for gene delivery. He completed his PhD at MIT CSAIL in Russ Tedrake's lab. Andy loves to find engineering solutions to all of life's little problems and enjoys flying R/C airplanes in good weather. &nbsp;&nbsp;About Scale ML: &nbsp; &nbsp;Scale ML is a cross-lab graduate student collective focusing on Algorithms That Learn and Scale. It is funded by generous donations from Pulkit Agrawal, Yoon Kim, BVP, and E14 Fund. &nbsp; TBD Synergies Between Proof Complexity and Cryptography Mandar Juvekar Boston University Part Of Algorithms and Complexity (A&C) 4:00 P - 5:00 P Location 32-G575",
-    "categories": [
-      "Buildings",
-      "AI",
-      "Bioengineering"
-    ],
-    "score": 100,
-    "score_reasons": [
-      "source_weight:55",
-      "topic_bonus:+30:artificial intelligence",
-      "topic_bonus:+30:quantum",
-      "high_impact:+50",
-      "institution_signal:+20",
-      "online_bonus:+20"
-    ],
-    "uid_seed": "MIT CSAIL Events|[ScaleML] Andy Barry (Generalist): Foundation Models in Robotics|2026-11-19T13:00:00-05:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Water availability for electrolysis: A case study for Germany in 2045",
     "start": "2026-11-24T11:30:00+01:00",
     "end": null,
@@ -530,7 +471,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-19T00:00:00+01:00",
+    "start": "2544-11-20T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -550,7 +491,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-19T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-20T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }
