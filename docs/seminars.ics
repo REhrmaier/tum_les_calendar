@@ -85,6 +85,14 @@ SUMMARY:[Quantum] Peer Group Supervision â Developing Solutions Together an
 UID:4eb53ee8b3e991ecfa468f65@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441123T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441122T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:59eb0830d2700a982322536b@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Daniel Phaneuf\nAffiliation: University of Wisconsin–Madison\nLocation: ifo Institute\, Think Tank\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Daniel Phaneuf. Affiliation: University of Wisconsin–Madison. ifo Institute\, Think Tank
 DTEND:20261209T120000Z
 LOCATION:ifo Institute\, Think Tank
@@ -134,13 +142,5 @@ DTEND:20270215T003000Z
 DTSTART:20270214T230000Z
 SUMMARY:[Quantum] Inclusive Leadership
 UID:9ae86331ea3b5460e7711c29@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441122T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441121T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:f07866238c93d743034bda43@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
