@@ -39,6 +39,14 @@ SUMMARY:[Quantum] Research Data Management at MCQST: Kick-Off
 UID:cffd5f395f44d077d90df19d@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441124T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441123T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:8b43b2927d9eb86383e9ad45@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0\nOnline URL: \nSpeaker: Prof. Frédéric Laquai\nAffiliation: \nLocation: CH 26411\nScore: 85\nScore reasons: source_weight:20\; high_impact:+50\; local_bonus:+15\nExcerpt: as part of GDCh Colloquium Speaker: Prof. Frédéric Laquai
 DTEND:20261201T180000Z
 LOCATION:CH 26411
@@ -85,14 +93,6 @@ SUMMARY:[Quantum] Peer Group Supervision â Developing Solutions Together an
 UID:4eb53ee8b3e991ecfa468f65@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441123T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441122T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:59eb0830d2700a982322536b@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Daniel Phaneuf\nAffiliation: University of Wisconsin–Madison\nLocation: ifo Institute\, Think Tank\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Daniel Phaneuf. Affiliation: University of Wisconsin–Madison. ifo Institute\, Think Tank
 DTEND:20261209T120000Z
 LOCATION:ifo Institute\, Think Tank
@@ -101,12 +101,12 @@ SUMMARY:[General High Impact] Gross external damages of water pollution in the U
 UID:a2fd52988d5a0823a50bc248@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Franziska Holz\nAffiliation: DIW Berlin & NTNU\nLocation: TUM School of Management\, Room\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Franziska Holz. Affiliation: DIW Berlin & NTNU. TUM School of Management\, Room
-DTEND:20261124T120000Z
-LOCATION:TUM School of Management\, Room
-DTSTART:20261124T103000Z
-SUMMARY:[General High Impact] Water availability for electrolysis: A case study for Germany in 2045 — Franziska Holz
-UID:194bb153a7e17eac7aac8cc1@tum-les-calendar
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktuelles/termine/\nEvent URL: https://www.mep.tum.de/mep/aktuelles/termine/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: TUM MEP\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.
+LOCATION:TUM MEP
+SUMMARY:[General High Impact] EINLADUNG: 11. Wissenstransfer der Geothermie-Allianz Bayern
+UID:e308b0d22a7d858ae805fc83@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Workshop for the Mentoring Program 2027 cohort Read More 22 March - 25 March 2027 SimQuDyn 2026 Conference Events | Conferences
