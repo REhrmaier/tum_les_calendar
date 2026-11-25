@@ -1,30 +1,5 @@
 [
   {
-    "title": "Research Data Management at MCQST: Kick-Off",
-    "start": "2026-11-25T00:00:00+01:00",
-    "end": null,
-    "timezone": "Europe/Berlin",
-    "speaker": null,
-    "affiliation": null,
-    "location": null,
-    "online_url": null,
-    "source_name": "MCQST Events",
-    "source_url": "https://www.mcqst.de/news-and-events/events/",
-    "event_url": "https://www.mcqst.de/news-and-events/events/",
-    "description": "25 November 2026 Research Data Management at MCQST: Kick-Off Events A Kick-off Seminar from MCQST's new Data Steward to learn more about how good data management practices can support your research! Read More 8 December 2026 MCQST Colloquium: X-mas edition with Yuhan Liu and Roberto Rizzato MCQST Colloquium | Events MCQST Colloquium | X-mas edition with Yuhan Liu (MPQ) & Roberto Rizzato (TUM) Also seen in: Munich Quantum Center Events",
-    "categories": [
-      "Quantum"
-    ],
-    "score": 75,
-    "score_reasons": [
-      "source_weight:60",
-      "local_bonus:+15"
-    ],
-    "uid_seed": "MCQST Events|Research Data Management at MCQST: Kick-Off|2026-11-25T00:00:00+01:00",
-    "include": true,
-    "reject_reasons": []
-  },
-  {
     "title": "Food production beyond agriculture",
     "start": "2026-11-25T13:00:00+01:00",
     "end": "2026-11-25T14:00:00+01:00",
@@ -169,10 +144,9 @@
     "source_name": "Stanford HAI Events Main",
     "source_url": "https://hai.stanford.edu/events",
     "event_url": "https://hai.stanford.edu/events",
-    "description": "2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science 2027 Conference on Physics and AI (PhyStat 2027) Conference",
+    "description": "2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science CNDS Symposium 2027: Neural data science across disciplines Jan 19, 2027",
     "categories": [
-      "AI",
-      "Physics"
+      "AI"
     ],
     "score": 75,
     "score_reasons": [
@@ -471,7 +445,7 @@
   },
   {
     "title": "ZEW Mannheim",
-    "start": "2544-11-24T00:00:00+01:00",
+    "start": "2544-11-25T00:00:00+01:00",
     "end": null,
     "timezone": "Europe/Berlin",
     "speaker": "October 27, 2026, 11:30",
@@ -491,7 +465,7 @@
       "high_impact:+50",
       "local_bonus:+15"
     ],
-    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-24T00:00:00+01:00",
+    "uid_seed": "TUM SEEM|ZEW Mannheim|2544-11-25T00:00:00+01:00",
     "include": true,
     "reject_reasons": []
   }

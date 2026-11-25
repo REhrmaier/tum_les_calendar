@@ -2,6 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:tum-les-calendar
 BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 21 October 2027 Peer Group Supervision Follow-Up EDI In this follow-up workshop\, you will reflect on your experiences with peer group supervision since the initial workshop\, share challenges and good practices\, and explore additional consul
+DTEND:20271020T233000Z
+DTSTART:20271020T220000Z
+SUMMARY:[Quantum] Peer Group Supervision Follow-Up
+UID:7649d7c7b35f4d1afbbaaec9@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Leonidas Guibas Dec 02\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers
+DTEND:20261202T093000Z
+LOCATION:4:30 PM - 5:30 PM
+DTSTART:20261202T080000Z
+SUMMARY:[AI] Marlowe | AI + Data for Science with Leonidas Guibas
+UID:ef766469afc070658d8c7512@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Workshop for the Mentoring Program 2027 cohort Read More 22 March - 25 March 2027 SimQuDyn 2026 Conference Events | Conferences
+DTEND:20270308T003000Z
+DTSTART:20270307T230000Z
+SUMMARY:[Quantum] Mentoring Program 2027: You Belong in Quantum
+UID:0af94e672b26cda20872dd6d@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science CNDS Symposium 2027: Neural data science across disciplines Jan 19\, 2027
+DTEND:20261214T093000Z
+LOCATION:4:00 PM - 5:30 PM
+DTSTART:20261214T080000Z
+SUMMARY:[AI] YoungJu Jo | Data-driven Discovery and Control of Neural Computations
+UID:bea93299d1d87287b466c2f1@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 7 April 2027 Conflict Regulation and Leading Difficult Conversations in Academia EDI This interactive workshop equips doctoral researchers and postdocs with practical tools to approach challenging conversations constructively and confidentl
+DTEND:20270406T233000Z
+DTSTART:20270406T220000Z
+SUMMARY:[Quantum] Conflict Regulation and Leading Difficult Conversations in Academia
+UID:3934cd89dbb6d8bf70088fbb@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2027 2027 Conference on Physics and AI (PhyStat 2027) May 24\, 2027 The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data
+DTEND:20270524T083000Z
+LOCATION:The
+DTSTART:20270524T070000Z
+SUMMARY:[AI] 2027 Conference on Physics and AI (PhyStat 2027)
+UID:651a6d02b1cd1148ade842b3@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 10 June 2027 Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills EDI In this workshop\, you will become familiar with the concept\, structure and roles of peer group supervision and put the method into
+DTEND:20270609T233000Z
+DTSTART:20270609T220000Z
+SUMMARY:[Quantum] Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills
+UID:4eb53ee8b3e991ecfa468f65@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cuEquivariance and the Proteína family of models\, including the latest RFdiffusion4 (RFD4)–Proteína developments. We will discuss how accelerated geometric deep learning and generative AI are enabling scalable\, high-performance protein modeling and the design of novel proteins with tailored structures and functions.\nScore: 100\nScore reasons: source_weight:55\; topic_bonus:+30:artificial intelligence\; topic_bonus:+30:quantum\; institution_signal:+20\nExcerpt: 2026 NVIDIA & Marlowe | Accelerating Biological Discovery with AI — Youssef Nashed Dec 02\, 2026 This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cu
 DTEND:20261202T093000Z
 LOCATION:This talk will explore the latest advances in computational protein design and structure prediction\, highlighting NVIDIA technologies such as cuEquivariance and the Proteína family of models\, including the latest RFdiffusion4 (RFD4)–Proteína developments. We will discuss how accelerated geometric deep learning and generative AI are enabling scalable\, high-performance protein modeling and the design of novel proteins with tailored structures and functions.
@@ -17,34 +69,26 @@ SUMMARY:[Quantum] Gender and Science: Why and How Does Their Interplay Matter?
 UID:f02b43fa106a0939cb7664f5@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 21 October 2027 Peer Group Supervision Follow-Up EDI In this follow-up workshop\, you will reflect on your experiences with peer group supervision since the initial workshop\, share challenges and good practices\, and explore additional consul
-DTEND:20271020T233000Z
-DTSTART:20271020T220000Z
-SUMMARY:[Quantum] Peer Group Supervision Follow-Up
-UID:7649d7c7b35f4d1afbbaaec9@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: The\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2027 2027 Conference on Physics and AI (PhyStat 2027) May 24\, 2027 The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data
-DTEND:20270524T083000Z
-LOCATION:The
-DTSTART:20270524T070000Z
-SUMMARY:[AI] 2027 Conference on Physics and AI (PhyStat 2027)
-UID:651a6d02b1cd1148ade842b3@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: 25 November 2026 Research Data Management at MCQST: Kick-Off Events A Kick-off Seminar from MCQST's new Data Steward to learn more about how good data management practices can support your research! Read More 8 December 2026 MCQST Colloquiu
-DTEND:20261125T003000Z
-DTSTART:20261124T230000Z
-SUMMARY:[Quantum] Research Data Management at MCQST: Kick-Off
-UID:cffd5f395f44d077d90df19d@tum-les-calendar
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 20 July 2027 Wellbeing: Supporting Ourselves and Others EDI This interactive workshop helps PhD researchers and postdocs build practical tools for managing their own mental and emotional wellbeing while supporting students\, peers\, and colle
+DTEND:20270719T233000Z
+DTSTART:20270719T220000Z
+SUMMARY:[Quantum] Wellbeing: Supporting Ourselves and Others
+UID:4a9086416f56f4b79e4720b4@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441124T003000Z
+DTEND:25441125T003000Z
 LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441123T230000Z
+DTSTART:25441124T230000Z
 SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:8b43b2927d9eb86383e9ad45@tum-les-calendar
+UID:e9a54dc8f64097d0e9d9b178@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics\, using classical and quantum simulation to push beyond cl
+DTEND:20270325T003000Z
+DTSTART:20270324T230000Z
+SUMMARY:[Quantum] SimQuDyn 2026 Conference
+UID:92ff555fe03701871eb6a9bc@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: TUM Natural Sciences Events\nSource URL: https://www.nat.tum.de/en/nat/latest/events/\nEvent URL: https://api.srv.nat.tum.de/api/v1/course/events/ical?catalog_tag=colloquia_nat&language=en&show_empty=false&include_description=true&include_html=false&limit=50&offset=0\nOnline URL: \nSpeaker: Prof. Frédéric Laquai\nAffiliation: \nLocation: CH 26411\nScore: 85\nScore reasons: source_weight:20\; high_impact:+50\; local_bonus:+15\nExcerpt: as part of GDCh Colloquium Speaker: Prof. Frédéric Laquai
@@ -53,6 +97,21 @@ LOCATION:CH 26411
 DTSTART:20261201T161500Z
 SUMMARY:[Energy] Materials for Energy Conversion: Organic Semiconductors for Photovoltaic and Photocatalytic Applications — Prof. Frédéric Laquai
 UID:9d86adba60dd4d8bfd47700e@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Daniel Phaneuf\nAffiliation: University of Wisconsin–Madison\nLocation: ifo Institute\, Think Tank\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Daniel Phaneuf. Affiliation: University of Wisconsin–Madison. ifo Institute\, Think Tank
+DTEND:20261209T120000Z
+LOCATION:ifo Institute\, Think Tank
+DTSTART:20261209T103000Z
+SUMMARY:[General High Impact] Gross external damages of water pollution in the United States — Daniel Phaneuf
+UID:a2fd52988d5a0823a50bc248@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 15 February 2027 Inclusive Leadership EDI In this interactive workshop\, participants will explore how unconscious bias\, privilege\, and structural inequalities influence everyday experiences in academia. Read More 8 March 2027 Mentoring Prog
+DTEND:20270215T003000Z
+DTSTART:20270214T230000Z
+SUMMARY:[Quantum] Inclusive Leadership
+UID:9ae86331ea3b5460e7711c29@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 11 February 2027 Mentoring Program 2027: Kick-Off Workshop EDI Workshop for the Mentoring Program 2027 cohort. Read More 15 February 2027 Inclusive Leadership EDI In this interactive workshop\, participants will explore how unconscious bias\,
@@ -70,77 +129,11 @@ SUMMARY:[General High Impact] Food production beyond agriculture — Prof. Dr. V
 UID:a6ef76d07e84015b36978948@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:30 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 Marlowe | AI + Data for Science with Leonidas Guibas Dec 02\, 2026 4:30 PM - 5:30 PM Sessions run Wednesdays from 4:30–5:30 PM in CoDa E160. Each session features a different Stanford speaker\; talk titles are announced by the organizers
-DTEND:20261202T093000Z
-LOCATION:4:30 PM - 5:30 PM
-DTSTART:20261202T080000Z
-SUMMARY:[AI] Marlowe | AI + Data for Science with Leonidas Guibas
-UID:ef766469afc070658d8c7512@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Stanford HAI Events Main\nSource URL: https://hai.stanford.edu/events\nEvent URL: https://hai.stanford.edu/events\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: 4:00 PM - 5:30 PM\nScore: 75\nScore reasons: source_weight:55\; institution_signal:+20\nExcerpt: 2026 YoungJu Jo | Data-driven Discovery and Control of Neural Computations Dec 14\, 2026 4:00 PM - 5:30 PM A Center for Neural Data Science Seminar Series Data Science 2027 Conference on Physics and AI (PhyStat 2027) Conference
-DTEND:20261214T093000Z
-LOCATION:4:00 PM - 5:30 PM
-DTSTART:20261214T080000Z
-SUMMARY:[AI] YoungJu Jo | Data-driven Discovery and Control of Neural Computations
-UID:bea93299d1d87287b466c2f1@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 10 June 2027 Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills EDI In this workshop\, you will become familiar with the concept\, structure and roles of peer group supervision and put the method into
-DTEND:20270609T233000Z
-DTSTART:20270609T220000Z
-SUMMARY:[Quantum] Peer Group Supervision â Developing Solutions Together and Strengthening Reflective Skills
-UID:4eb53ee8b3e991ecfa468f65@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: Daniel Phaneuf\nAffiliation: University of Wisconsin–Madison\nLocation: ifo Institute\, Think Tank\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Speaker: Daniel Phaneuf. Affiliation: University of Wisconsin–Madison. ifo Institute\, Think Tank
-DTEND:20261209T120000Z
-LOCATION:ifo Institute\, Think Tank
-DTSTART:20261209T103000Z
-SUMMARY:[General High Impact] Gross external damages of water pollution in the United States — Daniel Phaneuf
-UID:a2fd52988d5a0823a50bc248@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270304
 DESCRIPTION:Source: TUM MEP Termine\nSource URL: https://www.mep.tum.de/mep/aktuelles/termine/\nEvent URL: https://www.mep.tum.de/mep/aktuelles/termine/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: TUM MEP\nScore: 75\nScore reasons: source_weight:60\; local_bonus:+15\nExcerpt: Wir laden Sie ein\, bei den nächsten Veranstaltungen des MEP dabei zu sein.
 LOCATION:TUM MEP
 SUMMARY:[General High Impact] EINLADUNG: 11. Wissenstransfer der Geothermie-Allianz Bayern
 UID:e308b0d22a7d858ae805fc83@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; local_bonus:+15\nExcerpt: 8 March 2027 Mentoring Program 2027: You Belong in Quantum EDI Workshop for the Mentoring Program 2027 cohort Read More 22 March - 25 March 2027 SimQuDyn 2026 Conference Events | Conferences
-DTEND:20270308T003000Z
-DTSTART:20270307T230000Z
-SUMMARY:[Quantum] Mentoring Program 2027: You Belong in Quantum
-UID:0af94e672b26cda20872dd6d@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\nExcerpt: 7 April 2027 Conflict Regulation and Leading Difficult Conversations in Academia EDI This interactive workshop equips doctoral researchers and postdocs with practical tools to approach challenging conversations constructively and confidentl
-DTEND:20270406T233000Z
-DTSTART:20270406T220000Z
-SUMMARY:[Quantum] Conflict Regulation and Leading Difficult Conversations in Academia
-UID:3934cd89dbb6d8bf70088fbb@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; institution_signal:+20\nExcerpt: 20 July 2027 Wellbeing: Supporting Ourselves and Others EDI This interactive workshop helps PhD researchers and postdocs build practical tools for managing their own mental and emotional wellbeing while supporting students\, peers\, and colle
-DTEND:20270719T233000Z
-DTSTART:20270719T220000Z
-SUMMARY:[Quantum] Wellbeing: Supporting Ourselves and Others
-UID:4a9086416f56f4b79e4720b4@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; high_impact:+50\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 25 March 2027 SimQuDyn 2026 Conference Events | Conferences SimQuDyn brings together researchers from academia and industry to explore far-from-equilibrium quantum many-body dynamics\, using classical and quantum simulation to push beyond cl
-DTEND:20270325T003000Z
-DTSTART:20270324T230000Z
-SUMMARY:[Quantum] SimQuDyn 2026 Conference
-UID:92ff555fe03701871eb6a9bc@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 100\nScore reasons: source_weight:60\; topic_bonus:+30:quantum\; institution_signal:+20\; local_bonus:+15\; penalty:-15:weak_title_no_speaker\nExcerpt: 15 February 2027 Inclusive Leadership EDI In this interactive workshop\, participants will explore how unconscious bias\, privilege\, and structural inequalities influence everyday experiences in academia. Read More 8 March 2027 Mentoring Prog
-DTEND:20270215T003000Z
-DTSTART:20270214T230000Z
-SUMMARY:[Quantum] Inclusive Leadership
-UID:9ae86331ea3b5460e7711c29@tum-les-calendar
 END:VEVENT
 END:VCALENDAR
