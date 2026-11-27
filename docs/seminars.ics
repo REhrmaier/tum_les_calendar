@@ -62,14 +62,6 @@ SUMMARY:[AI] NVIDIA & Marlowe | Accelerating Biological Discovery with AI — Yo
 UID:8eff43b13eb6a9fce4bcb7a0@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
-DTEND:25441126T003000Z
-LOCATION:Playing with fire: Carbon prices and the waste management trade-off
-DTSTART:25441125T230000Z
-SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
-UID:68e494bc2a0a2337336faf7d@tum-les-calendar
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 3 May 2027 Gender and Science: Why and How Does Their Interplay Matter? EDI Prof. Dr. Paula Irene Villa Braslavskys research explores gender\, science and technology\, the body\, biopolitics\, care\, and social inequality\, with a particular inte
 DTEND:20270502T233000Z
 DTSTART:20270502T220000Z
@@ -112,6 +104,14 @@ DTEND:20270215T003000Z
 DTSTART:20270214T230000Z
 SUMMARY:[Quantum] Inclusive Leadership
 UID:9ae86331ea3b5460e7711c29@tum-les-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: TUM SEEM\nSource URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nEvent URL: https://www.ep.mgt.tum.de/cem/seem-seminar/\nOnline URL: \nSpeaker: October 27\, 2026\, 11:30\nAffiliation: Eline Schoonjans\nLocation: Playing with fire: Carbon prices and the waste management trade-off\nScore: 100\nScore reasons: source_weight:60\; high_impact:+50\; local_bonus:+15\nExcerpt: Speaker: October 27\, 2026\, 11:30. Affiliation: Eline Schoonjans. Playing with fire: Carbon prices and the waste management trade-off
+DTEND:25441127T003000Z
+LOCATION:Playing with fire: Carbon prices and the waste management trade-off
+DTSTART:25441126T230000Z
+SUMMARY:[General High Impact] ZEW Mannheim — October 27\, 2026\, 11:30
+UID:6a6a37a3948a17ec3922cc84@tum-les-calendar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: MCQST Events\nSource URL: https://www.mcqst.de/news-and-events/events/\nEvent URL: https://www.mcqst.de/news-and-events/events/\nOnline URL: \nSpeaker: \nAffiliation: \nLocation: \nScore: 80\nScore reasons: source_weight:60\; institution_signal:+20\nExcerpt: 11 February 2027 Mentoring Program 2027: Kick-Off Workshop EDI Workshop for the Mentoring Program 2027 cohort. Read More 15 February 2027 Inclusive Leadership EDI In this interactive workshop\, participants will explore how unconscious bias\,
